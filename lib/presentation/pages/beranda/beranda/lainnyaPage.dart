@@ -225,7 +225,7 @@ class _LainnyaPageState extends State<LainnyaPage> {
               width: MediaQuery.of(context).size.width > 600 ? 70.r : 52.r,
               decoration: BoxDecoration(
                   borderRadius: BorderRadius.circular(4.r),
-                  color: Colors.black,
+                  color: Colors.green,
                   boxShadow: shadow3),
               child: InkWell(
                 onTap: () => isEdit
@@ -288,7 +288,7 @@ class _LainnyaPageState extends State<LainnyaPage> {
                               ? green3
                               : neutral20
                           : blue4
-                      : white,
+                      : green,
                   borderRadius: BorderRadius.circular(4.r),
                   boxShadow: shadow3),
               child: InkWell(
