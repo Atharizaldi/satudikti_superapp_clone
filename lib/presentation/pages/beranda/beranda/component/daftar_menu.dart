@@ -38,7 +38,7 @@ Widget daftarMenu(BuildContext context, state) {
                 child: InkEffect(
                   boxDecoration: BoxDecoration(
                       borderRadius: BorderRadius.circular(5.r),
-                      color: Colors.purple),
+                      color: Colors.green),
                   onTap: () => onClickMenu(context, menuItems, state),
                   child: Image.asset(
                     menuItems.menuImage,
