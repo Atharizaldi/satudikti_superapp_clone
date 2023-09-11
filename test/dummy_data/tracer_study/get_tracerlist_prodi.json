@@ -1,0 +1,21 @@
+{
+  "data": [
+    {
+      "id_jenjang_didik": "30",
+      "id_sms": "5028F1E9-E954-4F62-9244-BAB2C3E3A475",
+      "id_sp": "0D1E63E9-CBFB-4546-A242-875C310083A5",
+      "kode_prodi": "57201",
+      "kode_pt": "001002",
+      "nama_prodi": "Sistem Informasi"
+    },
+    {
+      "id_jenjang_didik": "35",
+      "id_sms": "7B69A080-08F3-4532-A584-FADAE2F287C0",
+      "id_sp": "0D1E63E9-CBFB-4546-A242-875C310083A5",
+      "kode_prodi": "55101",
+      "kode_pt": "001002",
+      "nama_prodi": "Teknologi Informasi"
+    }
+  ],
+  "message": "ok"
+}

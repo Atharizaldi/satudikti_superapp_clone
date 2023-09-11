@@ -1,0 +1,27 @@
+{
+  "message": "Data Berhasil Didapatkan!",
+  "status": 200,
+  "data": [
+    {
+      "id": 133,
+      "id_program": 7,
+      "judul": "Program Magang Buka Kesempatan Mahasiswa “Naik Kelas”",
+      "author": "Kai Pamungkas",
+      "tanggal": "2023-04-18 07:03:53",
+      "n_likes": 0,
+      "n_komentar": 0,
+      "file_cover": "a"
+    },
+    {
+      "id": 92,
+      "id_program": 7,
+      "judul": "Mahasiswa MSIB Batch 1 dan Batch 3 Mengikuti Acara Industrial Transformation ASIA-PACIFIC 2022 Singapura",
+      "author": "Gina",
+      "tanggal": "2022-10-20 09:37:32",
+      "n_likes": 2,
+      "n_komentar": 0,
+      "file_cover": "a"
+    }
+    
+  ]
+}

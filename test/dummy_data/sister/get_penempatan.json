@@ -1,0 +1,136 @@
+{
+    "message": "Data berhasil didapatkan!",
+    "status": 200,
+    "data": {
+        "penempatan": [
+            {
+                "nidn": null,
+                "status_kepegawaian": "PNS",
+                "ikatan_kerja": "Dosen Tetap",
+                "jenjang_didik": null,
+                "nm_prodi": "Kimia",
+                "nm_pt": "Universitas Brawijaya",
+                "tmt_sk_penugasan": "1992-03-01",
+                "tgl_keluar": null,
+                "jenis_keluar": null
+            },
+            {
+                "nidn": null,
+                "status_kepegawaian": "PNS",
+                "ikatan_kerja": "Dosen Tetap",
+                "jenjang_didik": null,
+                "nm_prodi": null,
+                "nm_pt": "Sekolah Tinggi Ilmu Kesehatan Maharani",
+                "tmt_sk_penugasan": "1970-01-01",
+                "tgl_keluar": null,
+                "jenis_keluar": null
+            }
+        ],
+        "jabatan_fungsional": [
+            {
+                "jabfung": "Lektor Kepala",
+                "sk_jabfung": "69011/A4.5/KP/2010",
+                "tmt_sk_jabfung": "2010-08-01"
+            },
+            {
+                "jabfung": "Lektor",
+                "sk_jabfung": "1716/PT13.H/C2/1998",
+                "tmt_sk_jabfung": "1998-08-01"
+            },
+            {
+                "jabfung": "Asisten Ahli",
+                "sk_jabfung": "1492/PT13.H/C2/1996",
+                "tmt_sk_jabfung": "1996-06-01"
+            }
+        ],
+        "kepangkatan": [
+            {
+                "pangkat_gol": {
+                    "golongan": "III/a",
+                    "pangkat": "Penata Muda"
+                },
+                "sk_pangkat": "4343/PT13.H15/C3/1993",
+                "tmt_sk_pangkat": "1994-01-01"
+            },
+            {
+                "pangkat_gol": {
+                    "golongan": "III/b",
+                    "pangkat": "Penata Muda Tk. I"
+                },
+                "sk_pangkat": "869/PT13.H15/C4/1997",
+                "tmt_sk_pangkat": "1997-04-01"
+            },
+            {
+                "pangkat_gol": {
+                    "golongan": "III/c",
+                    "pangkat": "Penata"
+                },
+                "sk_pangkat": "635/J10.11/KP/1999",
+                "tmt_sk_pangkat": "1999-04-01"
+            },
+            {
+                "pangkat_gol": {
+                    "golongan": "IV/a",
+                    "pangkat": "Pembina"
+                },
+                "sk_pangkat": " 27011/A2.7/KP/2005",
+                "tmt_sk_pangkat": "2005-04-01"
+            },
+            {
+                "pangkat_gol": {
+                    "golongan": "IV/b",
+                    "pangkat": "Pembina Tk. I"
+                },
+                "sk_pangkat": "106422/A4.5/KP/2010",
+                "tmt_sk_pangkat": "2010-10-01"
+            }
+        ],
+        "inpassing": [
+            {
+                "pangkat_gol": {
+                    "golongan": "III/a",
+                    "pangkat": "Penata Muda"
+                },
+                "sk_inpassing": null,
+                "tgl_sk_inpassing": null,
+                "tmt_sk_inpassing": null
+            },
+            {
+                "pangkat_gol": {
+                    "golongan": "III/b",
+                    "pangkat": "Penata Muda Tk. I"
+                },
+                "sk_inpassing": null,
+                "tgl_sk_inpassing": null,
+                "tmt_sk_inpassing": null
+            },
+            {
+                "pangkat_gol": {
+                    "golongan": "III/c",
+                    "pangkat": "Penata"
+                },
+                "sk_inpassing": null,
+                "tgl_sk_inpassing": null,
+                "tmt_sk_inpassing": null
+            },
+            {
+                "pangkat_gol": {
+                    "golongan": "IV/a",
+                    "pangkat": "Pembina"
+                },
+                "sk_inpassing": null,
+                "tgl_sk_inpassing": null,
+                "tmt_sk_inpassing": null
+            },
+            {
+                "pangkat_gol": {
+                    "golongan": "IV/b",
+                    "pangkat": "Pembina Tk. I"
+                },
+                "sk_inpassing": null,
+                "tgl_sk_inpassing": null,
+                "tmt_sk_inpassing": null
+            }
+        ]
+    }
+}

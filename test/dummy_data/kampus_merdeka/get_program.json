@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": 12,
+      "nama_kegiatan": "Bangkit by Google, GoTo, and Traveloka",
+      "deskripsi": "Program kesiapan karier spesifik dengan 3 pilihan program, yaitu Machine Learning, Mobile Development, dan Cloud Computing.",
+      "is_running": 0,
+      "start_date": "2021-11-26",
+      "end_date": "2022-01-14",
+      "image": "public/assets/images/kampus-merdeka/bangkit.png",
+      "link_url": "https://registration.bangkit.academy/"
+    },
+    {
+      "id": 7,
+      "nama_kegiatan": "Indonesian International Student Mobility Awards",
+      "deskripsi": "Program pertukaran dengan universitas lain dari seluruh dunia untuk bertukar budaya.",
+      "is_running": 0,
+      "start_date": "2021-05-10",
+      "end_date": "2021-05-22",
+      "image": "public/assets/images/kampus-merdeka/iisma.png",
+      "link_url": "https://site.iisma.id/"
+    }
+    
+  ]
+}

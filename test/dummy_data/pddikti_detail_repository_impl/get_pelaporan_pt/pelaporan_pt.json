@@ -1,0 +1,14 @@
+{
+    "message": "Data berhasil didapatkan!",
+    "data": {
+        "pelaporan": {
+            "kode_pt": "001002  ",
+            "jln": "Jalan Salemba Raya 4 ",
+            "nama_pt": "Universitas Indonesia",
+            "provinsi_pt": "Prov. D.K.I. Jakarta",
+            "kab_kota_pt": "Kota Jakarta Pusat",
+            "kecamatan_pt": "Tidak Diisi",
+            "tgl_berdiri_pt": "1950-02-02"
+        }
+    }
+}

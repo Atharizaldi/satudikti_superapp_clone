@@ -1,0 +1,39 @@
+{
+    "message": "Data berhasil didapatkan!",
+    "status": 200,
+    "data": {
+        "detail_book": {
+            "id_book": "fd1a3bca-f9e5-44e7-a5d9-05c915e0ce30",
+            "judul": "Menawan Edisi 1",
+            "sinopsis": "Majalah ini diharapkan dapat membuka wawasan dan menjadi inspirasi bagi para pembaca. Edisi Pertama ini menyajikan berbagai pandangan para ahli yang mempunyai keparakan dalam bidang Kekayaan Intelektual.",
+            "rating": 5,
+            "jumlah_unduh": 0,
+            "jumlah_baca": 0,
+            "id_stat_publikasi": 2,
+            "id_kat_publikasi": 4,
+            "uri_file_cover": {
+                "nama_dokumen": "Cover Majalah Menawan.jpg",
+                "file_path": "/v2/gmagz/books/file/Cover%20Majalah%20Menawan.jpg"
+            },
+            "uri_file_majalah": {
+                "nama_dokumen": "Majalah Menawan_MIN2.pdf",
+                "file_path": "/v2/gmagz/books/file/Majalah%20Menawan_MIN2.pdf"
+            },
+            "total_review": 2
+        },
+        "review": [
+            {
+                "nama_pengguna": "gapuspitasari",
+                "rating": 5,
+                "comment": "top",
+                "create_date": "2018-12-10 15:34:25"
+            },
+            {
+                "nama_pengguna": "gapuspitasari",
+                "rating": 5,
+                "comment": "top belmawa",
+                "create_date": "2018-12-11 22:56:24"
+            }
+        ]
+    }
+}

@@ -1,0 +1,111 @@
+{
+    "message": "Data berhasil didapatkan!",
+    "data": {
+        "agregat_dosen": {
+            "dosen_tetap": {
+                "registrasi": [
+                    {
+                        "nama": "NUP",
+                        "jumlah_dosen": 13
+                    },
+                    {
+                        "nama": "NIDN",
+                        "jumlah_dosen": 91
+                    }
+                ],
+                "jabatan": [
+                    {
+                        "nama": "Tidak Ada Jabatan",
+                        "jumlah_dosen": 1
+                    },
+                    {
+                        "nama": "Asisten Ahli",
+                        "jumlah_dosen": 2
+                    },
+                    {
+                        "nama": "Lektor",
+                        "jumlah_dosen": 1
+                    },
+                    {
+                        "nama": "Lektor Kepala",
+                        "jumlah_dosen": 4
+                    },
+                    {
+                        "nama": "Profesor",
+                        "jumlah_dosen": 2
+                    }
+                ],
+                "jenjang": [
+                    {
+                        "nama": "S1",
+                        "jumlah_dosen": 1
+                    },
+                    {
+                        "nama": "S2",
+                        "jumlah_dosen": 1
+                    },
+                    {
+                        "nama": "S3",
+                        "jumlah_dosen": 1
+                    },
+                    {
+                        "nama": "",
+                        "jumlah_dosen": 1
+                    }
+                ]
+            },
+            "dosen_tidak_tetap": {
+                "registrasi": [
+                    {
+                        "nama": "NUP",
+                        "jumlah_dosen": 13
+                    },
+                    {
+                        "nama": "NIDN",
+                        "jumlah_dosen": 91
+                    },
+                    {
+                        "nama": "NIDK",
+                        "jumlah_dosen": 1
+                    }
+                ],
+                "jabatan": [
+                    {
+                        "nama": "Asisten Ahli",
+                        "jumlah_dosen": 1
+                    },
+                    {
+                        "nama": "Profesor",
+                        "jumlah_dosen": 1
+                    },
+                    {
+                        "nama": "Lektor",
+                        "jumlah_dosen": 1
+                    },
+                    {
+                        "nama": "Tidak Ada Jabatan",
+                        "jumlah_dosen": 1
+                    }
+                ],
+                "jenjang": [
+                    {
+                        "nama": "S1",
+                        "jumlah_dosen": 1
+                    },
+                    {
+                        "nama": "S3",
+                        "jumlah_dosen": 1
+                    },
+                    {
+                        "nama": "S2",
+                        "jumlah_dosen": 1
+                    },
+                    {
+                        "nama": "",
+                        "jumlah_dosen": 1
+                    }
+                ]
+            }
+        }
+    }
+}

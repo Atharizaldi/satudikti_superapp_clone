@@ -1,0 +1,27 @@
+{
+    "message": "Data berhasil didapatkan!",
+    "data": {
+        "tableau": [
+            {
+                "tableau_key": "pddikti_pt",
+                "module_atribut": "pt",
+                "module_value": 4515
+            },
+            {
+                "tableau_key": "pddikti_prodi",
+                "module_atribut": "prodi",
+                "module_value": 37523
+            },
+            {
+                "tableau_key": "pddikti_dosen",
+                "module_atribut": "dosen",
+                "module_value": 298450
+            },
+            {
+                "tableau_key": "pddikti_mahasiswa",
+                "module_atribut": "mahasiswa",
+                "module_value": 9029940
+            }
+        ]
+    }
+}

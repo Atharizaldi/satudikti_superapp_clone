@@ -1,0 +1,149 @@
+{
+  "data": [
+    {
+      "kode_provinsi": "20000",
+      "provinsi": "Prov. Jawa Barat"
+    },
+    {
+      "kode_provinsi": "50000",
+      "provinsi": "Prov. Jawa Timur"
+    },
+    {
+      "kode_provinsi": "90000",
+      "provinsi": "Prov. Riau"
+    },
+    {
+      "kode_provinsi": "100000",
+      "provinsi": "Prov. Jambi"
+    },
+    {
+      "kode_provinsi": "200000",
+      "provinsi": "Prov. Sulawesi Tenggara"
+    },
+    {
+      "kode_provinsi": "210000",
+      "provinsi": "Prov. Maluku"
+    },
+    {
+      "kode_provinsi": "320000",
+      "provinsi": "Prov. Papua Barat"
+    },
+    {
+      "kode_provinsi": "330000",
+      "provinsi": "Prov. Sulawesi Barat"
+    },
+    {
+      "kode_provinsi": "350000",
+      "provinsi": "Luar Negeri"
+    },
+    {
+      "kode_provinsi": "300000",
+      "provinsi": "Prov. Gorontalo"
+    },
+    {
+      "kode_provinsi": "80000",
+      "provinsi": "Prov. Sumatera Barat"
+    },
+    {
+      "kode_provinsi": "180000",
+      "provinsi": "Prov. Sulawesi Tengah"
+    },
+    {
+      "kode_provinsi": "190000",
+      "provinsi": "Prov. Sulawesi Selatan"
+    },
+    {
+      "kode_provinsi": "270000",
+      "provinsi": "Prov. Maluku Utara"
+    },
+    {
+      "kode_provinsi": "280000",
+      "provinsi": "Prov. Banten"
+    },
+    {
+      "kode_provinsi": "70000",
+      "provinsi": "Prov. Sumatera Utara"
+    },
+    {
+      "kode_provinsi": "170000",
+      "provinsi": "Prov. Sulawesi Utara"
+    },
+    {
+      "kode_provinsi": "250000",
+      "provinsi": "Prov. Papua"
+    },
+    {
+      "kode_provinsi": "260000",
+      "provinsi": "Prov. Bengkulu"
+    },
+    {
+      "kode_provinsi": "40000",
+      "provinsi": "Prov. D.I. Yogyakarta"
+    },
+    {
+      "kode_provinsi": "60000",
+      "provinsi": "Prov. Aceh"
+    },
+    {
+      "kode_provinsi": "240000",
+      "provinsi": "Prov. Nusa Tenggara Timur"
+    },
+    {
+      "kode_provinsi": "110000",
+      "provinsi": "Prov. Sumatera Selatan"
+    },
+    {
+      "kode_provinsi": "30000",
+      "provinsi": "Prov. Jawa Tengah"
+    },
+    {
+      "kode_provinsi": "290000",
+      "provinsi": "Prov. Kepulauan Bangka Belitung"
+    },
+    {
+      "kode_provinsi": "120000",
+      "provinsi": "Prov. Lampung"
+    },
+    {
+      "kode_provinsi": "130000",
+      "provinsi": "Prov. Kalimantan Barat"
+    },
+    {
+      "kode_provinsi": "340000",
+      "provinsi": "Prov. Kalimantan Utara"
+    },
+    {
+      "kode_provinsi": "310000",
+      "provinsi": "Prov. Kepulauan Riau"
+    },
+    {
+      "kode_provinsi": "160000",
+      "provinsi": "Prov. Kalimantan Timur"
+    },
+    {
+      "kode_provinsi": "230000",
+      "provinsi": "Prov. Nusa Tenggara Barat"
+    },
+    {
+      "kode_provinsi": "140000",
+      "provinsi": "Prov. Kalimantan Tengah"
+    },
+    {
+      "kode_provinsi": "150000",
+      "provinsi": "Prov. Kalimantan Selatan"
+    },
+    {
+      "kode_provinsi": "220000",
+      "provinsi": "Prov. Bali"
+    },
+    {
+      "kode_provinsi": "10000",
+      "provinsi": "Prov. D.K.I. Jakarta"
+    },
+    {
+      "kode_provinsi": "999999",
+      "provinsi": "Luar Negeri"
+    }
+  ],
+  "message": "ok"
+}

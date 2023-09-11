@@ -1,0 +1,10 @@
+{
+    "data": {
+        "page": 1,
+        "pages": 0,
+        "row_count": 0,
+        "limit": 10,
+        "list_beasiswa": []
+    },
+    "message": "success"
+}

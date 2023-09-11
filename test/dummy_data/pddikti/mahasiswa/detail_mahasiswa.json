@@ -1,0 +1,15 @@
+{
+    "message": "Data berhasil didapatkan!",
+    "data": {
+        "mahasiswa": [
+            {
+                "nm_pd": "MUHAMMAD",
+                "nipd": "212061013         ",
+                "nama_prodi": "Sistem Informasi",
+                "nama_pt": "STMIK Muhammad Husni Thamrin",
+                "npsn": "033127  ",
+                "kode_prodi": "57201"
+            }
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+
+{
+    "message": "Get list books sukses",
+    "status": 200,
+    "data": {
+        "list_book": [
+            {
+                "id_book": "fd1a3bca-f9e5-44e7-a5d9-05c915e0ce30",
+                "id_kat_publikasi": 4,
+                "judul": "Menawan Edisi 1",
+                "sinopsis": "Majalah ini diharapkan dapat membuka wawasan dan menjadi inspirasi bagi para pembaca. Edisi Pertama ini menyajikan berbagai pandangan para ahli yang mempunyai keparakan dalam bidang Kekayaan Intelektual.",
+                "tahun": null,
+                "rating": 5,
+                "total_review": 2,
+                "id_stat_publikasi": 2,
+                "uri_cover": {
+                    "nama_dokumen": "Cover Majalah Menawan.jpg",
+                    "file_path": "/v2/gmagz/books/file/Cover%20Majalah%20Menawan.jpg"
+                }
+            },
+            {
+                "id_book": "7c8bbcc2-0159-4d56-a173-2a4d41551440",
+                "id_kat_publikasi": 4,
+                "judul": "Menawan Edisi II 2019",
+                "sinopsis": "Dalam edisi MENAWAN kali ini kami mencoba untuk menyajikan tulisan-tulisan ilmiah yang dikemas dengan gaya penulisan populer agar masyarakat awam lebih mudah memahaminya, mulai dari sistem mitigasi bencana, tsunami purba, dan beberapa hasil riset kebencanaan lainnya yang ditulis oleh para pakar dari BMKG, BNPB, ITB, dan lainnya. Dalam edisi ini juga kami mencoba menampilkan bagaimana kondisi riset kebencanaan saat ini dan bagaimana sebaiknya ke depan dengan mengambil contoh sukses dari UPT Mitigasi Bencana Universitas Syiah Kuala (TDMRC) yang telah berhasil menjadi Pusat Unggulan Iptek Nasional.",
+                "tahun": null,
+                "rating": 4,
+                "total_review": 6,
+                "id_stat_publikasi": 2,
+                "uri_cover": {
+                    "nama_dokumen": "Cover Menawan.jpg",
+                    "file_path": "/v2/gmagz/books/file/Cover%20Menawan.jpg"
+                }
+            }
+        ],
+        "page": 1,
+        "item": 10,
+        "row_count": 2,
+        "total_row_count": 2
+    }
+}

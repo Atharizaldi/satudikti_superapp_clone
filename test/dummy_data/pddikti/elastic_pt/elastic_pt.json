@@ -1,0 +1,36 @@
+{
+    "current_page": 1,
+    "data": {
+        "pt": [
+            {
+                "id": "REUyQ0Y5MTAtMUI5OC00RTQ4LUE2NjUtNENBOEY2MDA1MjU5",
+                "nama": "Universitas Hasanuddin",
+                "singkatan": "Unhas",
+                "akreditas": "Unggul",
+                "provinsi": "Kota Makassar - Prov. Sulawesi Selatan - Indonesia",
+                "lintang": -5.1310553,
+                "bujur": 119.484725,
+                "jln": "Jl Perintis Kemerdekaan Km 10 Tamalanrea",
+                "logo": "",
+                "npsn": "001005  ",
+                "website": "www.unhas.ac.id",
+                "no_tel": "0411-586200",
+                "jumlah_prodi": 227,
+                "rasio": [
+                    {
+                        "smt": "20181",
+                        "jmldosen": 3551,
+                        "jmlmhs": 32178
+                    },
+                    {
+                        "smt": "20191",
+                        "jmldosen": 4007,
+                        "jmlmhs": 35572
+                    }
+                ]
+            }
+        ]
+    },
+    "max_page": 1,
+    "message": "Data berhasil didapatkan!"
+}

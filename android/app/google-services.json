@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "317480176733",
+    "project_id": "satu-dikti-live",
+    "storage_bucket": "satu-dikti-live.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317480176733:android:73ab2cc9c80bac780a51b4",
+        "android_client_info": {
+          "package_name": "id.satudikti.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317480176733-k6g8unucp07a8lsg9dho1nfrn61tj5kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNBlAUV1wfxaPp5M0Qm_PqyjHpKR-VGO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317480176733-k6g8unucp07a8lsg9dho1nfrn61tj5kv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "317480176733-79j9kgivh1a7udsrffnnvhg797qt36ej.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.satudikti.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

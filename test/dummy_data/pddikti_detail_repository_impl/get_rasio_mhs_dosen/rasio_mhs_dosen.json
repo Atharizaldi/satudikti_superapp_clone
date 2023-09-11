@@ -1,0 +1,23 @@
+{
+    "message": "Data berhasil didapatkan!",
+    "data": {
+        "rasio": [
+            {
+                "tahun": "2017/2018",
+                "rasio": "1:6.06"
+            },
+            {
+                "tahun": "2018/2019",
+                "rasio": "1:6.66"
+            },
+            {
+                "tahun": "2019/2020",
+                "rasio": "1:11.33"
+            },
+            {
+                "tahun": "2020/2021",
+                "rasio": "1:12.81"
+            }
+        ]
+    }
+}

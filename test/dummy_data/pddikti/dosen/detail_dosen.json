@@ -1,0 +1,15 @@
+{
+    "message": "Data berhasil didapatkan!",
+    "data": {
+        "dosen": [
+            {
+                "id": "6E731BB3-8888-4D6B-AD2C-793EDD284FBC",
+                "nama": "RISNA SARI",
+                "nm_prodi": "Teknik Informatika",
+                "kode_prodi": "55301",
+                "nm_pt": "Politeknik Negeri Jakarta",
+                "kode_pt": "005002"
+            }
+        ]
+    }
+}

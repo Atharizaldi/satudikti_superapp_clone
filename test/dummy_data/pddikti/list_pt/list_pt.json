@@ -1,0 +1,16 @@
+{
+    "message": "Data berhasil didapatkan!",
+    "data": {
+        "perguruan_tinggi": [
+            {
+                "id": "OeMxnjVwTvM0wCQ6xRjzRAFXjmsaAuR3O9SlJhUS5gzXuvgJsYalwHnD5K3_D8cfAuHKfA==",
+                "kode": "001005",
+                "nama": "Universitas Hasanuddin",
+                "nama_singkat": "Unhas",
+                "status": "Aktif",
+                "akreditasi": "Unggul",
+                "url_logo": ""
+            }
+        ]
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "message": "Data berhasil didapatkan!",
+    "data": {
+        "dosen": [
+            {
+                "id": "6jaCxx5cXrg88o9NGG2yC79574PM4iOu6rFlKK_eoCyaP1iM44iULK09Qgjdxgn9HE_oJA==",
+                "nidn": "0327027302",
+                "nama": "UNTUNG YUWONO",
+                "gelar_depan": "Dr ",
+                "gelar_belakang": "S.S., M.Hum",
+                "pendidikan_terakhir": "S3"
+            },
+            {
+                "id": "s2wXibT-ZQIeG3XASQvr3N-Wd35RKadOxulY2KH38ikdSsiBupQhR7i6VWKKx-oWO6by_w==",
+                "nidn": "0011075806",
+                "nama": "SUNU WASONO",
+                "gelar_depan": "Dr Drs ",
+                "gelar_belakang": "M.Si",
+                "pendidikan_terakhir": "S3"
+            },
+            {
+                "id": "cQe8qEauctTcPXTdsnIXdVM02AdAUrkf-xAWeUVVytOD8TfgLiCWeNciGbbzLXGd3zrYqg==",
+                "nidn": "0321117104",
+                "nama": "PRISCILA FITRIASIH LIMBONG",
+                "gelar_depan": "Dr Dra ",
+                "gelar_belakang": "M.Hum",
+                "pendidikan_terakhir": "S3"
+            },
+            {
+                "id": "9JBholCymzxfvnxyTIHoupJ7qoqKASSg9SWAuk_KyWXLkF00_NKH-NKatte2rjU4dIr_Mg==",
+                "nidn": "0017036803",
+                "nama": "SRI MUNAWARAH",
+                "gelar_depan": "Dr Dr ",
+                "gelar_belakang": "S.S., M.Hum",
+                "pendidikan_terakhir": "S3"
+            },
+            {
+                "id": "VIveFuZyUgYLZStGbL_88HNoyAkHLWXAWMydxDPJeFT7B9mCaywha_D7LdzUkEjuW5iRkQ==",
+                "nidn": "0002036304",
+                "nama": "NITRASATTRI HANDAYANI",
+                "gelar_depan": "",
+                "gelar_belakang": "S.S., M.Hum",
+                "pendidikan_terakhir": "S2"
+            },
+            {
+                "id": "jsYMaPPX0pyDSj8V6se8R2IrqS6tr_-PWyjkGAVQBMWMbZtjKOk4Ut_fOSbsqkF-8Be51w==",
+                "nidn": "0301057703",
+                "nama": "MAMLAHATUN BUDUROH",
+                "gelar_depan": "Dr ",
+                "gelar_belakang": "S.S., M.Hum",
+                "pendidikan_terakhir": "S3"
+            },
+            {
+                "id": "n7KcNB3RMEW6J9tYFvEojy4m7t5bSYo5N2lHV5keok_x4Ag1Sai43F3je0LPQwU1lb5rWA==",
+                "nidn": "0024065808",
+                "nama": "IBNU WAHYUDI",
+                "gelar_depan": "",
+                "gelar_belakang": "S.S., M.A",
+                "pendidikan_terakhir": "S2"
+            },
+            {
+                "id": "P7HF0PMGVZ0xkaOZpsUtlU2H-b-0k0ZGoddzFny8HGAN8yzEp7KGe1T-hMXLi8nem5TeUA==",
+                "nidn": "0030047502",
+                "nama": "Daniel Hariman Jacob",
+                "gelar_depan": "",
+                "gelar_belakang": "M.Hum",
+                "pendidikan_terakhir": "S2"
+            },
+            {
+                "id": "V6R_RGcReicwGHNLhjKeWdHeBiSc3Xz2LgIpyKgkblHyOvWa-YdAPSiZzvpQ1szR6ErsHg==",
+                "nidn": "0310017504",
+                "nama": "Ratna Djumala",
+                "gelar_depan": "",
+                "gelar_belakang": "M.Hum",
+                "pendidikan_terakhir": "S2"
+            },
+            {
+                "id": "LU29XLftAXCN73lrtx4ywCCYPesy1eqMfEOO1Rop21Ayb8GBRPahMptEhkGyFgW3t7KqgQ==",
+                "nidn": "0006108403",
+                "nama": "SILVA TENRISARA PERTIWI ISMA",
+                "gelar_depan": "",
+                "gelar_belakang": "S.Hum, M.A.",
+                "pendidikan_terakhir": "S2"
+            },
+            {
+                "id": "rg5CGbbK8SLxNwlz0Op8jLBHSuY61nEpzCiJdphyKZ7GNNaik97exNKSVxlBYNdl1L6nPw==",
+                "nidn": "0324058301",
+                "nama": "NAZARUDIN",
+                "gelar_depan": "",
+                "gelar_belakang": "S.Hum, M.A.",
+                "pendidikan_terakhir": "S2"
+            },
+            {
+                "id": "P3AhlGfrdo-iqmQlCuZP0ypQWPyUWx7Hs47te5oUosP2EiS72BBMdJwfWrLfSnCECsRgbQ==",
+                "nidn": "0015106504",
+                "nama": "MOHAMMAD UMAR MUSLIM",
+                "gelar_depan": "",
+                "gelar_belakang": "S.S., M.A.",
+                "pendidikan_terakhir": "S3"
+            },
+            {
+                "id": "RO9SCHTbuGja3m4iefiO2KR28-nh53q3f9c1X9V6SMyXqgmMOd1OGhh8a21N0ejNxa_Hwg==",
+                "nidn": "0011037402",
+                "nama": "R. Niken Pramanik",
+                "gelar_depan": "",
+                "gelar_belakang": "S.S.",
+                "pendidikan_terakhir": "S2"
+            },
+            {
+                "id": "G5iKWpo7RugWqSshiOUtucpX_k1yRf27T9z3BYKnz3m9FYYi81Jyl2WgUB_2NDSHby-aVQ==",
+                "nidn": "0001117104",
+                "nama": "DIEN ROVITA",
+                "gelar_depan": "",
+                "gelar_belakang": "M.Hum",
+                "pendidikan_terakhir": "S2"
+            }
+        ]
+    }
+}

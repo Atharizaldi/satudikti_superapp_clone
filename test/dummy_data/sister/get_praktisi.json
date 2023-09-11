@@ -1,0 +1,41 @@
+{
+    "message": "Data berhasil didapatkan!",
+    "status": 200,
+    "data": [
+        {
+            "pekerjaan": "konsultan ",
+            "instansi": "Kantor Kecamatan Jabung, Kabupaten Malang ",
+            "jabatan": "Tim Ahli / Konsultan",
+            "tgl_mulai_bekerja": "20 Agustus 2021",
+            "tgl_selesai_bekerja": "16 November 2021"
+        },
+        {
+            "pekerjaan": "kepala laboratorium ",
+            "instansi": "Universitas Brawijaya",
+            "jabatan": "Pimpinan / Manajerial",
+            "tgl_mulai_bekerja": "12 Mei 2015",
+            "tgl_selesai_bekerja": "12 Mei 2016"
+        },
+        {
+            "pekerjaan": "kepala laboratorium",
+            "instansi": "Universitas Brawijaya",
+            "jabatan": "Pimpinan / Manajerial",
+            "tgl_mulai_bekerja": "8 September 2000",
+            "tgl_selesai_bekerja": "12 Mei 2015"
+        },
+        {
+            "pekerjaan": "Analis Kimia",
+            "instansi": "Proyek Inventarisasi dan Evaluasi sumber sumber Air , Departemen Pekerjaan Umum",
+            "jabatan": "Peneliti",
+            "tgl_mulai_bekerja": "1 September 1981",
+            "tgl_selesai_bekerja": "1 September 1982"
+        },
+        {
+            "pekerjaan": "Analis Kimia",
+            "instansi": "ITB",
+            "jabatan": "Peneliti",
+            "tgl_mulai_bekerja": "1 Juli 1978",
+            "tgl_selesai_bekerja": "1 Juli 1981"
+        }
+    ]
+}

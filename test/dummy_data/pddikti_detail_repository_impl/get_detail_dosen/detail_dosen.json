@@ -1,0 +1,30 @@
+{
+    "message": "Data berhasil didapatkan!",
+    "data": {
+        "dosen": [
+            {
+                "id": "99A1FAFD-F34D-4E41-BA26-30C35589002D",
+                "nama": "SANTI",
+                "nidn": "0424048002",
+                "nm_prodi": "Manajemen",
+                "kode_prodi": "61201",
+                "nm_pt": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi",
+                "kode_pt": "043180",
+                "pendidikan_terakhir": "S2",
+                "jenis_kelamin": "P",
+                "ikatan_kerja": {
+                    "id": "A",
+                    "nama": "Dosen Tetap"
+                },
+                "status_keaktifan": {
+                    "id": 1,
+                    "nama": "Aktif"
+                },
+                "jabatan_fungsional": {
+                    "id": 41,
+                    "nama": "Asisten Ahli"
+                }
+            }
+        ]
+    }
+}

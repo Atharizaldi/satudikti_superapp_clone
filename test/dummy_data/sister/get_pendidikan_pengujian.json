@@ -1,0 +1,19 @@
+{
+    "message": "Data berhasil didapatkan!",
+    "status": 200,
+    "data": [
+        {
+            "semester": "2022/2023 (Genap)",
+            "jenis_aktivitas": null,
+            "judul": "LAPORAN RAYON 2 AKHIR PELAKSANAAN KULIAH KERJA LAPANGAN PLUS (KKLP) STIA PANCA MARGA PALU ANGKATAN XXXI TAHUN AKADEMIK 2022",
+            "nmr_sk": "077/STiA-PM/A.1/II/2023",
+            "lokasi": "KAMPUS SEKOLAH TINGGI ILMU ADMINISTRASI (STIA) PANCA MARGA PALU",
+            "tgl_sk": "2023-02-15",
+            "ket_kegiatan": "MEMBANGUN DESA YANG BERWAWASAN KEBANGSAAN",
+            "prodi": {
+                "nama": "Ilmu Administrasi Negara",
+                "jenjang_didik": "S1"
+            }
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "message": "Data berhasil didapatkan!",
+    "data": {
+        "riwayat": [
+            {
+                "id": "1B58200A-E2E5-4591-A768-D9391E2173DD",
+                "pt": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi",
+                "thn_lulus": 2012,
+                "gelar": {
+                    "id": 3,
+                    "nama": "Sarjana Ekonomi",
+                    "singkatan": "S.E.",
+                    "posisi": 2
+                },
+                "bidang_studi": {
+                    "id": 571,
+                    "nama": "Manajemen"
+                },
+                "jenjang_didik": {
+                    "id": 30,
+                    "nama": "S1"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen"
+                }
+            },
+            {
+                "id": "1962603F-8C4D-4E2E-8737-6E82B3043E3D",
+                "pt": "Sekolah Tinggi Ilmu Ekonomi Kusuma Negara",
+                "thn_lulus": 2015,
+                "gelar": {
+                    "id": 25,
+                    "nama": "Magister Manajemen",
+                    "singkatan": "M.M.",
+                    "posisi": 2
+                },
+                "bidang_studi": {
+                    "id": 571,
+                    "nama": "Manajemen"
+                },
+                "jenjang_didik": {
+                    "id": 35,
+                    "nama": "S2"
+                },
+                "prodi": {
+                    "id": "96EC7AEF-0FD9-4F37-9934-5D3E3F880BE3",
+                    "kode": "61101",
+                    "nama": "Manajemen"
+                }
+            }
+        ]
+    }
+}

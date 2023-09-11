@@ -1,0 +1,26 @@
+{
+    "message": "Data berhasil didapatkan",
+    "status": 200,
+    "data": [
+        {
+            "nama": "Assesment Asesor BKD Universitas Kristen Satya Wacana",
+            "tgl_awal": "1 Januari 1",
+            "tgl_akhir": "1 Januari 1",
+            "nilai_cat": 80,
+            "nilai_keterangan": 75,
+            "serdik": null,
+            "nira": "990823531014806116",
+            "cetak": null
+        },
+        {
+            "nama": "Assesment Asesor BKD Universitas Pembangunan Nasional Veteran Yogyakarta",
+            "tgl_awal": "1 Januari 1",
+            "tgl_akhir": "1 Januari 1",
+            "nilai_cat": 85,
+            "nilai_keterangan": 25,
+            "serdik": null,
+            "nira": "990823531014806116",
+            "cetak": null
+        }
+    ]
+}

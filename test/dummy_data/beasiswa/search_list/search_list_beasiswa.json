@@ -1,0 +1,29 @@
+{
+  "data": {
+    "page": 1,
+    "pages": 1,
+    "row_count": 1,
+    "limit": 10,
+    "list_beasiswa": [
+      {
+        "id": "01GAQV5NYMAE48C8Q77TW10H0D",
+        "nama": "ASUS Scholarship Program (For the admission to spring semester of 2023) ",
+        "slug": "asus-scholarship-program-for-the-admission-to-spring-semester-of-2023-cfb690325414",
+        "penerima": [
+          {
+            "id": "2",
+            "nama": "Mahasiswa"
+          }
+        ],
+        "deskripsi": "<p><span style=\"color: rgb(51, 51, 51);\">ASUS and the National Taiwan University of Science and Technology (Taiwan Tech) have launched a new Scholarship program for international students to pursue their education and plan for future careers in Taiwan. The ASUS Scholarship program offers master's programs for students in electronics, information technology, or management-related disciplines. ASUS scholarship recipients will be offered financial aid, opportunities to join internship programs and related job trainings by ASUS during the two year-master’s program. After graduation, a two year position at ASUS will be offered to scholarship recipients.</span></p>",
+        "penyelenggara": "ASUS",
+        "persyaratan": "<ul><li><strong style=\"color: black;\">Hardware Engineer</strong></li><li class=\"ql-indent-1\"><span style=\"color: black;\">Courses related to Circuits, Electronics, and Digital logic.</span></li><li><strong style=\"color: black;\">Power Engineer</strong></li><li class=\"ql-indent-1\"><span style=\"color: black;\">Courses related to Circuits/Microelectronic Circuits/Electronics/Power Electronics; Paper: Power electronic/battery/ cell design or charger design</span></li><li><strong style=\"color: black;\">EMC/RF Engineer</strong></li><li class=\"ql-indent-1\"><span style=\"color: black;\">Courses related to Microwave Engineering, Signals &amp; Systems, Signal Integrity, Power Integrity, and EMC Compatibility.</span></li><li><strong style=\"color: black;\">5G System Software Engineer</strong></li><li class=\"ql-indent-1\"><span style=\"color: black;\">Knowledge of Telecommunication, Computer Engineering, Embedded systems, RTOS, Electronics Engineering, Software development, and Programming experience in C/C++.</span></li><li><strong style=\"color: black;\">Software Engineer</strong></li><li class=\"ql-indent-1\"><span style=\"color: black;\">Compulsory subjects: Object Oriented Programming and Practice Data Structures Introduction to Computer Networks Computer Organization Operating Systems Programming Languages Software Engineering.</span></li><li class=\"ql-indent-1\"><span style=\"color: black;\">Additional requirements: The university is also for the Department of Information Engineering, and the project is written in C language.</span></li><li><strong style=\"color: black;\">Firmware Engineer</strong></li><li class=\"ql-indent-1\"><span style=\"color: black;\">Compulsory subjects: Embedded System Design/Embedded Real-Time Operating System/Embedded Microprocessor Programming Local Area Network/Internet and Applications/Computer Communication Network Operating System Object-Oriented Programming</span></li><li><strong style=\"color: black;\">UX Designer</strong></li><li class=\"ql-indent-1\"><span style=\"color: black;\">Courses in Qualitative Research Methods in Design and Digital Media Design are required.</span></li><li class=\"ql-indent-1\"><span style=\"color: black;\">The course in Psychology of Design is a plus.</span></li><li><strong style=\"color: black;\">Front-end&nbsp;Engineer</strong></li><li class=\"ql-indent-1\"><span style=\"color: black;\">Courses in programming and computer science.</span></li><li class=\"ql-indent-1\"><span style=\"color: black;\">Courses in Web-related technical skills are&nbsp;a plus.</span></li><li class=\"ql-indent-1\"><span style=\"color: black;\">Both are fine in F2E web UI or headless APIs development.</span></li><li><strong style=\"color: black;\">Product Engineer</strong></li><li class=\"ql-indent-1\"><span style=\"color: black;\">Course in Chinese, marketing, and economy.</span></li><li class=\"ql-indent-1\"><span style=\"color: black;\">Be familiar with Microsoft Office tools including Word, Excel, and PowerPoint. Expertise in other production APs (ex. Photoshop and OneNote) would be a plus.</span></li></ul><p class=\"ql-align-center\"><br></p>",
+        "link_pendaftaran": "https://www.oia.ntust.edu.tw/p/404-1060-104226.php?Lang=en&fbclid=IwAR0HCy3-2sbmm0Mu_MTb2ySJ46nzUFw9p_yFcteTADdV0waOwRJVyVRLkWg&ct=1660620178",
+        "tanggal_dibuka": "2022-08-15",
+        "tanggal_ditutup": "2022-08-16",
+        "is_open": false
+      }
+    ]
+  },
+  "message": "success"
+}

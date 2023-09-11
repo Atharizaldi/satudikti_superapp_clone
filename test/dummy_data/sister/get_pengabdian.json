@@ -1,0 +1,42 @@
+{
+    "message": "Data berhasil didapatkan!",
+    "status": 200,
+    "data": [
+        {
+            "judul": "Program Pendidikan dan Pelatihan Calon Kepala Laboratorium",
+            "tahun_kegiatan": 2022,
+            "peran": "Anggota",
+            "lokasi": "Universitas Brawijaya Malang"
+        },
+        {
+            "judul": "Program Pendidikan dan Pelatihan Calon Kepala Laboratorium Sekolah",
+            "tahun_kegiatan": 2022,
+            "peran": "Anggota",
+            "lokasi": "Universitas Brawijaya Malang"
+        },
+        {
+            "judul": "Pengolahan Limbah Kotoran ternak sapi menjadi pupuk organik yang difortifikasi dengan Eco Enzim di Desa Bendosari Kec. Sanankulon, Kab. Blitar",
+            "tahun_kegiatan": 2022,
+            "peran": "Anggota",
+            "lokasi": "Desa Bendosari Kec. Sanankulon, Kab. Blitar"
+        },
+        {
+            "judul": "UPAYA PENINGKATAN KREATIVITAS DAN PEMAHAMAN MATERI IPA BAGI GURU SEKOLAH DASAR MELALUI PENDEKATAN PRAKTIKUM SEDERHANA  DI SDI SURYA BUANA, KOTA MALANG. ",
+            "tahun_kegiatan": 2020,
+            "peran": "Anggota",
+            "lokasi": "SD Islam Surya Buana kota Malang"
+        },
+        {
+            "judul": "Pemberdayaan Kitosan untuk meningkatkan kualitas bakso di kota Malang",
+            "tahun_kegiatan": 2018,
+            "peran": "Anggota",
+            "lokasi": null
+        },
+        {
+            "judul": "Pelatihan Pembuatan Pupuk Cair dari Limbah Sampah Organik dan Urin Sapi di Desa Sukodadi Kecamatan Wagir Kabupaten Malang",
+            "tahun_kegiatan": 2015,
+            "peran": "Anggota",
+            "lokasi": "Malang"
+        }
+    ]
+}

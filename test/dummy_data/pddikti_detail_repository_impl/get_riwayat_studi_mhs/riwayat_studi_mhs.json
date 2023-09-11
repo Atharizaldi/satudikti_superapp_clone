@@ -1,0 +1,710 @@
+{
+    "message": "Data berhasil didapatkan!",
+    "data": {
+        "mahasiswa": [
+            {
+                "kode_mk": "C31040118",
+                "nama_mk": "KALKULUS 1",
+                "sks": "2.00",
+                "semester": {
+                    "id": 20192,
+                    "nama": "2019/2020 Genap"
+                },
+                "pt": {
+                    "id": "5ED5AD4C-383C-4D70-B5D1-6CB12DD58F77",
+                    "kode": "032026  ",
+                    "nama": "Institut Teknologi Perusahaan Listrik Negara "
+                },
+                "prodi": {
+                    "id": "119C8861-24D6-4E15-A0B8-B14DA49BC27B",
+                    "kode": "55201",
+                    "nama": "Teknik Informatika"
+                }
+            },
+            {
+                "kode_mk": "C31040102",
+                "nama_mk": "PENDIDIKAN KEWARGANEGARAAN",
+                "sks": "2.00",
+                "semester": {
+                    "id": 20192,
+                    "nama": "2019/2020 Genap"
+                },
+                "pt": {
+                    "id": "5ED5AD4C-383C-4D70-B5D1-6CB12DD58F77",
+                    "kode": "032026  ",
+                    "nama": "Institut Teknologi Perusahaan Listrik Negara "
+                },
+                "prodi": {
+                    "id": "119C8861-24D6-4E15-A0B8-B14DA49BC27B",
+                    "kode": "55201",
+                    "nama": "Teknik Informatika"
+                }
+            },
+            {
+                "kode_mk": "C31040110",
+                "nama_mk": "STATISTIK   PRAKTEK",
+                "sks": "3.00",
+                "semester": {
+                    "id": 20192,
+                    "nama": "2019/2020 Genap"
+                },
+                "pt": {
+                    "id": "5ED5AD4C-383C-4D70-B5D1-6CB12DD58F77",
+                    "kode": "032026  ",
+                    "nama": "Institut Teknologi Perusahaan Listrik Negara "
+                },
+                "prodi": {
+                    "id": "119C8861-24D6-4E15-A0B8-B14DA49BC27B",
+                    "kode": "55201",
+                    "nama": "Teknik Informatika"
+                }
+            },
+            {
+                "kode_mk": "C31040114",
+                "nama_mk": "INTERAKSI MANUSIA & KOMPUTER",
+                "sks": "3.00",
+                "semester": {
+                    "id": 20192,
+                    "nama": "2019/2020 Genap"
+                },
+                "pt": {
+                    "id": "5ED5AD4C-383C-4D70-B5D1-6CB12DD58F77",
+                    "kode": "032026  ",
+                    "nama": "Institut Teknologi Perusahaan Listrik Negara "
+                },
+                "prodi": {
+                    "id": "119C8861-24D6-4E15-A0B8-B14DA49BC27B",
+                    "kode": "55201",
+                    "nama": "Teknik Informatika"
+                }
+            },
+            {
+                "kode_mk": "C31040104",
+                "nama_mk": "BAHASA INDONESIA PENELITIAN",
+                "sks": "2.00",
+                "semester": {
+                    "id": 20192,
+                    "nama": "2019/2020 Genap"
+                },
+                "pt": {
+                    "id": "5ED5AD4C-383C-4D70-B5D1-6CB12DD58F77",
+                    "kode": "032026  ",
+                    "nama": "Institut Teknologi Perusahaan Listrik Negara "
+                },
+                "prodi": {
+                    "id": "119C8861-24D6-4E15-A0B8-B14DA49BC27B",
+                    "kode": "55201",
+                    "nama": "Teknik Informatika"
+                }
+            },
+            {
+                "kode_mk": "C31040120",
+                "nama_mk": "MATEMATIKA DISKRET",
+                "sks": "2.00",
+                "semester": {
+                    "id": 20192,
+                    "nama": "2019/2020 Genap"
+                },
+                "pt": {
+                    "id": "5ED5AD4C-383C-4D70-B5D1-6CB12DD58F77",
+                    "kode": "032026  ",
+                    "nama": "Institut Teknologi Perusahaan Listrik Negara "
+                },
+                "prodi": {
+                    "id": "119C8861-24D6-4E15-A0B8-B14DA49BC27B",
+                    "kode": "55201",
+                    "nama": "Teknik Informatika"
+                }
+            },
+            {
+                "kode_mk": "C31040106",
+                "nama_mk": "ALGORITMA & PEMROGRAMAN 2   PRAKTEK",
+                "sks": "3.00",
+                "semester": {
+                    "id": 20192,
+                    "nama": "2019/2020 Genap"
+                },
+                "pt": {
+                    "id": "5ED5AD4C-383C-4D70-B5D1-6CB12DD58F77",
+                    "kode": "032026  ",
+                    "nama": "Institut Teknologi Perusahaan Listrik Negara "
+                },
+                "prodi": {
+                    "id": "119C8861-24D6-4E15-A0B8-B14DA49BC27B",
+                    "kode": "55201",
+                    "nama": "Teknik Informatika"
+                }
+            },
+            {
+                "kode_mk": "C31040116",
+                "nama_mk": "ORGANISASI & ARSITEKTUR KOMPUTER",
+                "sks": "3.00",
+                "semester": {
+                    "id": 20192,
+                    "nama": "2019/2020 Genap"
+                },
+                "pt": {
+                    "id": "5ED5AD4C-383C-4D70-B5D1-6CB12DD58F77",
+                    "kode": "032026  ",
+                    "nama": "Institut Teknologi Perusahaan Listrik Negara "
+                },
+                "prodi": {
+                    "id": "119C8861-24D6-4E15-A0B8-B14DA49BC27B",
+                    "kode": "55201",
+                    "nama": "Teknik Informatika"
+                }
+            },
+            {
+                "kode_mk": "C31040217",
+                "nama_mk": "FISIKA LISTRIK & MAGNET",
+                "sks": "2.00",
+                "semester": {
+                    "id": 20201,
+                    "nama": "2020/2021 Ganjil"
+                },
+                "pt": {
+                    "id": "5ED5AD4C-383C-4D70-B5D1-6CB12DD58F77",
+                    "kode": "032026  ",
+                    "nama": "Institut Teknologi Perusahaan Listrik Negara "
+                },
+                "prodi": {
+                    "id": "119C8861-24D6-4E15-A0B8-B14DA49BC27B",
+                    "kode": "55201",
+                    "nama": "Teknik Informatika"
+                }
+            },
+            {
+                "kode_mk": "C31040205",
+                "nama_mk": "SISTEM OPERASI",
+                "sks": "2.00",
+                "semester": {
+                    "id": 20201,
+                    "nama": "2020/2021 Ganjil"
+                },
+                "pt": {
+                    "id": "5ED5AD4C-383C-4D70-B5D1-6CB12DD58F77",
+                    "kode": "032026  ",
+                    "nama": "Institut Teknologi Perusahaan Listrik Negara "
+                },
+                "prodi": {
+                    "id": "119C8861-24D6-4E15-A0B8-B14DA49BC27B",
+                    "kode": "55201",
+                    "nama": "Teknik Informatika"
+                }
+            },
+            {
+                "kode_mk": "C31040207",
+                "nama_mk": "KOMUNIKASI DATA",
+                "sks": "2.00",
+                "semester": {
+                    "id": 20201,
+                    "nama": "2020/2021 Ganjil"
+                },
+                "pt": {
+                    "id": "5ED5AD4C-383C-4D70-B5D1-6CB12DD58F77",
+                    "kode": "032026  ",
+                    "nama": "Institut Teknologi Perusahaan Listrik Negara "
+                },
+                "prodi": {
+                    "id": "119C8861-24D6-4E15-A0B8-B14DA49BC27B",
+                    "kode": "55201",
+                    "nama": "Teknik Informatika"
+                }
+            },
+            {
+                "kode_mk": "C31040215",
+                "nama_mk": "KALKULUS 2",
+                "sks": "2.00",
+                "semester": {
+                    "id": 20201,
+                    "nama": "2020/2021 Ganjil"
+                },
+                "pt": {
+                    "id": "5ED5AD4C-383C-4D70-B5D1-6CB12DD58F77",
+                    "kode": "032026  ",
+                    "nama": "Institut Teknologi Perusahaan Listrik Negara "
+                },
+                "prodi": {
+                    "id": "119C8861-24D6-4E15-A0B8-B14DA49BC27B",
+                    "kode": "55201",
+                    "nama": "Teknik Informatika"
+                }
+            },
+            {
+                "kode_mk": "C31040321",
+                "nama_mk": "METODE NUMERIK",
+                "sks": "2.00",
+                "semester": {
+                    "id": 20201,
+                    "nama": "2020/2021 Ganjil"
+                },
+                "pt": {
+                    "id": "5ED5AD4C-383C-4D70-B5D1-6CB12DD58F77",
+                    "kode": "032026  ",
+                    "nama": "Institut Teknologi Perusahaan Listrik Negara "
+                },
+                "prodi": {
+                    "id": "119C8861-24D6-4E15-A0B8-B14DA49BC27B",
+                    "kode": "55201",
+                    "nama": "Teknik Informatika"
+                }
+            },
+            {
+                "kode_mk": "C31040201",
+                "nama_mk": "STRUKTUR DATA",
+                "sks": "2.00",
+                "semester": {
+                    "id": 20201,
+                    "nama": "2020/2021 Ganjil"
+                },
+                "pt": {
+                    "id": "5ED5AD4C-383C-4D70-B5D1-6CB12DD58F77",
+                    "kode": "032026  ",
+                    "nama": "Institut Teknologi Perusahaan Listrik Negara "
+                },
+                "prodi": {
+                    "id": "119C8861-24D6-4E15-A0B8-B14DA49BC27B",
+                    "kode": "55201",
+                    "nama": "Teknik Informatika"
+                }
+            },
+            {
+                "kode_mk": "C31040209",
+                "nama_mk": "PERANGKAT LUNAK JARINGAN 1",
+                "sks": "3.00",
+                "semester": {
+                    "id": 20201,
+                    "nama": "2020/2021 Ganjil"
+                },
+                "pt": {
+                    "id": "5ED5AD4C-383C-4D70-B5D1-6CB12DD58F77",
+                    "kode": "032026  ",
+                    "nama": "Institut Teknologi Perusahaan Listrik Negara "
+                },
+                "prodi": {
+                    "id": "119C8861-24D6-4E15-A0B8-B14DA49BC27B",
+                    "kode": "55201",
+                    "nama": "Teknik Informatika"
+                }
+            },
+            {
+                "kode_mk": "C31040211",
+                "nama_mk": "TEKNIK DIGITAL   PRAKTEK",
+                "sks": "3.00",
+                "semester": {
+                    "id": 20201,
+                    "nama": "2020/2021 Ganjil"
+                },
+                "pt": {
+                    "id": "5ED5AD4C-383C-4D70-B5D1-6CB12DD58F77",
+                    "kode": "032026  ",
+                    "nama": "Institut Teknologi Perusahaan Listrik Negara "
+                },
+                "prodi": {
+                    "id": "119C8861-24D6-4E15-A0B8-B14DA49BC27B",
+                    "kode": "55201",
+                    "nama": "Teknik Informatika"
+                }
+            },
+            {
+                "kode_mk": "C31040219",
+                "nama_mk": "SUMBER DAYA ENERGI",
+                "sks": "2.00",
+                "semester": {
+                    "id": 20201,
+                    "nama": "2020/2021 Ganjil"
+                },
+                "pt": {
+                    "id": "5ED5AD4C-383C-4D70-B5D1-6CB12DD58F77",
+                    "kode": "032026  ",
+                    "nama": "Institut Teknologi Perusahaan Listrik Negara "
+                },
+                "prodi": {
+                    "id": "119C8861-24D6-4E15-A0B8-B14DA49BC27B",
+                    "kode": "55201",
+                    "nama": "Teknik Informatika"
+                }
+            },
+            {
+                "kode_mk": "C31040203",
+                "nama_mk": "PEMROGRAMAN VISUAL",
+                "sks": "2.00",
+                "semester": {
+                    "id": 20201,
+                    "nama": "2020/2021 Ganjil"
+                },
+                "pt": {
+                    "id": "5ED5AD4C-383C-4D70-B5D1-6CB12DD58F77",
+                    "kode": "032026  ",
+                    "nama": "Institut Teknologi Perusahaan Listrik Negara "
+                },
+                "prodi": {
+                    "id": "119C8861-24D6-4E15-A0B8-B14DA49BC27B",
+                    "kode": "55201",
+                    "nama": "Teknik Informatika"
+                }
+            },
+            {
+                "kode_mk": "C31040303",
+                "nama_mk": "PEMROGRAMAN SQL",
+                "sks": "2.00",
+                "semester": {
+                    "id": 20201,
+                    "nama": "2020/2021 Ganjil"
+                },
+                "pt": {
+                    "id": "5ED5AD4C-383C-4D70-B5D1-6CB12DD58F77",
+                    "kode": "032026  ",
+                    "nama": "Institut Teknologi Perusahaan Listrik Negara "
+                },
+                "prodi": {
+                    "id": "119C8861-24D6-4E15-A0B8-B14DA49BC27B",
+                    "kode": "55201",
+                    "nama": "Teknik Informatika"
+                }
+            },
+            {
+                "kode_mk": "C31040214",
+                "nama_mk": "TEORI BAHASA & OTOMATA",
+                "sks": "2.00",
+                "semester": {
+                    "id": 20202,
+                    "nama": "2020/2021 Genap"
+                },
+                "pt": {
+                    "id": "5ED5AD4C-383C-4D70-B5D1-6CB12DD58F77",
+                    "kode": "032026  ",
+                    "nama": "Institut Teknologi Perusahaan Listrik Negara "
+                },
+                "prodi": {
+                    "id": "119C8861-24D6-4E15-A0B8-B14DA49BC27B",
+                    "kode": "55201",
+                    "nama": "Teknik Informatika"
+                }
+            },
+            {
+                "kode_mk": "C31040206",
+                "nama_mk": "PEMROGRAMAN OBJEK",
+                "sks": "2.00",
+                "semester": {
+                    "id": 20202,
+                    "nama": "2020/2021 Genap"
+                },
+                "pt": {
+                    "id": "5ED5AD4C-383C-4D70-B5D1-6CB12DD58F77",
+                    "kode": "032026  ",
+                    "nama": "Institut Teknologi Perusahaan Listrik Negara "
+                },
+                "prodi": {
+                    "id": "119C8861-24D6-4E15-A0B8-B14DA49BC27B",
+                    "kode": "55201",
+                    "nama": "Teknik Informatika"
+                }
+            },
+            {
+                "kode_mk": "C31040210",
+                "nama_mk": "MIKROPROSESOR   PRAKTEK",
+                "sks": "3.00",
+                "semester": {
+                    "id": 20202,
+                    "nama": "2020/2021 Genap"
+                },
+                "pt": {
+                    "id": "5ED5AD4C-383C-4D70-B5D1-6CB12DD58F77",
+                    "kode": "032026  ",
+                    "nama": "Institut Teknologi Perusahaan Listrik Negara "
+                },
+                "prodi": {
+                    "id": "119C8861-24D6-4E15-A0B8-B14DA49BC27B",
+                    "kode": "55201",
+                    "nama": "Teknik Informatika"
+                }
+            },
+            {
+                "kode_mk": "C31040220",
+                "nama_mk": "RANGKAIAN LISTRIK   PRAKTEK",
+                "sks": "3.00",
+                "semester": {
+                    "id": 20202,
+                    "nama": "2020/2021 Genap"
+                },
+                "pt": {
+                    "id": "5ED5AD4C-383C-4D70-B5D1-6CB12DD58F77",
+                    "kode": "032026  ",
+                    "nama": "Institut Teknologi Perusahaan Listrik Negara "
+                },
+                "prodi": {
+                    "id": "119C8861-24D6-4E15-A0B8-B14DA49BC27B",
+                    "kode": "55201",
+                    "nama": "Teknik Informatika"
+                }
+            },
+            {
+                "kode_mk": "C31040216",
+                "nama_mk": "PENGOLAHAN CITRA",
+                "sks": "2.00",
+                "semester": {
+                    "id": 20202,
+                    "nama": "2020/2021 Genap"
+                },
+                "pt": {
+                    "id": "5ED5AD4C-383C-4D70-B5D1-6CB12DD58F77",
+                    "kode": "032026  ",
+                    "nama": "Institut Teknologi Perusahaan Listrik Negara "
+                },
+                "prodi": {
+                    "id": "119C8861-24D6-4E15-A0B8-B14DA49BC27B",
+                    "kode": "55201",
+                    "nama": "Teknik Informatika"
+                }
+            },
+            {
+                "kode_mk": "C31040204",
+                "nama_mk": "SISTEM BERKAS",
+                "sks": "2.00",
+                "semester": {
+                    "id": 20202,
+                    "nama": "2020/2021 Genap"
+                },
+                "pt": {
+                    "id": "5ED5AD4C-383C-4D70-B5D1-6CB12DD58F77",
+                    "kode": "032026  ",
+                    "nama": "Institut Teknologi Perusahaan Listrik Negara "
+                },
+                "prodi": {
+                    "id": "119C8861-24D6-4E15-A0B8-B14DA49BC27B",
+                    "kode": "55201",
+                    "nama": "Teknik Informatika"
+                }
+            },
+            {
+                "kode_mk": "C31040208",
+                "nama_mk": "PERANGKAT LUNAK JARINGAN 2",
+                "sks": "2.00",
+                "semester": {
+                    "id": 20202,
+                    "nama": "2020/2021 Genap"
+                },
+                "pt": {
+                    "id": "5ED5AD4C-383C-4D70-B5D1-6CB12DD58F77",
+                    "kode": "032026  ",
+                    "nama": "Institut Teknologi Perusahaan Listrik Negara "
+                },
+                "prodi": {
+                    "id": "119C8861-24D6-4E15-A0B8-B14DA49BC27B",
+                    "kode": "55201",
+                    "nama": "Teknik Informatika"
+                }
+            },
+            {
+                "kode_mk": "C31040202",
+                "nama_mk": "BAHASA RAKITAN",
+                "sks": "2.00",
+                "semester": {
+                    "id": 20202,
+                    "nama": "2020/2021 Genap"
+                },
+                "pt": {
+                    "id": "5ED5AD4C-383C-4D70-B5D1-6CB12DD58F77",
+                    "kode": "032026  ",
+                    "nama": "Institut Teknologi Perusahaan Listrik Negara "
+                },
+                "prodi": {
+                    "id": "119C8861-24D6-4E15-A0B8-B14DA49BC27B",
+                    "kode": "55201",
+                    "nama": "Teknik Informatika"
+                }
+            },
+            {
+                "kode_mk": "C31040218",
+                "nama_mk": "ETIKA PROFESI",
+                "sks": "2.00",
+                "semester": {
+                    "id": 20202,
+                    "nama": "2020/2021 Genap"
+                },
+                "pt": {
+                    "id": "5ED5AD4C-383C-4D70-B5D1-6CB12DD58F77",
+                    "kode": "032026  ",
+                    "nama": "Institut Teknologi Perusahaan Listrik Negara "
+                },
+                "prodi": {
+                    "id": "119C8861-24D6-4E15-A0B8-B14DA49BC27B",
+                    "kode": "55201",
+                    "nama": "Teknik Informatika"
+                }
+            },
+            {
+                "kode_mk": "C31050307",
+                "nama_mk": "EXPERT SYSTEM",
+                "sks": "2.00",
+                "semester": {
+                    "id": 20211,
+                    "nama": "2021/2022 Ganjil"
+                },
+                "pt": {
+                    "id": "5ED5AD4C-383C-4D70-B5D1-6CB12DD58F77",
+                    "kode": "032026  ",
+                    "nama": "Institut Teknologi Perusahaan Listrik Negara "
+                },
+                "prodi": {
+                    "id": "119C8861-24D6-4E15-A0B8-B14DA49BC27B",
+                    "kode": "55201",
+                    "nama": "Teknik Informatika"
+                }
+            },
+            {
+                "kode_mk": "C31050209",
+                "nama_mk": "BASIS DATA*",
+                "sks": "3.00",
+                "semester": {
+                    "id": 20211,
+                    "nama": "2021/2022 Ganjil"
+                },
+                "pt": {
+                    "id": "5ED5AD4C-383C-4D70-B5D1-6CB12DD58F77",
+                    "kode": "032026  ",
+                    "nama": "Institut Teknologi Perusahaan Listrik Negara "
+                },
+                "prodi": {
+                    "id": "119C8861-24D6-4E15-A0B8-B14DA49BC27B",
+                    "kode": "55201",
+                    "nama": "Teknik Informatika"
+                }
+            },
+            {
+                "kode_mk": "C31052301",
+                "nama_mk": "PEMROGRAMAN WEB LANJUT",
+                "sks": "2.00",
+                "semester": {
+                    "id": 20211,
+                    "nama": "2021/2022 Ganjil"
+                },
+                "pt": {
+                    "id": "5ED5AD4C-383C-4D70-B5D1-6CB12DD58F77",
+                    "kode": "032026  ",
+                    "nama": "Institut Teknologi Perusahaan Listrik Negara "
+                },
+                "prodi": {
+                    "id": "119C8861-24D6-4E15-A0B8-B14DA49BC27B",
+                    "kode": "55201",
+                    "nama": "Teknik Informatika"
+                }
+            },
+            {
+                "kode_mk": "C31050303",
+                "nama_mk": "REKAYASA PERANGKAT LUNAK*",
+                "sks": "3.00",
+                "semester": {
+                    "id": 20211,
+                    "nama": "2021/2022 Ganjil"
+                },
+                "pt": {
+                    "id": "5ED5AD4C-383C-4D70-B5D1-6CB12DD58F77",
+                    "kode": "032026  ",
+                    "nama": "Institut Teknologi Perusahaan Listrik Negara "
+                },
+                "prodi": {
+                    "id": "119C8861-24D6-4E15-A0B8-B14DA49BC27B",
+                    "kode": "55201",
+                    "nama": "Teknik Informatika"
+                }
+            },
+            {
+                "kode_mk": "C31050313",
+                "nama_mk": "MANAJEMEN TEKNIK",
+                "sks": "2.00",
+                "semester": {
+                    "id": 20211,
+                    "nama": "2021/2022 Ganjil"
+                },
+                "pt": {
+                    "id": "5ED5AD4C-383C-4D70-B5D1-6CB12DD58F77",
+                    "kode": "032026  ",
+                    "nama": "Institut Teknologi Perusahaan Listrik Negara "
+                },
+                "prodi": {
+                    "id": "119C8861-24D6-4E15-A0B8-B14DA49BC27B",
+                    "kode": "55201",
+                    "nama": "Teknik Informatika"
+                }
+            },
+            {
+                "kode_mk": "C31050309",
+                "nama_mk": "GRAFIKA KOMPUTER DAN ANIMASI*",
+                "sks": "3.00",
+                "semester": {
+                    "id": 20211,
+                    "nama": "2021/2022 Ganjil"
+                },
+                "pt": {
+                    "id": "5ED5AD4C-383C-4D70-B5D1-6CB12DD58F77",
+                    "kode": "032026  ",
+                    "nama": "Institut Teknologi Perusahaan Listrik Negara "
+                },
+                "prodi": {
+                    "id": "119C8861-24D6-4E15-A0B8-B14DA49BC27B",
+                    "kode": "55201",
+                    "nama": "Teknik Informatika"
+                }
+            },
+            {
+                "kode_mk": "C31050301",
+                "nama_mk": "MOBILE PROGRAMMING*",
+                "sks": "2.00",
+                "semester": {
+                    "id": 20211,
+                    "nama": "2021/2022 Ganjil"
+                },
+                "pt": {
+                    "id": "5ED5AD4C-383C-4D70-B5D1-6CB12DD58F77",
+                    "kode": "032026  ",
+                    "nama": "Institut Teknologi Perusahaan Listrik Negara "
+                },
+                "prodi": {
+                    "id": "119C8861-24D6-4E15-A0B8-B14DA49BC27B",
+                    "kode": "55201",
+                    "nama": "Teknik Informatika"
+                }
+            },
+            {
+                "kode_mk": "C31050311",
+                "nama_mk": "METODOLOGI PENELITIAN ILMU KOMPUTER",
+                "sks": "2.00",
+                "semester": {
+                    "id": 20211,
+                    "nama": "2021/2022 Ganjil"
+                },
+                "pt": {
+                    "id": "5ED5AD4C-383C-4D70-B5D1-6CB12DD58F77",
+                    "kode": "032026  ",
+                    "nama": "Institut Teknologi Perusahaan Listrik Negara "
+                },
+                "prodi": {
+                    "id": "119C8861-24D6-4E15-A0B8-B14DA49BC27B",
+                    "kode": "55201",
+                    "nama": "Teknik Informatika"
+                }
+            },
+            {
+                "kode_mk": "C31050305",
+                "nama_mk": "MACHINE LEARNING*",
+                "sks": "3.00",
+                "semester": {
+                    "id": 20211,
+                    "nama": "2021/2022 Ganjil"
+                },
+                "pt": {
+                    "id": "5ED5AD4C-383C-4D70-B5D1-6CB12DD58F77",
+                    "kode": "032026  ",
+                    "nama": "Institut Teknologi Perusahaan Listrik Negara "
+                },
+                "prodi": {
+                    "id": "119C8861-24D6-4E15-A0B8-B14DA49BC27B",
+                    "kode": "55201",
+                    "nama": "Teknik Informatika"
+                }
+            }
+        ]
+    }
+}

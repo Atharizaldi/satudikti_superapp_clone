@@ -1,0 +1,152 @@
+{
+    "message": "Get list books sukses",
+    "status": 200,
+    "data": {
+        "list_book": [
+            {
+                "id_book": "b6b10c3a-5466-43ef-9ea5-f02b775588f7",
+                "id_kat_publikasi": 4,
+                "judul": "INFUSI INTIDASAR CAPAIAN PENDIDIKAN (IDCP) DALAM BERBAGAI RENTANG PEMIKIRAN (edit)",
+                "sinopsis": "tujuan pendidikan nasional seperti yang tertuang dalam UU Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional adalah untuk mengembangkan potensi peserta didik agar menjadi manusia yang beriman dan bertakwa kepada Tuhan Yang Maha Esa, berakhlak mulia, sehat, berilmu, cakap, kreatif, mandiri, dan menjadi warga Negara yang demokratis serta bertanggung jawab. Selain di dalam UU tersebut, tujuan pendidikan tinggi secara khusus dirumuskan dalam UU Nomor 12 Tahun 2012 tentang Pendidikan Tinggi, yaitu untuk mengembangkan kemampuan dan membentuk watak serta peradaban bangsa yang bermartabat dalam rangka mencerdaskan kehidupan bangsa. Kedua landasan pendidikan tinggi nasional tersebut secara eksplisit menginginkan pendidikan tinggi menghasilkan lulusan yang selain kompeten dalam bidangnya juga memiliki akhlak mulia yang dilandasi dengan nilai-nilai luhur kehidupan serta spiritualitas yang tinggi. Namun demikian, banyak kritik disampaikan pada pendidikan tinggi kita, dan tidak kurang ungkapan kekecewaan disampaikan oleh berbagai pihak tentang belum tercapainya tujuan mulia pendidikan tinggi sesuai amanat UUD dan UU Dikti di atas. Banyak lulusan perguruan tinggi yang dinilai berperilaku dan bertutur kata yang tidak menunjukkan karakter baik, tidak berakhlak mulia, kurang toleran, cenderung pada ekstrimisme, serta korup dan tidak amanah dalam menjalani profesi dan bidang pengabdiannya. Banyak pihak menuduh kurangnya muatan dan pembekalan yang dapat memperkuat karakter baik lulusan. Pembelajaran pada pendidikan tinggi dinilai hanya berorientasi pada ranah kognitif (dan psikomotor) dan tidak menaruh perhatian serta waktu yang cukup untuk memperkuat ranah afektif. Majelis Pendidikan - Dewan Pendidikan Tinggi sebagai bagian integral dari Kementerian Riset, Teknologi dan Pendidikan Tinggi (sekarang menjadi Direktorat Jenderal Pendidikan Tinggi, Kementerian Pendidikan dan Kebudayaan) dalam tiga tahun ke belakang melakukan dialog, diskusi, dan refleksi atas keprihatinan terkait isu di atas, dan melahirkan konsep Inti Dasar Capaian Pendidikan (IDCP) yang telah dituangkan dalam dua buku, yaitu: (1) Inti Dasar Capaian Pendidikan (IDCP) 6 Rumpun Ilmu dan (2) Inspirasi Kepemimpinan Era Industri 5.0. Pada tahun 2019, diskusi difokuskan pada ranah implementasi, yaitu menginfusikan konsep IDCP pada proses pembelajaran di perguruan tinggi. Buku ini berisi beberapa inspirasi infuse IDCP dalam pembelajaran berbagai matakuliah dari bidang ilmu yang berbeda, sehingga memberikan gambaran tentang implementasi IDCP dalam berbagai rentang pemikiran.",
+                "tahun": 2023,
+                "rating": null,
+                "id_stat_publikasi": 2,
+                "total_review": 0,
+                "uri_cover": {
+                    "nama_dokumen": "IDCP.PNG",
+                    "file_path": "/v2/gmagz/books/file/IDCP.PNG"
+                }
+            },
+            {
+                "id_book": "8735cc67-1411-471c-85c1-18c81413ec8b",
+                "id_kat_publikasi": 3,
+                "judul": "10 Cara Untuk Menjadi Developer Flutter by Ikkoy",
+                "sinopsis": "jangan lupa beli buku saya",
+                "tahun": 2020,
+                "rating": null,
+                "id_stat_publikasi": 2,
+                "total_review": 0,
+                "uri_cover": {
+                    "nama_dokumen": "new flutter image-min.png",
+                    "file_path": "/v2/gmagz/books/file/new%20flutter%20image-min.png"
+                }
+            },
+            {
+                "id_book": "24eb0c6f-5116-43fd-bc11-5d1839cf17c3",
+                "id_kat_publikasi": 4,
+                "judul": "arasan (edit)",
+                "sinopsis": "tes sinopsis paragraf 1paragraf 2paragraf 3 tes edit sinopsis tes blbalblablabldjhsajkhkajshdjsasd",
+                "tahun": 2069,
+                "rating": null,
+                "id_stat_publikasi": 2,
+                "total_review": 0,
+                "uri_cover": {
+                    "nama_dokumen": "contoh_cover_majalah.jpg",
+                    "file_path": "/v2/gmagz/books/file/contoh_cover_majalah.jpg"
+                }
+            },
+            {
+                "id_book": "11973cfc-23dd-4a60-87e0-1bbcab91dce4",
+                "id_kat_publikasi": 3,
+                "judul": "BOOKLET PEMBELAJARAN DARING (EDIT)",
+                "sinopsis": "Berdasarkan Keputusan Presiden nomor 11 Tahun 2020 tentang Penetapan kedaruratan kesehatan masyarakat COVID-19 di Indonesia yang wajib dilakukan upaya penanggulangan sesuai ketentuan peraturan perundang-undangan. Dalam rangka menekan angka pertumbuhan penularan dan penyebaran Pandemi COVID-19, telah dikeluarkan kebijakan bekerja, beribadah, dan belajar dari rumah, pembelajaran tatap muka diubah menjadi pembelajaran daring atau online. Prinsip proaktif, adaptif, gotong-royong dan semangat kebangsaan dijalankan Kementerian Pendidikan dan Kebudayaan dalam menghadapi tantangan ganda yaitu gerakan perubahan kebijakan pendidikan nasional dan penanganan darurat pandemi COVID-19 yang diharapkan membuat proses pembelajaran semakin bermakna. Direktorat Jenderal Pendidikan Tinggi (Ditjen Dikti) melakukan berbagai strategi dalam melakukan upaya tersebut, salah satunya adalah pelaksanaan pembelajaran secara daring. Pelaksanaan pembelajaran daring membuat semua pihak saling membantu dan mendukung satu sama lain. Ditjen Dikti berkerjasama dengan berbagai pihak dalam upaya membantu dan memfasilitasi pelaksanaan pembelajaran secara daring. Mulai dari kerjasama dengan provider penyedia jasa kuota internet serta dibebas biayakan dalam mengakses pembelajaran daring melalui IP daring yang terdaftar di Ditjen Dikti, platform atau media untuk pelaksanaan kuliah secara daring, hingga pelatihan dan peningkatan kapasitas bagi dosen atau civitas akademika untuk meningkatkan kemampuan dalam menciptakan materi atau konten pembelajaran daring secara berkelanjutan. Tidak henti hanya pada pelatihan saja, namun kini Ditjen Dikti melalui Direktorat Pembelajaran Daring telah menyusun Booklet Pembelajaran Daring untuk dapat menjadi referensi bagi para dosen.Ditjen Dikti senantiasa melakukan koordinasi dan pengawasan terhadap pelaksanaan proses Pendidikan. Kami berharap, berbagai strategi dan upaya pelaksanaan tersebut dapat menjamin kualitas proses pembelajaran saat ini. Saya ucapkan terima kasih kepada semua pihak yang mendukung dan berkontribusi langsung dalam penyusunan booklet ini. Akhirnya, kita semua berharap agar kondisi pandemi COVID-19 ini dapat dilalui dan proses pembelajaran secara daring ini dapat memicu inovasi dan transformasi dalam dunia pendidikan.",
+                "tahun": 2069,
+                "rating": null,
+                "id_stat_publikasi": 2,
+                "total_review": 0,
+                "uri_cover": {
+                    "nama_dokumen": "BOOKLET.PNG",
+                    "file_path": "/v2/gmagz/books/file/BOOKLET.PNG"
+                }
+            },
+            {
+                "id_book": "f01d0d0d-315c-4010-b428-09a3dd10481a",
+                "id_kat_publikasi": 3,
+                "judul": "NVCF - Seed of Resilience",
+                "sinopsis": "Ada satu fakta fundamental di dunia ini yang jarang dibicarakan. Di mana seharusnya setiap masalahdikembalikan. Tidak lain dan tidak bukan, manusia adalah factor kunci atas segala hal yang terjadi di dunia ini.Baik buruknya keadaan dalam segala tingkatan, individual hingga global, berhubungan paling erat dengan kualitas manusia di dalamnya. Maka ketika suatu perubahan atau perbaikan diinginkan, manusialah subyek sekaligus obyek utama yang harus melakukan tindakan dan, di waktu yang sama,  Kualitasnya ditingkatkan. Tetapi bukankah pandemi ini terjadi di luar kendali siapapun manusia yang ada di bumi?Terlalu menghabiskan energy untuk kita berdiskusi. Tidak akan selesai adu argumentasi, dari biologi sampai konspirasi. Tidak akan berujung solusi, satu hal yang paling dibutuhkan saat ini. Untuk keluar dari masalah ini, sekali lagi, manusia harus mengerahkan energi dan potensi, yang mewujud nyata dalam aksi. Sembari terus berintropeksi dan meningkatkan diri.",
+                "tahun": null,
+                "rating": null,
+                "id_stat_publikasi": 2,
+                "total_review": 0,
+                "uri_cover": {
+                    "nama_dokumen": "NCVF.PNG",
+                    "file_path": "/v2/gmagz/books/file/NCVF.PNG"
+                }
+            },
+            {
+                "id_book": "22e072f2-ce2f-4d26-93ce-6310553f95cd",
+                "id_kat_publikasi": 4,
+                "judul": "Majalah DIKTI - Vol.01 - Edisi 02, 2020",
+                "sinopsis": "Pertama-tama, Kami buka majalah ini dengan ucapan rasa syukur yang luar biasa terhadap Tuhan Yang Mahan Esa. Betapa tidak, di tengah pandemi COVID-19, majalah Dikti edisi 1 tahun 2020 tetap hadir dan sudah terbit untuk memberikan informasi-informasi pendidikan tinggi. Kali ini, rasa syukur dan bangga juga masih menyelimuti. Bersyukur karena akhirnya majalah Dikti edisi 2 di tahun 2020 juga terbit untuk memanjakan pembaca semua dalam hal informasi yang diperlukan dari bidang pendidikan tinggi. Rasa bangga pun juga dirasakan, karena sekali lagi bangsa Indonesia membuktikan menjadi bangsa yang tangguh, dimana semua bergotong royong bersama-sama melawan wabah yang telah mengubah kultur atau metode berkehidupan. Pada majalah edisi kali ini kami akan mengupas kehidupan pendidikan tinggi di masa Adaptasi Kebiasaan Baru. Selain itu juga kami mengubah beberapa rubrik di dalam edisi kali ini untuk memberikan kesegaran baru bagi para pembaca  yang budiman. Dari pandemi COVID-19, kami juga belajar  bahwa pembelajaran selalu bisa didapat dari mana saja. Kita memang harus belajar dari pengalaman untuk terus tetap melaju dan maju. Semoga majalah Dikti selalu memberikan informasi yang bermanfaat bagi para pembaca, dan selalu menjadi referensi andalan dalam menyibak pendidikan tinggi di Indonesia. Selamat membaca.",
+                "tahun": null,
+                "rating": null,
+                "id_stat_publikasi": 2,
+                "total_review": 0,
+                "uri_cover": {
+                    "nama_dokumen": "COVER-DIKTI MAGZ_FINAL_COVER - up.png",
+                    "file_path": "/v2/gmagz/books/file/COVER-DIKTI%20MAGZ_FINAL_COVER%20-%20up.png"
+                }
+            },
+            {
+                "id_book": "d343ebbe-5798-4827-ad39-8325385adef6",
+                "id_kat_publikasi": 3,
+                "judul": "BUKU PENDIDIKAN TINGGI DI MASA PANDEMI – Buku 01",
+                "sinopsis": "Pembelajaran Perguruan Tinggi dan Implementasi Merdeka Belajar di Masa Pandemi Covid-19 Pandemi Corona Virus Disease (Covid-19) yang menerpa dunia sejak awal tahun 2020 telah berdampak signiﬁkan pada segala aspek kehidupan, termasuk dunia pendidikan tinggi. Mudahnya penularan virus corona dan dampak kematian tinggi bagi penderitanya telah mengubah pembelajaran tatap muka yang semula mendominasi, dihentikan sementara dan didesak untuk bermigrasi ke pembelajaran berbasiskan jaringan internet. Direktorat Jenderal Pendidikan Tinggi (Ditjen Dikti), Kementerian Pendidikan dan Kebudayaan (Kemendikbud) merespon kondisi ini dengan memberikan kemudahan pembelajaran di masa darurat Covid-19 kepada mahasiswa di perguruan tinggi. Tertuang dalam Surat Edaran dari Menteri Pendidikan dan Kebudayaan Nomor 36962/MPK.A/HK/2020 tanggal 17 Maret 2020 tentang Pembelajaran secara Daring dan Bekerja dariRumah dalam rangka Pencegahan Penyebaran Covid-19. Aturan ini kemudian diperkuat oleh surat tertanggal 31 Maret 2020 yang ditujukan kepada: 1). Seluruh Pimpinan Perguruan Tinggi Negeri/Swasta (PTN/PTS), dan 2). Seluruh Kepala Lembaga Layanan Pendidikan Tinggi Wilayah I sampai dengan XIV. Adapun salah satu isi suratnya mengenai masa belajar paling lama bagi mahasiswa yang seharusnya berakhir pada semester genap 2019/2020, dapat diperpanjang  1 semester, dan pengaturannya diserahkan kepada Pimpinan Perguruan Tinggi sesuai dengan kondisi dan situasi setempat. Covid-19 sebenarnya mampu mendorong percepatan implementasi pendidikan jarak jauh berbasiskan teknologi informasi. Wabah menjadi momentum penting bahwa pendidikan jarak jauh harus sudah mulai dijajaki secara serius. Berdasarkan survei yang dilakukan Ditjen Dikti, 98 persen perguruan tinggi telah melakukan pembelajaran daring. Setali tiga uang, mahasiswa menilai pembelajaran daring berjalan cukup efektif. Menurut Pelaksana Tugas (plt.) Direktur Jenderal (Dirjen) Dikti, pencapaian ini merupakan suatu hal yang luar biasa sekali, mengingat hampir sebelum pandemi, Kemendikbud telah mendorong pemanfaatan teknologi untuk memperkaya pembelajaran. tetapi belum mencapai hasil optimal. Sedikit sekali perguruan tinggi yang telah melakukan pembelajaran daring, bisa dikatakan wabah pandemic ini seperti berkah terselubung bagi praktik pembelajaran kampus. Implementasi pembelajaran daring ini menghadapi sejumlah kendala di lapangan. Pertama, dari sisi budaya pembelajaran, masih banyak dosen maupun mahasiswa yang belum terbiasa menggunakan sistem pembelajaran daring. Kondisi ini menggambarkan terjadi kesenjangan digital atau literasi digital. Dosen dan mahasiswa perlu adaptasi keras untuk mampu terampil dalam menggunakanpembelajaran daring. Misalnya, dosen dituntut harus meningkatkan metode pengajarannya agar proses pembelajaran mahasiswa tidak berhenti karenapandemi dan hasil kualitas pembelajaran tidak turun meskipun tanpa tatap muka. Ditjen Dikti proaktif menyiapkan pelatihan pembelajaran daring bagi 100 ribu dosen. Pelatihan ini merupakan salah satu upaya penyegaran dan peningkatan keterampilan para dosen dalam menyampaikan materi melalui berbagai platform dan teknologi pendukung pembelajaran daring. Pelatihan ini juga memperhatikan ketersediaan akses internet. Ditjen Dikti pun menyusun modul digital untuk Pembelajaran Jarak Jauh (PJJ). Materi dalam modul digital tersebut mencakup lima sektor penggerak ekonomi di Indonesia, yakni agribisnis, pariwisata, layanan kesehatan, penjualan daring, dan ekspor tenaga kerja. Terdapat sekitar 600 modul terkait penggerak ekonomi tersebut. Modul ini nantinnya dapat dimanfaatkan mahasiswa. Masalah kedua, pembelajaran daring menghadapi kendala jaringan internet. Indonesia saat ini masih menghadapi kendala kesenjangan digital antar wilayah dalam akses internet. Berdasarkan kajian Kemendikbud, pembelajaran daring oleh perguruan tinggi selama masa pandemi Covid-19 menghadapi kendala utama masih soal jaringan internet. Untuk menyiasatinya, Ditjen Dikti berusaha mempersiapkan pembelajaran semester depan dengan lebih baik, melalui kerja sama dengan Kementerian Komunikasi dan Informatika (Kemenkominfo) untuk penyediaan internet di daerah blank spot. Di masa pandemi mahasiswa sudah kembali ke daerah mereka masing-masing di mana jaringan internet belum merata. Masalah ketiga, belum semua perguruan tinggi memiliki sistem pembelajaran daring, baik secara infrastruktur maupun platform pembelajaran. Kemendikbud memiliki berbagai program kegiatan terkait pendidikan berbasiskan teknologi informasi ini. Kemendikbud berusaha memaksimalkan platform Sistem Pembelajaran Daring (SPADA). Platform digital antarperguruan tinggi itu kini telah memiliki 3.000 modul yang bisa dimanfaatkan oleh mahasiswa maupun dosen dalam kegiatan belajar mengajar secara dalam jaringan (daring). Dosen dan mahasiswa dapat mengakses langsung sumber pembelajaran dari perguruan tinggi lain di www. spada.kemdikbud.go.id. Sementara, bagi perguruan tinggi dengan keterbatasan sumber daya pembelajaran daring, Diktimenyediakan kuliahdaring.kemdikbud.go.id. Pemerintah juga bekerja sama berbagai platform swasta menyediakan aplikasi pembelajaran daring seperti Google, Huawei, Microsoft. Keempat, pendidikan daring membutuhkan jaringan internet yang seringkali biayanya mahal sehingga memberatkan kalangan mahasiswa. Ditjen Dikti dan berbagai perguruan tinggi mengupayakan pengurangan beban ekonomi mahasiswa untuk mengeluarkan biaya kuota internet tersebut dengan subsidi kuota dan/atau pulsa. Semangat gotong royong sangat terasa, ketika sejumlah penyedia layanan telekomunikasi seperti Telkom, Indosat, XL melalui program tanggung jawab perusahaan turut berpartisipasi memberikan akses internet gratis.  Masa pandemi yang belum menentu kapan berakhir menjadi tantangan berat bagi perguruan tinggi ke depan. Kita semua berharap perguruan tinggi mampu adaptif untuk menghasilkan kualitas pembelajaran daring setara seperti layaknya sebelum pandemi menerpa. Mahasiswa menyerap ilmu dengan baik sehingga pembelajaran daring diharapkan tidak serta merta mengorbankan kualitas lulusan. Selain mempercepat pelaksanaan metode pembelajaran jarak jauh di kampus-kampus Indonesia, pandemi menjadi sebuah ujian dan tantangan konsep Merdeka Belajar: Kampus Merdeka. Seluruh sivitas akademika di Indonesia mencoba sebuah konsep pembelajaran yang bersifat mandiri. Pembelajaran di masa akan datang memungkinkan terbentuk sebuah normal baru di mana akan sangat bergantung pada penggunaan gawai dan layar komputer alih-alih tatap muka. Kita harus mampu menghadapinya.",
+                "tahun": null,
+                "rating": null,
+                "id_stat_publikasi": 2,
+                "total_review": 0,
+                "uri_cover": {
+                    "nama_dokumen": "buku 1.PNG",
+                    "file_path": "/v2/gmagz/books/file/buku%201.PNG"
+                }
+            },
+            {
+                "id_book": "37e88ba2-74c9-4a19-839e-5aa7f46a8b51",
+                "id_kat_publikasi": 4,
+                "judul": "Majalah DIKTI - Vol.01 - Edisi 01, 2020",
+                "sinopsis": "Pembaca yang budiman, sekembalinya Direktorat Jenderal Pendidikan Tinggi ke pangkuan Kementerian Pendidikan dan Kebudayaan, kini majalah ini pun turut mengalami perubahan dan melakukan penyesuaian. Perubahan dan penyesuaian tersebut menjadi langkah awal debut kembali majalah Dikti untuk menyapa para pembaca yang budiman. Perubahan tersebut antara lain dengan berubahnya logo majalah Dikti untuk memberikan kesan yang lebih segar untuk para pembaca, sekaligus menjadi ikon penting dari majalah ini agar mudah diingat kehadirannya diantara pembaca setia majalah Dikti. Pada edisi ke-1 di tahun 2020 ini, majalah Dikti mengangkat tema penting yang menjadi salah satu bagian dari paket kebijakan Merdeka Belajar, yaitu Kampus Merdeka. Kami akan mengupas secara lebih luas bagaimana sebenarnya pandangan dan penerapan akan kebijakan Kampus Merdeka baik untuk Perguruan Tinggi maupun pemangku kepentingan lainnya. Rubrik-rubrik lebih dikemas secara menarik sehingga memanjakan mata para pembaca. Mengutip kata-kata dari Bill Gates, pendiri Microsoft Corporation, &ldquo;Jika Anda tidak mempelajari manajemen perubahan yang berorientasi pada masa depan, maka masa depan tidak berpihak kepada anda&rdquo;. Kami berharap perubahan pada majalah dan ulasan tema pada edisi kali ini membuat para pembaca setia semakin memahami kebijakan-kebijakan yang secara khusus sudah dikeluarkan oleh Direktorat Jenderal Pendidikan Tinggi.  Salam Sukses",
+                "tahun": null,
+                "rating": null,
+                "id_stat_publikasi": 2,
+                "total_review": 0,
+                "uri_cover": {
+                    "nama_dokumen": "COVER-FINAL_Gmagz.png",
+                    "file_path": "/v2/gmagz/books/file/COVER-FINAL_Gmagz.png"
+                }
+            },
+            {
+                "id_book": "8ecaa3b2-e4d9-4f78-8a44-f0af7b3565b8",
+                "id_kat_publikasi": 4,
+                "judul": "Majalah UI Edisi 11",
+                "sinopsis": "Dalam beberapa tahun terakhir, Universitas Indonesia telah menaruh perhatian yang cukup besar dalam pengembangan inovasi yang berakar dari tradisi riset ilmiah. Sampai hari ini telah cukup banyak inovasi yang dihasilkan. Berbagai inovasi tersebut tentu dimaksudkan sebagai sumbangsih UI untuk penyelesaian berbagai persoalan yang ada di masyarakat. Umumnya, berbagai inovasi tersebut berangkat dari hasil riset. Hasil-hasil riset tersebut kemudian ditranslasikan menjadi produkproduk inovatif atau solusi-solusi praktis yang bisa dimanfaatkan oleh masyarakat luas.",
+                "tahun": null,
+                "rating": 4.5,
+                "id_stat_publikasi": 2,
+                "total_review": 5,
+                "uri_cover": {
+                    "nama_dokumen": "Majalah UI Edisi 11-1.jpg",
+                    "file_path": "/v2/gmagz/books/file/Majalah%20UI%20Edisi%2011-1.jpg"
+                }
+            },
+            {
+                "id_book": "0749e891-ea55-4b8e-9b99-1032e16e1864",
+                "id_kat_publikasi": 4,
+                "judul": "Majalah Ristekdikti Edisi II Tahun 2019",
+                "sinopsis": "Pembaca yang Budiman,  Majalah Ristekdikti edisi kali ini menyajikan berbagai berbagai sisi dalam upaya pemerintah membangun ekosistem inovasi teknologi, capaian-capaian, serta produk-produk inovasi yang telah dihasilkan dan dimanfaatkan dalam berbagai sektor pembangunan khususnya dalam mendukung sektor industri kreatif. Selamat membaca.  Ayo, terus gelorakan inovasi !!! Inovasi Bangun Bangsa.",
+                "tahun": null,
+                "rating": 4,
+                "id_stat_publikasi": 2,
+                "total_review": 14,
+                "uri_cover": {
+                    "nama_dokumen": "FIX Layout Majalah Ristekdikti Edisi II 2019-1.jpg",
+                    "file_path": "/v2/gmagz/books/file/FIX%20Layout%20Majalah%20Ristekdikti%20Edisi%20II%202019-1.jpg"
+                }
+            }
+        ],
+        "page": 1,
+        "item": 10,
+        "row_count": 10,
+        "total_row_count": 47
+    }
+}

@@ -1,0 +1,140 @@
+{
+  "data": [
+    {
+      "kode_provinsi": "20000",
+      "kode_kab_kota": "20500",
+      "kab_kota": "Kab. Bogor"
+    },
+    {
+      "kode_provinsi": "20000",
+      "kode_kab_kota": "20700",
+      "kab_kota": "Kab. Cianjur"
+    },
+    {
+      "kode_provinsi": "20000",
+      "kode_kab_kota": "20800",
+      "kab_kota": "Kab. Bandung"
+    },
+    {
+      "kode_provinsi": "20000",
+      "kode_kab_kota": "20600",
+      "kab_kota": "Kab. Sukabumi"
+    },
+    {
+      "kode_provinsi": "20000",
+      "kode_kab_kota": "21500",
+      "kab_kota": "Kab. Kuningan"
+    },
+    {
+      "kode_provinsi": "20000",
+      "kode_kab_kota": "21100",
+      "kab_kota": "Kab. Garut"
+    },
+    {
+      "kode_provinsi": "20000",
+      "kode_kab_kota": "21200",
+      "kab_kota": "Kab. Tasikmalaya"
+    },
+    {
+      "kode_provinsi": "20000",
+      "kode_kab_kota": "26000",
+      "kab_kota": "Kota Bandung"
+    },
+    {
+      "kode_provinsi": "20000",
+      "kode_kab_kota": "26100",
+      "kab_kota": "Kota Bogor"
+    },
+    {
+      "kode_provinsi": "20000",
+      "kode_kab_kota": "26200",
+      "kab_kota": "Kota Sukabumi"
+    },
+    {
+      "kode_provinsi": "20000",
+      "kode_kab_kota": "26300",
+      "kab_kota": "Kota Cirebon"
+    },
+    {
+      "kode_provinsi": "20000",
+      "kode_kab_kota": "26500",
+      "kab_kota": "Kota Bekasi"
+    },
+    {
+      "kode_provinsi": "20000",
+      "kode_kab_kota": "26600",
+      "kab_kota": "Kota Depok"
+    },
+    {
+      "kode_provinsi": "20000",
+      "kode_kab_kota": "21800",
+      "kab_kota": "Kab. Indramayu"
+    },
+    {
+      "kode_provinsi": "20000",
+      "kode_kab_kota": "21900",
+      "kab_kota": "Kab. Subang"
+    },
+    {
+      "kode_provinsi": "20000",
+      "kode_kab_kota": "21700",
+      "kab_kota": "Kab. Cirebon"
+    },
+    {
+      "kode_provinsi": "20000",
+      "kode_kab_kota": "22200",
+      "kab_kota": "Kab. Bekasi"
+    },
+    {
+      "kode_provinsi": "20000",
+      "kode_kab_kota": "22300",
+      "kab_kota": "Kab. Bandung Barat"
+    },
+    {
+      "kode_provinsi": "20000",
+      "kode_kab_kota": "22500",
+      "kab_kota": "Kab. Pangandaran"
+    },
+    {
+      "kode_provinsi": "20000",
+      "kode_kab_kota": "22000",
+      "kab_kota": "Kab. Purwakarta"
+    },
+    {
+      "kode_provinsi": "20000",
+      "kode_kab_kota": "21400",
+      "kab_kota": "Kab. Ciamis"
+    },
+    {
+      "kode_provinsi": "20000",
+      "kode_kab_kota": "22100",
+      "kab_kota": "Kab. Karawang"
+    },
+    {
+      "kode_provinsi": "20000",
+      "kode_kab_kota": "21000",
+      "kab_kota": "Kab. Sumedang"
+    },
+    {
+      "kode_provinsi": "20000",
+      "kode_kab_kota": "21600",
+      "kab_kota": "Kab. Majalengka"
+    },
+    {
+      "kode_provinsi": "20000",
+      "kode_kab_kota": "26700",
+      "kab_kota": "Kota Cimahi"
+    },
+    {
+      "kode_provinsi": "20000",
+      "kode_kab_kota": "26800",
+      "kab_kota": "Kota Tasikmalaya"
+    },
+    {
+      "kode_provinsi": "20000",
+      "kode_kab_kota": "26900",
+      "kab_kota": "Kota Banjar"
+    }
+  ],
+  "message": "ok"
+}

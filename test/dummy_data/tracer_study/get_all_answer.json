@@ -1,0 +1,2092 @@
+{
+    "status": 200,
+    "message": "data berhasil didapatkan!",
+    "data": {
+        "question": [
+            {
+                "question_id": 1,
+                "parent_id": 0,
+                "order": 1,
+                "pages": 1,
+                "is_required": true,
+                "question": "Jelaskan status Anda saat ini?",
+                "answer_type": {
+                    "answer_type_id": 1,
+                    "type": "single choice"
+                },
+                "custom": null,
+                "source_data": null,
+                "relation_with": null,
+                "range_label": null,
+                "answer_list": [
+                    {
+                        "answer_list_id": 1,
+                        "answer_label": "Bekerja (full time / part time)",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 2,
+                        "answer_label": "Belum memungkinkan bekerja",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 3,
+                        "answer_label": "Wiraswasta",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 4,
+                        "answer_label": "Melanjutkan Pendidikan",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 5,
+                        "answer_label": "Tidak kerja tetapi sedang mencari kerja",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    }
+                ],
+                "has_child": false,
+                "is_child": false,
+                "child": null,
+                "created_at": "2022-12-13T00:00:00Z",
+                "updated_at": null
+            },
+            {
+                "question_id": 2,
+                "parent_id": 0,
+                "order": 2,
+                "pages": 1,
+                "is_required": false,
+                "question": "Apakah Anda telah mendapatkan pekerjaan <= 6 bulan / termasuk bekerja sebelum lulus?",
+                "answer_type": {
+                    "answer_type_id": 1,
+                    "type": "single choice"
+                },
+                "custom": null,
+                "source_data": null,
+                "relation_with": null,
+                "range_label": null,
+                "answer_list": [
+                    {
+                        "answer_list_id": 74,
+                        "answer_label": "Ya",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 75,
+                        "answer_label": "Tidak",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    }
+                ],
+                "has_child": true,
+                "is_child": false,
+                "child": [
+                    {
+                        "question_id": 3,
+                        "parent_id": 2,
+                        "order": 1,
+                        "pages": 0,
+                        "is_required": false,
+                        "question": "Dalam berapa bulan Anda mendapatkan pekerjaan?",
+                        "answer_type": {
+                            "answer_type_id": 12,
+                            "type": "input number"
+                        },
+                        "custom": null,
+                        "source_data": null,
+                        "relation_with": null,
+                        "range_label": null,
+                        "answer_list": null,
+                        "has_child": false,
+                        "is_child": true,
+                        "child": null,
+                        "created_at": "2022-12-13T00:00:00Z",
+                        "updated_at": null
+                    },
+                    {
+                        "question_id": 4,
+                        "parent_id": 2,
+                        "order": 2,
+                        "pages": 0,
+                        "is_required": false,
+                        "question": "Berapa rata-rata pendapatan Anda per bulan? (take home pay)?",
+                        "answer_type": {
+                            "answer_type_id": 12,
+                            "type": "input number"
+                        },
+                        "custom": "currency",
+                        "source_data": null,
+                        "relation_with": null,
+                        "range_label": null,
+                        "answer_list": null,
+                        "has_child": false,
+                        "is_child": true,
+                        "child": null,
+                        "created_at": "2022-12-13T00:00:00Z",
+                        "updated_at": null
+                    }
+                ],
+                "created_at": "2022-12-13T00:00:00Z",
+                "updated_at": null
+            },
+            {
+                "question_id": 5,
+                "parent_id": 0,
+                "order": 3,
+                "pages": 1,
+                "is_required": false,
+                "question": "Dimana lokasi tempat Anda bekerja?",
+                "answer_type": {
+                    "answer_type_id": 7,
+                    "type": "question without answer"
+                },
+                "custom": null,
+                "source_data": null,
+                "relation_with": null,
+                "range_label": null,
+                "answer_list": null,
+                "has_child": true,
+                "is_child": false,
+                "child": [
+                    {
+                        "question_id": 6,
+                        "parent_id": 5,
+                        "order": 1,
+                        "pages": 0,
+                        "is_required": false,
+                        "question": "Provinsi",
+                        "answer_type": {
+                            "answer_type_id": 8,
+                            "type": "provinsi"
+                        },
+                        "custom": null,
+                        "source_data": "/provinsi",
+                        "relation_with": null,
+                        "range_label": null,
+                        "answer_list": null,
+                        "has_child": false,
+                        "is_child": true,
+                        "child": null,
+                        "created_at": "2022-12-13T00:00:00Z",
+                        "updated_at": null
+                    },
+                    {
+                        "question_id": 7,
+                        "parent_id": 5,
+                        "order": 2,
+                        "pages": 0,
+                        "is_required": false,
+                        "question": "Kabupaten",
+                        "answer_type": {
+                            "answer_type_id": 9,
+                            "type": "kabupaten"
+                        },
+                        "custom": null,
+                        "source_data": "/kabupaten",
+                        "relation_with": 6,
+                        "range_label": null,
+                        "answer_list": null,
+                        "has_child": false,
+                        "is_child": true,
+                        "child": null,
+                        "created_at": "2022-12-13T00:00:00Z",
+                        "updated_at": null
+                    }
+                ],
+                "created_at": "2022-12-13T00:00:00Z",
+                "updated_at": null
+            },
+            {
+                "question_id": 8,
+                "parent_id": 0,
+                "order": 4,
+                "pages": 1,
+                "is_required": false,
+                "question": "Apa jenis perusahaan/intansi/institusi tempat anda bekerja sekarang?",
+                "answer_type": {
+                    "answer_type_id": 1,
+                    "type": "single choice"
+                },
+                "custom": null,
+                "source_data": null,
+                "relation_with": null,
+                "range_label": null,
+                "answer_list": [
+                    {
+                        "answer_list_id": 6,
+                        "answer_label": "Intansi pemerintah",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 7,
+                        "answer_label": "BUMN/BUMD",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 8,
+                        "answer_label": "Institusi/Organisasi Multilateral",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 9,
+                        "answer_label": "Organisasi non-profit/Lembaga Swadaya Masyarakat",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 10,
+                        "answer_label": "Perusahaan swasta",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 11,
+                        "answer_label": "Wiraswasta/perusahaan sendiri",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 12,
+                        "answer_label": "Lainnya, tuliskan",
+                        "extra_answer": true,
+                        "extra_answer_type": "string"
+                    }
+                ],
+                "has_child": false,
+                "is_child": false,
+                "child": null,
+                "created_at": "2022-12-13T00:00:00Z",
+                "updated_at": null
+            },
+            {
+                "question_id": 9,
+                "parent_id": 0,
+                "order": 5,
+                "pages": 1,
+                "is_required": false,
+                "question": "Apa nama perusahaan/kantor tempat Anda bekerja?",
+                "answer_type": {
+                    "answer_type_id": 4,
+                    "type": "input text"
+                },
+                "custom": null,
+                "source_data": null,
+                "relation_with": null,
+                "range_label": null,
+                "answer_list": null,
+                "has_child": false,
+                "is_child": false,
+                "child": null,
+                "created_at": "2022-12-13T00:00:00Z",
+                "updated_at": null
+            },
+            {
+                "question_id": 10,
+                "parent_id": 0,
+                "order": 6,
+                "pages": 2,
+                "is_required": false,
+                "question": "Bila berwiraswasta, apa posisi/jabatan Anda saat ini? (Apabila 1 Menjawab [3] wiraswasta)",
+                "answer_type": {
+                    "answer_type_id": 3,
+                    "type": "dropdown"
+                },
+                "custom": null,
+                "source_data": null,
+                "relation_with": null,
+                "range_label": null,
+                "answer_list": [
+                    {
+                        "answer_list_id": 13,
+                        "answer_label": "Founder",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 14,
+                        "answer_label": "Co-Founder",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 15,
+                        "answer_label": "Staff",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 16,
+                        "answer_label": "Freelance/Kerja Lepas",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    }
+                ],
+                "has_child": false,
+                "is_child": false,
+                "child": null,
+                "created_at": "2022-12-13T00:00:00Z",
+                "updated_at": null
+            },
+            {
+                "question_id": 11,
+                "parent_id": 0,
+                "order": 7,
+                "pages": 2,
+                "is_required": false,
+                "question": "Apa tingkat tempat kerja Anda?",
+                "answer_type": {
+                    "answer_type_id": 3,
+                    "type": "dropdown"
+                },
+                "custom": null,
+                "source_data": null,
+                "relation_with": null,
+                "range_label": null,
+                "answer_list": [
+                    {
+                        "answer_list_id": 17,
+                        "answer_label": "Lokal/Wilayah/Wiraswasta tidak berbadan hukum",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 18,
+                        "answer_label": "Nasional/Wiraswasta berbadan hukum",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 19,
+                        "answer_label": "Multinasional/Internasional",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    }
+                ],
+                "has_child": false,
+                "is_child": false,
+                "child": null,
+                "created_at": "2022-12-13T00:00:00Z",
+                "updated_at": null
+            },
+            {
+                "question_id": 12,
+                "parent_id": 0,
+                "order": 8,
+                "pages": 2,
+                "is_required": false,
+                "question": "Pertanyaan studi lanjut",
+                "answer_type": {
+                    "answer_type_id": 7,
+                    "type": "question without answer"
+                },
+                "custom": null,
+                "source_data": null,
+                "relation_with": null,
+                "range_label": null,
+                "answer_list": null,
+                "has_child": true,
+                "is_child": false,
+                "child": [
+                    {
+                        "question_id": 13,
+                        "parent_id": 12,
+                        "order": 1,
+                        "pages": 0,
+                        "is_required": false,
+                        "question": "Sumber biaya",
+                        "answer_type": {
+                            "answer_type_id": 3,
+                            "type": "dropdown"
+                        },
+                        "custom": null,
+                        "source_data": null,
+                        "relation_with": null,
+                        "range_label": null,
+                        "answer_list": [
+                            {
+                                "answer_list_id": 20,
+                                "answer_label": "Biaya Sendiri",
+                                "extra_answer": false,
+                                "extra_answer_type": ""
+                            },
+                            {
+                                "answer_list_id": 21,
+                                "answer_label": "Beasiswa",
+                                "extra_answer": false,
+                                "extra_answer_type": ""
+                            }
+                        ],
+                        "has_child": false,
+                        "is_child": true,
+                        "child": null,
+                        "created_at": "2022-12-13T00:00:00Z",
+                        "updated_at": null
+                    },
+                    {
+                        "question_id": 14,
+                        "parent_id": 12,
+                        "order": 2,
+                        "pages": 0,
+                        "is_required": false,
+                        "question": "Perguruan Tinggi",
+                        "answer_type": {
+                            "answer_type_id": 10,
+                            "type": "pt"
+                        },
+                        "custom": null,
+                        "source_data": "/perguruan_tinggi",
+                        "relation_with": null,
+                        "range_label": null,
+                        "answer_list": null,
+                        "has_child": false,
+                        "is_child": true,
+                        "child": null,
+                        "created_at": "2022-12-13T00:00:00Z",
+                        "updated_at": null
+                    },
+                    {
+                        "question_id": 15,
+                        "parent_id": 12,
+                        "order": 3,
+                        "pages": 0,
+                        "is_required": false,
+                        "question": "Program Studi",
+                        "answer_type": {
+                            "answer_type_id": 11,
+                            "type": "prodi"
+                        },
+                        "custom": null,
+                        "source_data": "/prodi",
+                        "relation_with": 14,
+                        "range_label": null,
+                        "answer_list": null,
+                        "has_child": false,
+                        "is_child": true,
+                        "child": null,
+                        "created_at": "2022-12-13T00:00:00Z",
+                        "updated_at": null
+                    },
+                    {
+                        "question_id": 16,
+                        "parent_id": 12,
+                        "order": 4,
+                        "pages": 0,
+                        "is_required": false,
+                        "question": "Tanggal Masuk",
+                        "answer_type": {
+                            "answer_type_id": 6,
+                            "type": "date"
+                        },
+                        "custom": null,
+                        "source_data": null,
+                        "relation_with": null,
+                        "range_label": null,
+                        "answer_list": null,
+                        "has_child": false,
+                        "is_child": true,
+                        "child": null,
+                        "created_at": "2022-12-13T00:00:00Z",
+                        "updated_at": null
+                    }
+                ],
+                "created_at": "2022-12-13T00:00:00Z",
+                "updated_at": null
+            },
+            {
+                "question_id": 17,
+                "parent_id": 0,
+                "order": 9,
+                "pages": 2,
+                "is_required": true,
+                "question": "Sebutkan sumber dana dalam pembiayaan kuliah? (bukan ketika Studi Lanjut)",
+                "answer_type": {
+                    "answer_type_id": 1,
+                    "type": "single choice"
+                },
+                "custom": null,
+                "source_data": null,
+                "relation_with": null,
+                "range_label": null,
+                "answer_list": [
+                    {
+                        "answer_list_id": 22,
+                        "answer_label": "Biaya Sendiri/Keluarga",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 23,
+                        "answer_label": "Beasiswa ADIK",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 24,
+                        "answer_label": "Beasiswa BIDIKMISI",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 25,
+                        "answer_label": "Beasiswa PPA",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 26,
+                        "answer_label": "Beasiswa AFIRMASI",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 27,
+                        "answer_label": "Beasiswa Perusahaan/Swasta",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 28,
+                        "answer_label": "Lainnya, tuliskan",
+                        "extra_answer": true,
+                        "extra_answer_type": "string"
+                    }
+                ],
+                "has_child": false,
+                "is_child": false,
+                "child": null,
+                "created_at": "2022-12-13T00:00:00Z",
+                "updated_at": null
+            },
+            {
+                "question_id": 18,
+                "parent_id": 0,
+                "order": 10,
+                "pages": 2,
+                "is_required": true,
+                "question": "Seberapa erat hubungan bidang studi dengan pekerjaan Anda?",
+                "answer_type": {
+                    "answer_type_id": 1,
+                    "type": "single choice"
+                },
+                "custom": null,
+                "source_data": null,
+                "relation_with": null,
+                "range_label": null,
+                "answer_list": [
+                    {
+                        "answer_list_id": 29,
+                        "answer_label": "Sangat Erat",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 30,
+                        "answer_label": "Erat",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 31,
+                        "answer_label": "Cukup Erat",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 32,
+                        "answer_label": "Kurang Erat",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 33,
+                        "answer_label": "Tidak Sama Sekali",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    }
+                ],
+                "has_child": false,
+                "is_child": false,
+                "child": null,
+                "created_at": "2022-12-13T00:00:00Z",
+                "updated_at": null
+            },
+            {
+                "question_id": 19,
+                "parent_id": 0,
+                "order": 11,
+                "pages": 2,
+                "is_required": true,
+                "question": "Tingkat pendidikan apa yang paling tepat/sesuai untuk pekerjaan anda saat ini?",
+                "answer_type": {
+                    "answer_type_id": 1,
+                    "type": "single choice"
+                },
+                "custom": null,
+                "source_data": null,
+                "relation_with": null,
+                "range_label": null,
+                "answer_list": [
+                    {
+                        "answer_list_id": 34,
+                        "answer_label": "Setingkat Lebih Tinggi",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 35,
+                        "answer_label": "Tingkat yang Sama",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 36,
+                        "answer_label": "Setingkat Lebih Rendah",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 37,
+                        "answer_label": "Tidak Perlu Pendidikan Tinggi",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    }
+                ],
+                "has_child": false,
+                "is_child": false,
+                "child": null,
+                "created_at": "2022-12-13T00:00:00Z",
+                "updated_at": null
+            },
+            {
+                "question_id": 20,
+                "parent_id": 0,
+                "order": 12,
+                "pages": 3,
+                "is_required": false,
+                "question": "Pada saat lulus, pada tingkat mana kompetensi di bawah ini anda : kuasai? (A)",
+                "answer_type": {
+                    "answer_type_id": 7,
+                    "type": "question without answer"
+                },
+                "custom": null,
+                "source_data": null,
+                "relation_with": null,
+                "range_label": null,
+                "answer_list": null,
+                "has_child": true,
+                "is_child": false,
+                "child": [
+                    {
+                        "question_id": 21,
+                        "parent_id": 20,
+                        "order": 1,
+                        "pages": 0,
+                        "is_required": true,
+                        "question": "Etika",
+                        "answer_type": {
+                            "answer_type_id": 5,
+                            "type": "range"
+                        },
+                        "custom": null,
+                        "source_data": null,
+                        "relation_with": null,
+                        "range_label": [
+                            "Tidak Menguasai",
+                            "Sangat Menguasai"
+                        ],
+                        "answer_list": null,
+                        "has_child": false,
+                        "is_child": true,
+                        "child": null,
+                        "created_at": "2022-12-13T00:00:00Z",
+                        "updated_at": null
+                    },
+                    {
+                        "question_id": 22,
+                        "parent_id": 20,
+                        "order": 2,
+                        "pages": 0,
+                        "is_required": true,
+                        "question": "Keahlian berdasarkan bidang ilmu",
+                        "answer_type": {
+                            "answer_type_id": 5,
+                            "type": "range"
+                        },
+                        "custom": null,
+                        "source_data": null,
+                        "relation_with": null,
+                        "range_label": [
+                            "Tidak Menguasai",
+                            "Sangat Menguasai"
+                        ],
+                        "answer_list": null,
+                        "has_child": false,
+                        "is_child": true,
+                        "child": null,
+                        "created_at": "2022-12-13T00:00:00Z",
+                        "updated_at": null
+                    },
+                    {
+                        "question_id": 23,
+                        "parent_id": 20,
+                        "order": 3,
+                        "pages": 0,
+                        "is_required": true,
+                        "question": "Bahasa Inggris",
+                        "answer_type": {
+                            "answer_type_id": 5,
+                            "type": "range"
+                        },
+                        "custom": null,
+                        "source_data": null,
+                        "relation_with": null,
+                        "range_label": [
+                            "Tidak Menguasai",
+                            "Sangat Menguasai"
+                        ],
+                        "answer_list": null,
+                        "has_child": false,
+                        "is_child": true,
+                        "child": null,
+                        "created_at": "2022-12-13T00:00:00Z",
+                        "updated_at": null
+                    },
+                    {
+                        "question_id": 24,
+                        "parent_id": 20,
+                        "order": 4,
+                        "pages": 0,
+                        "is_required": true,
+                        "question": "Penggunaan Teknologi Informasi",
+                        "answer_type": {
+                            "answer_type_id": 5,
+                            "type": "range"
+                        },
+                        "custom": null,
+                        "source_data": null,
+                        "relation_with": null,
+                        "range_label": [
+                            "Tidak Menguasai",
+                            "Sangat Menguasai"
+                        ],
+                        "answer_list": null,
+                        "has_child": false,
+                        "is_child": true,
+                        "child": null,
+                        "created_at": "2022-12-13T00:00:00Z",
+                        "updated_at": null
+                    },
+                    {
+                        "question_id": 25,
+                        "parent_id": 20,
+                        "order": 5,
+                        "pages": 0,
+                        "is_required": true,
+                        "question": "Komunikasi",
+                        "answer_type": {
+                            "answer_type_id": 5,
+                            "type": "range"
+                        },
+                        "custom": null,
+                        "source_data": null,
+                        "relation_with": null,
+                        "range_label": [
+                            "Tidak Menguasai",
+                            "Sangat Menguasai"
+                        ],
+                        "answer_list": null,
+                        "has_child": false,
+                        "is_child": true,
+                        "child": null,
+                        "created_at": "2022-12-13T00:00:00Z",
+                        "updated_at": null
+                    },
+                    {
+                        "question_id": 26,
+                        "parent_id": 20,
+                        "order": 6,
+                        "pages": 0,
+                        "is_required": true,
+                        "question": "Kerja sama tim",
+                        "answer_type": {
+                            "answer_type_id": 5,
+                            "type": "range"
+                        },
+                        "custom": null,
+                        "source_data": null,
+                        "relation_with": null,
+                        "range_label": [
+                            "Tidak Menguasai",
+                            "Sangat Menguasai"
+                        ],
+                        "answer_list": null,
+                        "has_child": false,
+                        "is_child": true,
+                        "child": null,
+                        "created_at": "2022-12-13T00:00:00Z",
+                        "updated_at": null
+                    },
+                    {
+                        "question_id": 27,
+                        "parent_id": 20,
+                        "order": 7,
+                        "pages": 0,
+                        "is_required": true,
+                        "question": "Pengembangan",
+                        "answer_type": {
+                            "answer_type_id": 5,
+                            "type": "range"
+                        },
+                        "custom": null,
+                        "source_data": null,
+                        "relation_with": null,
+                        "range_label": [
+                            "Tidak Menguasai",
+                            "Sangat Menguasai"
+                        ],
+                        "answer_list": null,
+                        "has_child": false,
+                        "is_child": true,
+                        "child": null,
+                        "created_at": "2022-12-13T00:00:00Z",
+                        "updated_at": null
+                    }
+                ],
+                "created_at": "2022-12-13T00:00:00Z",
+                "updated_at": null
+            },
+            {
+                "question_id": 28,
+                "parent_id": 0,
+                "order": 13,
+                "pages": 4,
+                "is_required": false,
+                "question": "Pada saat ini, pada tingkat mana kompetensi di bawah ini diperlukan dalam pekerjaan? (B)",
+                "answer_type": {
+                    "answer_type_id": 7,
+                    "type": "question without answer"
+                },
+                "custom": null,
+                "source_data": null,
+                "relation_with": null,
+                "range_label": null,
+                "answer_list": null,
+                "has_child": true,
+                "is_child": false,
+                "child": [
+                    {
+                        "question_id": 29,
+                        "parent_id": 28,
+                        "order": 1,
+                        "pages": 0,
+                        "is_required": true,
+                        "question": "Etika",
+                        "answer_type": {
+                            "answer_type_id": 5,
+                            "type": "range"
+                        },
+                        "custom": null,
+                        "source_data": null,
+                        "relation_with": null,
+                        "range_label": [
+                            "Tidak Menguasai",
+                            "Sangat Menguasai"
+                        ],
+                        "answer_list": null,
+                        "has_child": false,
+                        "is_child": true,
+                        "child": null,
+                        "created_at": "2022-12-13T00:00:00Z",
+                        "updated_at": null
+                    },
+                    {
+                        "question_id": 30,
+                        "parent_id": 28,
+                        "order": 2,
+                        "pages": 0,
+                        "is_required": true,
+                        "question": "Keahlian berdasarkan bidang ilmu",
+                        "answer_type": {
+                            "answer_type_id": 5,
+                            "type": "range"
+                        },
+                        "custom": null,
+                        "source_data": null,
+                        "relation_with": null,
+                        "range_label": [
+                            "Tidak Menguasai",
+                            "Sangat Menguasai"
+                        ],
+                        "answer_list": null,
+                        "has_child": false,
+                        "is_child": true,
+                        "child": null,
+                        "created_at": "2022-12-13T00:00:00Z",
+                        "updated_at": null
+                    },
+                    {
+                        "question_id": 31,
+                        "parent_id": 28,
+                        "order": 3,
+                        "pages": 0,
+                        "is_required": true,
+                        "question": "Bahasa Inggris",
+                        "answer_type": {
+                            "answer_type_id": 5,
+                            "type": "range"
+                        },
+                        "custom": null,
+                        "source_data": null,
+                        "relation_with": null,
+                        "range_label": [
+                            "Tidak Menguasai",
+                            "Sangat Menguasai"
+                        ],
+                        "answer_list": null,
+                        "has_child": false,
+                        "is_child": true,
+                        "child": null,
+                        "created_at": "2022-12-13T00:00:00Z",
+                        "updated_at": null
+                    },
+                    {
+                        "question_id": 32,
+                        "parent_id": 28,
+                        "order": 4,
+                        "pages": 0,
+                        "is_required": true,
+                        "question": "Penggunaan Teknologi Informasi",
+                        "answer_type": {
+                            "answer_type_id": 5,
+                            "type": "range"
+                        },
+                        "custom": null,
+                        "source_data": null,
+                        "relation_with": null,
+                        "range_label": [
+                            "Tidak Menguasai",
+                            "Sangat Menguasai"
+                        ],
+                        "answer_list": null,
+                        "has_child": false,
+                        "is_child": true,
+                        "child": null,
+                        "created_at": "2022-12-13T00:00:00Z",
+                        "updated_at": null
+                    },
+                    {
+                        "question_id": 33,
+                        "parent_id": 28,
+                        "order": 5,
+                        "pages": 0,
+                        "is_required": true,
+                        "question": "Komunikasi",
+                        "answer_type": {
+                            "answer_type_id": 5,
+                            "type": "range"
+                        },
+                        "custom": null,
+                        "source_data": null,
+                        "relation_with": null,
+                        "range_label": [
+                            "Tidak Menguasai",
+                            "Sangat Menguasai"
+                        ],
+                        "answer_list": null,
+                        "has_child": false,
+                        "is_child": true,
+                        "child": null,
+                        "created_at": "2022-12-13T00:00:00Z",
+                        "updated_at": null
+                    },
+                    {
+                        "question_id": 34,
+                        "parent_id": 28,
+                        "order": 6,
+                        "pages": 0,
+                        "is_required": true,
+                        "question": "Kerja sama tim",
+                        "answer_type": {
+                            "answer_type_id": 5,
+                            "type": "range"
+                        },
+                        "custom": null,
+                        "source_data": null,
+                        "relation_with": null,
+                        "range_label": [
+                            "Tidak Menguasai",
+                            "Sangat Menguasai"
+                        ],
+                        "answer_list": null,
+                        "has_child": false,
+                        "is_child": true,
+                        "child": null,
+                        "created_at": "2022-12-13T00:00:00Z",
+                        "updated_at": null
+                    },
+                    {
+                        "question_id": 35,
+                        "parent_id": 28,
+                        "order": 7,
+                        "pages": 0,
+                        "is_required": true,
+                        "question": "Pengembangan",
+                        "answer_type": {
+                            "answer_type_id": 5,
+                            "type": "range"
+                        },
+                        "custom": null,
+                        "source_data": null,
+                        "relation_with": null,
+                        "range_label": [
+                            "Tidak Menguasai",
+                            "Sangat Menguasai"
+                        ],
+                        "answer_list": null,
+                        "has_child": false,
+                        "is_child": true,
+                        "child": null,
+                        "created_at": "2022-12-13T00:00:00Z",
+                        "updated_at": null
+                    }
+                ],
+                "created_at": "2022-12-13T00:00:00Z",
+                "updated_at": null
+            },
+            {
+                "question_id": 36,
+                "parent_id": 0,
+                "order": 14,
+                "pages": 5,
+                "is_required": false,
+                "question": "Menurut anda seberapa besar penekanan pada metode pembelajaran dibawah ini dilaksanakan di program studi anda?",
+                "answer_type": {
+                    "answer_type_id": 7,
+                    "type": "question without answer"
+                },
+                "custom": null,
+                "source_data": null,
+                "relation_with": null,
+                "range_label": null,
+                "answer_list": null,
+                "has_child": true,
+                "is_child": false,
+                "child": [
+                    {
+                        "question_id": 37,
+                        "parent_id": 36,
+                        "order": 1,
+                        "pages": 0,
+                        "is_required": false,
+                        "question": "Perkuliahan",
+                        "answer_type": {
+                            "answer_type_id": 5,
+                            "type": "range"
+                        },
+                        "custom": null,
+                        "source_data": null,
+                        "relation_with": null,
+                        "range_label": [
+                            "Tidak Sama Sekali",
+                            "Sangat Besar"
+                        ],
+                        "answer_list": null,
+                        "has_child": false,
+                        "is_child": true,
+                        "child": null,
+                        "created_at": "2022-12-13T00:00:00Z",
+                        "updated_at": null
+                    },
+                    {
+                        "question_id": 38,
+                        "parent_id": 36,
+                        "order": 2,
+                        "pages": 0,
+                        "is_required": false,
+                        "question": "Demonstrasi",
+                        "answer_type": {
+                            "answer_type_id": 5,
+                            "type": "range"
+                        },
+                        "custom": null,
+                        "source_data": null,
+                        "relation_with": null,
+                        "range_label": [
+                            "Tidak Sama Sekali",
+                            "Sangat Besar"
+                        ],
+                        "answer_list": null,
+                        "has_child": false,
+                        "is_child": true,
+                        "child": null,
+                        "created_at": "2022-12-13T00:00:00Z",
+                        "updated_at": null
+                    },
+                    {
+                        "question_id": 39,
+                        "parent_id": 36,
+                        "order": 3,
+                        "pages": 0,
+                        "is_required": false,
+                        "question": "Partisipasi dalam proyek riset",
+                        "answer_type": {
+                            "answer_type_id": 5,
+                            "type": "range"
+                        },
+                        "custom": null,
+                        "source_data": null,
+                        "relation_with": null,
+                        "range_label": [
+                            "Tidak Sama Sekali",
+                            "Sangat Besar"
+                        ],
+                        "answer_list": null,
+                        "has_child": false,
+                        "is_child": true,
+                        "child": null,
+                        "created_at": "2022-12-13T00:00:00Z",
+                        "updated_at": null
+                    },
+                    {
+                        "question_id": 40,
+                        "parent_id": 36,
+                        "order": 4,
+                        "pages": 0,
+                        "is_required": false,
+                        "question": "Magang",
+                        "answer_type": {
+                            "answer_type_id": 5,
+                            "type": "range"
+                        },
+                        "custom": null,
+                        "source_data": null,
+                        "relation_with": null,
+                        "range_label": [
+                            "Tidak Sama Sekali",
+                            "Sangat Besar"
+                        ],
+                        "answer_list": null,
+                        "has_child": false,
+                        "is_child": true,
+                        "child": null,
+                        "created_at": "2022-12-13T00:00:00Z",
+                        "updated_at": null
+                    },
+                    {
+                        "question_id": 41,
+                        "parent_id": 36,
+                        "order": 5,
+                        "pages": 0,
+                        "is_required": false,
+                        "question": "Praktikum",
+                        "answer_type": {
+                            "answer_type_id": 5,
+                            "type": "range"
+                        },
+                        "custom": null,
+                        "source_data": null,
+                        "relation_with": null,
+                        "range_label": [
+                            "Tidak Sama Sekali",
+                            "Sangat Besar"
+                        ],
+                        "answer_list": null,
+                        "has_child": false,
+                        "is_child": true,
+                        "child": null,
+                        "created_at": "2022-12-13T00:00:00Z",
+                        "updated_at": null
+                    },
+                    {
+                        "question_id": 42,
+                        "parent_id": 36,
+                        "order": 6,
+                        "pages": 0,
+                        "is_required": false,
+                        "question": "Kerja Lapangan",
+                        "answer_type": {
+                            "answer_type_id": 5,
+                            "type": "range"
+                        },
+                        "custom": null,
+                        "source_data": null,
+                        "relation_with": null,
+                        "range_label": [
+                            "Tidak Sama Sekali",
+                            "Sangat Besar"
+                        ],
+                        "answer_list": null,
+                        "has_child": false,
+                        "is_child": true,
+                        "child": null,
+                        "created_at": "2022-12-13T00:00:00Z",
+                        "updated_at": null
+                    },
+                    {
+                        "question_id": 43,
+                        "parent_id": 36,
+                        "order": 7,
+                        "pages": 0,
+                        "is_required": false,
+                        "question": "Diskusi",
+                        "answer_type": {
+                            "answer_type_id": 5,
+                            "type": "range"
+                        },
+                        "custom": null,
+                        "source_data": null,
+                        "relation_with": null,
+                        "range_label": [
+                            "Tidak Sama Sekali",
+                            "Sangat Besar"
+                        ],
+                        "answer_list": null,
+                        "has_child": false,
+                        "is_child": true,
+                        "child": null,
+                        "created_at": "2022-12-13T00:00:00Z",
+                        "updated_at": null
+                    }
+                ],
+                "created_at": "2022-12-13T00:00:00Z",
+                "updated_at": null
+            },
+            {
+                "question_id": 44,
+                "parent_id": 0,
+                "order": 15,
+                "pages": 6,
+                "is_required": false,
+                "question": "Kapan anda mulai mencari pekerjaan? Mohon pekerjaan sambilan tidak dimasukkan",
+                "answer_type": {
+                    "answer_type_id": 1,
+                    "type": "single choice"
+                },
+                "custom": null,
+                "source_data": null,
+                "relation_with": null,
+                "range_label": null,
+                "answer_list": [
+                    {
+                        "answer_list_id": 38,
+                        "answer_label": "Kira-kira berapa Bulan Anda mencari Pekerjaan sebelum lulus",
+                        "extra_answer": true,
+                        "extra_answer_type": "integer"
+                    },
+                    {
+                        "answer_list_id": 39,
+                        "answer_label": "Kira-kira berapa Bulan Anda mencari Pekerjaan sesudah lulus",
+                        "extra_answer": true,
+                        "extra_answer_type": "integer"
+                    },
+                    {
+                        "answer_list_id": 40,
+                        "answer_label": "Saya tidak mencari kerja",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    }
+                ],
+                "has_child": false,
+                "is_child": false,
+                "child": null,
+                "created_at": "2022-12-13T00:00:00Z",
+                "updated_at": null
+            },
+            {
+                "question_id": 45,
+                "parent_id": 0,
+                "order": 16,
+                "pages": 6,
+                "is_required": false,
+                "question": "Bagaimana anda mencari pekerjaan tersebut? Jawaban bisa lebih dari satu",
+                "answer_type": {
+                    "answer_type_id": 2,
+                    "type": "multiple choice"
+                },
+                "custom": null,
+                "source_data": null,
+                "relation_with": null,
+                "range_label": null,
+                "answer_list": [
+                    {
+                        "answer_list_id": 41,
+                        "answer_label": "Melalui iklan di koran/majalah, brosur",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 42,
+                        "answer_label": "Melamar ke perusahaan tanpa mengetahui lowongan yang ada",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 43,
+                        "answer_label": "Pergi ke bursa/pameran kerja",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 44,
+                        "answer_label": "Mencari lewat internet/iklan online/milis",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 45,
+                        "answer_label": "Dihubungi oleh perusahaan",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 46,
+                        "answer_label": "Menghubungi Kemenakertrans",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 47,
+                        "answer_label": "Menghubungi agen tenaga kerja komersial/swasta",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 48,
+                        "answer_label": "Memeroleh informasi dari pusat/kantor pengembangan karir fakultas/universitas",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 49,
+                        "answer_label": "Menghubungi kantor kemahasiswaan/hubungan alumni",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 50,
+                        "answer_label": "Membangun jejaring(network) sejak masih kuliah",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 51,
+                        "answer_label": "Melalui relasi (misalnya dosen, orang tua, saudara, teman, dll.)",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 52,
+                        "answer_label": "Membangun bisnis sendiri",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 53,
+                        "answer_label": "Melalui penempatan kerja atau magang",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 54,
+                        "answer_label": "Bekerja di tempat yang sama dengan tempat kerja semasa kuliah",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 55,
+                        "answer_label": "Lainnya",
+                        "extra_answer": true,
+                        "extra_answer_type": "string"
+                    }
+                ],
+                "has_child": false,
+                "is_child": false,
+                "child": null,
+                "created_at": "2022-12-13T00:00:00Z",
+                "updated_at": null
+            },
+            {
+                "question_id": 46,
+                "parent_id": 0,
+                "order": 17,
+                "pages": 7,
+                "is_required": false,
+                "question": "Berapa perusahaan/instansi/institusi yang sudah anda lamar (lewat surat atau e-mail) sebelum anda memeroleh pekerjaan pertama?[SPLIT]Perusahaan/instansi/institusi",
+                "answer_type": {
+                    "answer_type_id": 4,
+                    "type": "input text"
+                },
+                "custom": null,
+                "source_data": null,
+                "relation_with": null,
+                "range_label": null,
+                "answer_list": null,
+                "has_child": false,
+                "is_child": false,
+                "child": null,
+                "created_at": "2022-12-13T00:00:00Z",
+                "updated_at": null
+            },
+            {
+                "question_id": 47,
+                "parent_id": 0,
+                "order": 18,
+                "pages": 7,
+                "is_required": false,
+                "question": "Berapa banyak perusahaan/instansi/institusi yang merespons lamaran anda?[SPLIT]Perusahaan/instansi/institusi",
+                "answer_type": {
+                    "answer_type_id": 4,
+                    "type": "input text"
+                },
+                "custom": null,
+                "source_data": null,
+                "relation_with": null,
+                "range_label": null,
+                "answer_list": null,
+                "has_child": false,
+                "is_child": false,
+                "child": null,
+                "created_at": "2022-12-13T00:00:00Z",
+                "updated_at": null
+            },
+            {
+                "question_id": 48,
+                "parent_id": 0,
+                "order": 19,
+                "pages": 7,
+                "is_required": false,
+                "question": "Berapa banyak perusahaan/instansi/institusi yang mengundang anda untuk wawancara?[SPLIT]Perusahaan/instansi/institusi",
+                "answer_type": {
+                    "answer_type_id": 12,
+                    "type": "input number"
+                },
+                "custom": null,
+                "source_data": null,
+                "relation_with": null,
+                "range_label": null,
+                "answer_list": null,
+                "has_child": false,
+                "is_child": false,
+                "child": null,
+                "created_at": "2022-12-13T00:00:00Z",
+                "updated_at": null
+            },
+            {
+                "question_id": 49,
+                "parent_id": 0,
+                "order": 20,
+                "pages": 7,
+                "is_required": false,
+                "question": "Apakah anda aktif mencari pekerjaan dalam 4 minggu terakhir? Pilihlah satu jawaban",
+                "answer_type": {
+                    "answer_type_id": 1,
+                    "type": "single choice"
+                },
+                "custom": null,
+                "source_data": null,
+                "relation_with": null,
+                "range_label": null,
+                "answer_list": [
+                    {
+                        "answer_list_id": 56,
+                        "answer_label": "Tidak",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 57,
+                        "answer_label": "Tidak, tapi saya sedang menunggu hasil lamaran kerja",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 58,
+                        "answer_label": "Ya, saya akan mulai bekerja dalam 2 minggu ke depan",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 59,
+                        "answer_label": "Ya, tapi saya belum pasti akan bekerja dalam 2 minggu ke depan",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 60,
+                        "answer_label": "Lainnya",
+                        "extra_answer": true,
+                        "extra_answer_type": "string"
+                    }
+                ],
+                "has_child": false,
+                "is_child": false,
+                "child": null,
+                "created_at": "2022-12-13T00:00:00Z",
+                "updated_at": null
+            },
+            {
+                "question_id": 50,
+                "parent_id": 0,
+                "order": 21,
+                "pages": 8,
+                "is_required": false,
+                "question": "Jika menurut anda pekerjaan anda saat ini tidak sesuai dengan : pendidikan anda, mengapa anda mengambilnya? Jawaban bisa lebih dari satu",
+                "answer_type": {
+                    "answer_type_id": 2,
+                    "type": "multiple choice"
+                },
+                "custom": null,
+                "source_data": null,
+                "relation_with": null,
+                "range_label": null,
+                "answer_list": [
+                    {
+                        "answer_list_id": 61,
+                        "answer_label": "Pertanyaan tidak sesuai; pekerjaan saya sekarang sudah sesuai dengan pendidikan saya.",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 62,
+                        "answer_label": "Saya belum mendapatkan pekerjaan yang lebih sesuai.",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 63,
+                        "answer_label": "Di pekerjaan ini saya memeroleh prospek karir yang baik.",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 64,
+                        "answer_label": "Saya lebih suka bekerja di area pekerjaan yang tidak ada hubungannya dengan pendidikan saya.",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 65,
+                        "answer_label": "Saya dipromosikan ke posisi yang kurang berhubungan dengan pendidikan saya dibanding posisi sebelumnya.",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 66,
+                        "answer_label": "Saya dapat memeroleh pendapatan yang lebih tinggi di pekerjaan ini.",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 67,
+                        "answer_label": "Pekerjaan saya saat ini lebih aman/terjamin/secure",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 68,
+                        "answer_label": "Pekerjaan saya saat ini lebih menarik",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 69,
+                        "answer_label": "Pekerjaan saya saat ini lebih memungkinkan saya mengambil pekerjaan tambahan/jadwal yang fleksibel, dll.",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 70,
+                        "answer_label": "Pekerjaan saya saat ini lokasinya lebih dekat dari rumah saya.",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 71,
+                        "answer_label": "Pekerjaan saya saat ini dapat lebih menjamin kebutuhan keluarga saya.",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 72,
+                        "answer_label": "Pada awal meniti karir ini, saya harus menerima pekerjaan yang tidak berhubungan dengan pendidikan saya",
+                        "extra_answer": false,
+                        "extra_answer_type": ""
+                    },
+                    {
+                        "answer_list_id": 73,
+                        "answer_label": "Lainnya",
+                        "extra_answer": true,
+                        "extra_answer_type": "string"
+                    }
+                ],
+                "has_child": false,
+                "is_child": false,
+                "child": null,
+                "created_at": "2022-12-13T00:00:00Z",
+                "updated_at": null
+            }
+        ],
+        "answer": [
+            {
+                "question_id": "1",
+                "question": "Jelaskan status Anda saat ini?",
+                "answer": "2",
+                "extra_answer": "",
+                "answer_type": 1,
+                "type": "single choice",
+                "real_answer": "Belum memungkinkan bekerja"
+            },
+            {
+                "question_id": "2",
+                "question": "Apakah Anda telah mendapatkan pekerjaan <= 6 bulan / termasuk bekerja sebelum lulus?",
+                "answer": "74",
+                "extra_answer": "",
+                "answer_type": 1,
+                "type": "single choice",
+                "real_answer": "Ya"
+            },
+            {
+                "question_id": "3",
+                "question": "Dalam berapa bulan Anda mendapatkan pekerjaan?",
+                "answer": "5",
+                "extra_answer": "",
+                "answer_type": 12,
+                "type": "input number",
+                "real_answer": "Tidak kerja tetapi sedang mencari kerja"
+            },
+            {
+                "question_id": "4",
+                "question": "Berapa rata-rata pendapatan Anda per bulan? (take home pay)?",
+                "answer": "5",
+                "extra_answer": "",
+                "answer_type": 12,
+                "type": "input number",
+                "real_answer": "Tidak kerja tetapi sedang mencari kerja"
+            },
+            {
+                "question_id": "5",
+                "question": "Dimana lokasi tempat Anda bekerja?",
+                "answer": null,
+                "extra_answer": null,
+                "answer_type": 7,
+                "type": "question without answer",
+                "real_answer": null
+            },
+            {
+                "question_id": "6",
+                "question": "Provinsi",
+                "answer": "Prov. D.K.I. Jakarta",
+                "extra_answer": "",
+                "answer_type": 8,
+                "type": "provinsi",
+                "real_answer": null
+            },
+            {
+                "question_id": "7",
+                "question": "Kabupaten",
+                "answer": "Kota Jakarta Pusat",
+                "extra_answer": "",
+                "answer_type": 9,
+                "type": "kabupaten",
+                "real_answer": null
+            },
+            {
+                "question_id": "8",
+                "question": "Apa jenis perusahaan/intansi/institusi tempat anda bekerja sekarang?",
+                "answer": "6",
+                "extra_answer": "",
+                "answer_type": 1,
+                "type": "single choice",
+                "real_answer": "Intansi pemerintah"
+            },
+            {
+                "question_id": "9",
+                "question": "Apa nama perusahaan/kantor tempat Anda bekerja?",
+                "answer": "f",
+                "extra_answer": "",
+                "answer_type": 4,
+                "type": "input text",
+                "real_answer": null
+            },
+            {
+                "question_id": "10",
+                "question": "Bila berwiraswasta, apa posisi/jabatan Anda saat ini? (Apabila 1 Menjawab [3] wiraswasta)",
+                "answer": "14",
+                "extra_answer": "",
+                "answer_type": 3,
+                "type": "dropdown",
+                "real_answer": "Co-Founder"
+            },
+            {
+                "question_id": "11",
+                "question": "Apa tingkat tempat kerja Anda?",
+                "answer": "19",
+                "extra_answer": "",
+                "answer_type": 3,
+                "type": "dropdown",
+                "real_answer": "Multinasional/Internasional"
+            },
+            {
+                "question_id": "12",
+                "question": "Pertanyaan studi lanjut",
+                "answer": null,
+                "extra_answer": null,
+                "answer_type": 7,
+                "type": "question without answer",
+                "real_answer": null
+            },
+            {
+                "question_id": "13",
+                "question": "Sumber biaya",
+                "answer": "20",
+                "extra_answer": "",
+                "answer_type": 3,
+                "type": "dropdown",
+                "real_answer": "Biaya Sendiri"
+            },
+            {
+                "question_id": "14",
+                "question": "Perguruan Tinggi",
+                "answer": "Universitas Gunadarma",
+                "extra_answer": "",
+                "answer_type": 10,
+                "type": "pt",
+                "real_answer": null
+            },
+            {
+                "question_id": "15",
+                "question": "Program Studi",
+                "answer": "Sistem Informasi",
+                "extra_answer": "",
+                "answer_type": 11,
+                "type": "prodi",
+                "real_answer": null
+            },
+            {
+                "question_id": "16",
+                "question": "Tanggal Masuk",
+                "answer": "21/06/2016",
+                "extra_answer": "",
+                "answer_type": 6,
+                "type": "date",
+                "real_answer": null
+            },
+            {
+                "question_id": "17",
+                "question": "Sebutkan sumber dana dalam pembiayaan kuliah? (bukan ketika Studi Lanjut)",
+                "answer": "22",
+                "extra_answer": "",
+                "answer_type": 1,
+                "type": "single choice",
+                "real_answer": "Biaya Sendiri/Keluarga"
+            },
+            {
+                "question_id": "18",
+                "question": "Seberapa erat hubungan bidang studi dengan pekerjaan Anda?",
+                "answer": "29",
+                "extra_answer": "",
+                "answer_type": 1,
+                "type": "single choice",
+                "real_answer": "Sangat Erat"
+            },
+            {
+                "question_id": "19",
+                "question": "Tingkat pendidikan apa yang paling tepat/sesuai untuk pekerjaan anda saat ini?",
+                "answer": "34",
+                "extra_answer": "",
+                "answer_type": 1,
+                "type": "single choice",
+                "real_answer": "Setingkat Lebih Tinggi"
+            },
+            {
+                "question_id": "20",
+                "question": "Pada saat lulus, pada tingkat mana kompetensi di bawah ini anda : kuasai? (A)",
+                "answer": null,
+                "extra_answer": null,
+                "answer_type": 7,
+                "type": "question without answer",
+                "real_answer": null
+            },
+            {
+                "question_id": "21",
+                "question": "Etika",
+                "answer": "1",
+                "extra_answer": "",
+                "answer_type": 5,
+                "type": "range",
+                "real_answer": "Bekerja (full time / part time)"
+            },
+            {
+                "question_id": "22",
+                "question": "Keahlian berdasarkan bidang ilmu",
+                "answer": "3",
+                "extra_answer": "",
+                "answer_type": 5,
+                "type": "range",
+                "real_answer": "Wiraswasta"
+            },
+            {
+                "question_id": "23",
+                "question": "Bahasa Inggris",
+                "answer": "2",
+                "extra_answer": "",
+                "answer_type": 5,
+                "type": "range",
+                "real_answer": "Belum memungkinkan bekerja"
+            },
+            {
+                "question_id": "24",
+                "question": "Penggunaan Teknologi Informasi",
+                "answer": "3",
+                "extra_answer": "",
+                "answer_type": 5,
+                "type": "range",
+                "real_answer": "Wiraswasta"
+            },
+            {
+                "question_id": "25",
+                "question": "Komunikasi",
+                "answer": "5",
+                "extra_answer": "",
+                "answer_type": 5,
+                "type": "range",
+                "real_answer": "Tidak kerja tetapi sedang mencari kerja"
+            },
+            {
+                "question_id": "26",
+                "question": "Kerja sama tim",
+                "answer": "5",
+                "extra_answer": "",
+                "answer_type": 5,
+                "type": "range",
+                "real_answer": "Tidak kerja tetapi sedang mencari kerja"
+            },
+            {
+                "question_id": "27",
+                "question": "Pengembangan",
+                "answer": "5",
+                "extra_answer": "",
+                "answer_type": 5,
+                "type": "range",
+                "real_answer": "Tidak kerja tetapi sedang mencari kerja"
+            },
+            {
+                "question_id": "28",
+                "question": "Pada saat ini, pada tingkat mana kompetensi di bawah ini diperlukan dalam pekerjaan? (B)",
+                "answer": null,
+                "extra_answer": null,
+                "answer_type": 7,
+                "type": "question without answer",
+                "real_answer": null
+            },
+            {
+                "question_id": "29",
+                "question": "Etika",
+                "answer": "3",
+                "extra_answer": "",
+                "answer_type": 5,
+                "type": "range",
+                "real_answer": "Wiraswasta"
+            },
+            {
+                "question_id": "30",
+                "question": "Keahlian berdasarkan bidang ilmu",
+                "answer": "3",
+                "extra_answer": "",
+                "answer_type": 5,
+                "type": "range",
+                "real_answer": "Wiraswasta"
+            },
+            {
+                "question_id": "31",
+                "question": "Bahasa Inggris",
+                "answer": "3",
+                "extra_answer": "",
+                "answer_type": 5,
+                "type": "range",
+                "real_answer": "Wiraswasta"
+            },
+            {
+                "question_id": "32",
+                "question": "Penggunaan Teknologi Informasi",
+                "answer": "2",
+                "extra_answer": "",
+                "answer_type": 5,
+                "type": "range",
+                "real_answer": "Belum memungkinkan bekerja"
+            },
+            {
+                "question_id": "33",
+                "question": "Komunikasi",
+                "answer": "1",
+                "extra_answer": "",
+                "answer_type": 5,
+                "type": "range",
+                "real_answer": "Bekerja (full time / part time)"
+            },
+            {
+                "question_id": "34",
+                "question": "Kerja sama tim",
+                "answer": "5",
+                "extra_answer": "",
+                "answer_type": 5,
+                "type": "range",
+                "real_answer": "Tidak kerja tetapi sedang mencari kerja"
+            },
+            {
+                "question_id": "35",
+                "question": "Pengembangan",
+                "answer": "4",
+                "extra_answer": "",
+                "answer_type": 5,
+                "type": "range",
+                "real_answer": "Melanjutkan Pendidikan"
+            },
+            {
+                "question_id": "36",
+                "question": "Menurut anda seberapa besar penekanan pada metode pembelajaran dibawah ini dilaksanakan di program studi anda?",
+                "answer": null,
+                "extra_answer": null,
+                "answer_type": 7,
+                "type": "question without answer",
+                "real_answer": null
+            },
+            {
+                "question_id": "37",
+                "question": "Perkuliahan",
+                "answer": "4",
+                "extra_answer": "",
+                "answer_type": 5,
+                "type": "range",
+                "real_answer": "Melanjutkan Pendidikan"
+            },
+            {
+                "question_id": "38",
+                "question": "Demonstrasi",
+                "answer": "4",
+                "extra_answer": "",
+                "answer_type": 5,
+                "type": "range",
+                "real_answer": "Melanjutkan Pendidikan"
+            },
+            {
+                "question_id": "39",
+                "question": "Partisipasi dalam proyek riset",
+                "answer": "5",
+                "extra_answer": "",
+                "answer_type": 5,
+                "type": "range",
+                "real_answer": "Tidak kerja tetapi sedang mencari kerja"
+            },
+            {
+                "question_id": "40",
+                "question": "Magang",
+                "answer": "3",
+                "extra_answer": "",
+                "answer_type": 5,
+                "type": "range",
+                "real_answer": "Wiraswasta"
+            },
+            {
+                "question_id": "41",
+                "question": "Praktikum",
+                "answer": "5",
+                "extra_answer": "",
+                "answer_type": 5,
+                "type": "range",
+                "real_answer": "Tidak kerja tetapi sedang mencari kerja"
+            },
+            {
+                "question_id": "42",
+                "question": "Kerja Lapangan",
+                "answer": "5",
+                "extra_answer": "",
+                "answer_type": 5,
+                "type": "range",
+                "real_answer": "Tidak kerja tetapi sedang mencari kerja"
+            },
+            {
+                "question_id": "43",
+                "question": "Diskusi",
+                "answer": "5",
+                "extra_answer": "",
+                "answer_type": 5,
+                "type": "range",
+                "real_answer": "Tidak kerja tetapi sedang mencari kerja"
+            },
+            {
+                "question_id": "44",
+                "question": "Kapan anda mulai mencari pekerjaan? Mohon pekerjaan sambilan tidak dimasukkan",
+                "answer": "39",
+                "extra_answer": "6",
+                "answer_type": 1,
+                "type": "single choice",
+                "real_answer": "Kira-kira berapa Bulan Anda mencari Pekerjaan sesudah lulus"
+            },
+            {
+                "question_id": "45",
+                "question": "Bagaimana anda mencari pekerjaan tersebut? Jawaban bisa lebih dari satu",
+                "answer": "41,46,54",
+                "extra_answer": "",
+                "answer_type": 2,
+                "type": "multiple choice",
+                "real_answer": null
+            },
+            {
+                "question_id": "46",
+                "question": "Berapa perusahaan/instansi/institusi yang sudah anda lamar (lewat surat atau e-mail) sebelum anda memeroleh pekerjaan pertama?[SPLIT]Perusahaan/instansi/institusi",
+                "answer": "g",
+                "extra_answer": "",
+                "answer_type": 4,
+                "type": "input text",
+                "real_answer": null
+            },
+            {
+                "question_id": "47",
+                "question": "Berapa banyak perusahaan/instansi/institusi yang merespons lamaran anda?[SPLIT]Perusahaan/instansi/institusi",
+                "answer": "r",
+                "extra_answer": "",
+                "answer_type": 4,
+                "type": "input text",
+                "real_answer": null
+            },
+            {
+                "question_id": "48",
+                "question": "Berapa banyak perusahaan/instansi/institusi yang mengundang anda untuk wawancara?[SPLIT]Perusahaan/instansi/institusi",
+                "answer": "5",
+                "extra_answer": "",
+                "answer_type": 12,
+                "type": "input number",
+                "real_answer": "Tidak kerja tetapi sedang mencari kerja"
+            },
+            {
+                "question_id": "49",
+                "question": "Apakah anda aktif mencari pekerjaan dalam 4 minggu terakhir? Pilihlah satu jawaban",
+                "answer": "57",
+                "extra_answer": "",
+                "answer_type": 1,
+                "type": "single choice",
+                "real_answer": "Tidak, tapi saya sedang menunggu hasil lamaran kerja"
+            },
+            {
+                "question_id": "50",
+                "question": "Jika menurut anda pekerjaan anda saat ini tidak sesuai dengan : pendidikan anda, mengapa anda mengambilnya? Jawaban bisa lebih dari satu",
+                "answer": "62",
+                "extra_answer": "",
+                "answer_type": 2,
+                "type": "multiple choice",
+                "real_answer": "Saya belum mendapatkan pekerjaan yang lebih sesuai."
+            }
+        ]
+    }
+}

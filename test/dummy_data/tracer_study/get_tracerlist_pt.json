@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "kode_pt": "001002",
+      "nama_pt": "Universitas Indonesia"
+    },
+    {
+      "kode_pt": "031072",
+      "nama_pt": "Universitas Indonesia Maju"
+    },
+    {
+      "kode_pt": "041095",
+      "nama_pt": "Universitas Indonesia Mandiri"
+    },
+    {
+      "kode_pt": "041093",
+      "nama_pt": "Universitas Indonesia Membangun"
+    },
+    {
+      "kode_pt": "091034",
+      "nama_pt": "Universitas Indonesia Timur"
+    }
+  ],
+  "message": "ok"
+}

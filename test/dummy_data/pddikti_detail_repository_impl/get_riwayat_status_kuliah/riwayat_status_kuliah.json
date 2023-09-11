@@ -1,0 +1,73 @@
+{
+    "message": "Data berhasil didapatkan!",
+    "data": {
+        "mahasiswa": [
+            {
+                "semester": {
+                    "id": 20191,
+                    "nama": "2019/2020 Ganjil"
+                },
+                "status_aktif": {
+                    "id": "A",
+                    "nama": "Aktif"
+                },
+                "sks": 19
+            },
+            {
+                "semester": {
+                    "id": 20192,
+                    "nama": "2019/2020 Genap"
+                },
+                "status_aktif": {
+                    "id": "A",
+                    "nama": "Aktif"
+                },
+                "sks": 20
+            },
+            {
+                "semester": {
+                    "id": 20201,
+                    "nama": "2020/2021 Ganjil"
+                },
+                "status_aktif": {
+                    "id": "A",
+                    "nama": "Aktif"
+                },
+                "sks": 24
+            },
+            {
+                "semester": {
+                    "id": 20202,
+                    "nama": "2020/2021 Genap"
+                },
+                "status_aktif": {
+                    "id": "A",
+                    "nama": "Aktif"
+                },
+                "sks": 20
+            },
+            {
+                "semester": {
+                    "id": 20211,
+                    "nama": "2021/2022 Ganjil"
+                },
+                "status_aktif": {
+                    "id": "A",
+                    "nama": "Aktif"
+                },
+                "sks": 22
+            },
+            {
+                "semester": {
+                    "id": 20212,
+                    "nama": "2021/2022 Genap"
+                },
+                "status_aktif": {
+                    "id": "A",
+                    "nama": "Aktif"
+                },
+                "sks": 0
+            }
+        ]
+    }
+}

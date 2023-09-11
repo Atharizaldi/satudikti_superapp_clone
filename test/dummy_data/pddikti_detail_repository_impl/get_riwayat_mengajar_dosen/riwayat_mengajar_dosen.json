@@ -1,0 +1,1393 @@
+{
+    "message": "Data berhasil didapatkan!",
+    "data": {
+        "riwayat": [
+            {
+                "id": "AB3876E8-053A-48E8-AC2C-646EF93D969B",
+                "semester": 20221,
+                "kode_mk": "EKM5323",
+                "nama_mk": "PERILAKU KEORGANISASIAN/CREATIVE & INNOVATIVE BUSINESS",
+                "sks_ajar": "3.00",
+                "kelas": "MA20L",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "3C634E1F-6441-48C4-B37B-D6D5302485C7",
+                "semester": 20221,
+                "kode_mk": "EKM5323",
+                "nama_mk": "PERILAKU KEORGANISASIAN/CREATIVE & INNOVATIVE BUSINESS",
+                "sks_ajar": "3.00",
+                "kelas": "MA20",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "5CFFD6FC-6B18-484B-811A-88D1622A0FE9",
+                "semester": 20212,
+                "kode_mk": "EKM4338",
+                "nama_mk": "BANK DAN LEMBAGA KEUANGAN LAINNYA",
+                "sks_ajar": "3.00",
+                "kelas": "MA20",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "0D1B7C87-C639-4AD5-821B-955FE83A3DF2",
+                "semester": 20212,
+                "kode_mk": "EKM4338",
+                "nama_mk": "BANK DAN LEMBAGA KEUANGAN LAINNYA",
+                "sks_ajar": "3.00",
+                "kelas": "MA20L",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "3672618B-2393-45AF-942D-B02AF0A71267",
+                "semester": 20212,
+                "kode_mk": "EKA4342",
+                "nama_mk": "BANK DAN LEMBAGA KEUANGAN LAINNYA",
+                "sks_ajar": "3.00",
+                "kelas": "AK20",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "DBF7A308-CB33-4CEB-9644-E62D20DF368A",
+                "semester": 20211,
+                "kode_mk": "EKM5331",
+                "nama_mk": "MANAJEMEN RISIKO",
+                "sks_ajar": "3.00",
+                "kelas": "MA19L",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "A1DCA2D0-E822-4713-A430-4741C7F0D67A",
+                "semester": 20211,
+                "kode_mk": "EKM5331",
+                "nama_mk": "MANAJEMEN RISIKO",
+                "sks_ajar": "3.00",
+                "kelas": "MA19",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "F15DD0D5-BBD0-4D84-BBD5-22E557D411DA",
+                "semester": 20211,
+                "kode_mk": "EKM5336",
+                "nama_mk": "STUDI KELAYAKAN BISNIS",
+                "sks_ajar": "3.00",
+                "kelas": "MA19L",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "1150792F-F7EA-4941-80F1-42FD7E3E4EBE",
+                "semester": 20211,
+                "kode_mk": "EKA5343",
+                "nama_mk": "STUDI KELAYAKAN BISNIS",
+                "sks_ajar": "3.00",
+                "kelas": "AK19",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "518FD4A6-4ACB-4BB5-B784-BF8072831044",
+                "semester": 20203,
+                "kode_mk": "EKA1102",
+                "nama_mk": "PENDIDIKAN PANCASILA DAN KEWARGANEGARAAN",
+                "sks_ajar": "2.00",
+                "kelas": "SP15",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "B9FED60F-DE7A-4C70-8CFB-2DBBBC9C15C3",
+                "semester": 20202,
+                "kode_mk": "EKM4338",
+                "nama_mk": "BANK DAN LEMBAGA KEUANGAN LAINNYA",
+                "sks_ajar": "3.00",
+                "kelas": "MA19E",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "31F16E21-510C-4F70-BFC4-E88F3ACB129D",
+                "semester": 20202,
+                "kode_mk": "EKM4338",
+                "nama_mk": "BANK DAN LEMBAGA KEUANGAN LAINNYA",
+                "sks_ajar": "3.00",
+                "kelas": "MA19L",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "1FB4F74D-B86F-4AEA-9110-1BA0B5FF2417",
+                "semester": 20202,
+                "kode_mk": "EKA4342",
+                "nama_mk": "BANK DAN LEMBAGA KEUANGAN LAINNYA",
+                "sks_ajar": "3.00",
+                "kelas": "AK19",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "5F05D67E-B35A-4D44-AB01-28DFAF00E115",
+                "semester": 20202,
+                "kode_mk": "EKM4338",
+                "nama_mk": "BANK DAN LEMBAGA KEUANGAN LAINNYA",
+                "sks_ajar": "3.00",
+                "kelas": "MA19",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "561173FC-109B-456B-9156-E91146D0A6FF",
+                "semester": 20202,
+                "kode_mk": "EKM3324",
+                "nama_mk": "MANAJEMEN LOGISTIK",
+                "sks_ajar": "3.00",
+                "kelas": "MA15",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "5A43638B-0283-4B2C-B623-F1F4507734CE",
+                "semester": 20202,
+                "kode_mk": "EKA8657",
+                "nama_mk": "SKRIPSI",
+                "sks_ajar": "6.00",
+                "kelas": "MA17D",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "4A66B15E-D87A-45EA-80EC-17186ECDC4D2",
+                "semester": 20201,
+                "kode_mk": "EKM5336",
+                "nama_mk": "STUDI KELAYAKAN BISNIS",
+                "sks_ajar": "3.00",
+                "kelas": "MA18A",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "5870553C-9BB7-4B4B-A5D5-B4377A8968D1",
+                "semester": 20201,
+                "kode_mk": "EKM5331",
+                "nama_mk": "MANAJEMEN RISIKO",
+                "sks_ajar": "3.00",
+                "kelas": "MA18A",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "AEF0CD6C-CD72-40AE-87FA-83AB47DFEFAB",
+                "semester": 20201,
+                "kode_mk": "EKM5331",
+                "nama_mk": "MANAJEMEN RISIKO",
+                "sks_ajar": "3.00",
+                "kelas": "MA18B",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "BA9DBA83-9ED2-43AF-ACDF-B74675F91A5C",
+                "semester": 20192,
+                "kode_mk": "EKM4338",
+                "nama_mk": "BANK DAN LEMBAGA KEUANGAN LAINNYA",
+                "sks_ajar": "3.00",
+                "kelas": "MA18A",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "52F62216-1F50-4E46-A923-F84E97EDACCB",
+                "semester": 20192,
+                "kode_mk": "EKM4335",
+                "nama_mk": "SISTEM INFORMASI MANAJEMEN",
+                "sks_ajar": "3.00",
+                "kelas": "MA18A",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "147C7F91-3D81-45CE-AEED-F0684419E4B2",
+                "semester": 20192,
+                "kode_mk": "EKM4338",
+                "nama_mk": "BANK DAN LEMBAGA KEUANGAN LAINNYA",
+                "sks_ajar": "3.00",
+                "kelas": "MA18C",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "942BE462-38FE-4550-83CA-DCB41928C22A",
+                "semester": 20192,
+                "kode_mk": "EKM8546",
+                "nama_mk": "SKRIPSI",
+                "sks_ajar": "6.00",
+                "kelas": "MA16E",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "96769F6E-E12D-47AC-9981-B7415D99BD2C",
+                "semester": 20192,
+                "kode_mk": "EKM4338",
+                "nama_mk": "BANK DAN LEMBAGA KEUANGAN LAINNYA",
+                "sks_ajar": "3.00",
+                "kelas": "MA18B",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "6C046825-A64B-4A88-8B27-46E24A34BA3F",
+                "semester": 20191,
+                "kode_mk": "EKM6331",
+                "nama_mk": "MANAJEMEN RISIKO",
+                "sks_ajar": "3.00",
+                "kelas": "MA17B",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "388B5ABE-C197-4374-8C1A-B27B7600A2CF",
+                "semester": 20191,
+                "kode_mk": "EKM6331",
+                "nama_mk": "MANAJEMEN RISIKO",
+                "sks_ajar": "3.00",
+                "kelas": "MA17C",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "B3C01B86-6282-4F9A-AA79-B6306792B0AB",
+                "semester": 20191,
+                "kode_mk": "EKM6331",
+                "nama_mk": "MANAJEMEN RISIKO",
+                "sks_ajar": "3.00",
+                "kelas": "MA17A",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "10F50941-DEC8-47E7-8FB5-5276C1A22614",
+                "semester": 20191,
+                "kode_mk": "EKM6331",
+                "nama_mk": "MANAJEMEN RISIKO",
+                "sks_ajar": "3.00",
+                "kelas": "MA17D",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "498784E5-EB00-4D97-B524-1B91762D7A1D",
+                "semester": 20182,
+                "kode_mk": "EKM4338",
+                "nama_mk": "BANK DAN LEMBAGA KEUANGAN LAINNYA",
+                "sks_ajar": "3.00",
+                "kelas": "MA17D",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "E1517624-67F5-4B6E-91CB-CB6E63810018",
+                "semester": 20182,
+                "kode_mk": "EKM4338",
+                "nama_mk": "BANK DAN LEMBAGA KEUANGAN LAINNYA",
+                "sks_ajar": "3.00",
+                "kelas": "MA17C",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "348FA9E4-2DEE-40DB-A4FA-654BA359066A",
+                "semester": 20182,
+                "kode_mk": "EKM8546",
+                "nama_mk": "SKRIPSI",
+                "sks_ajar": "6.00",
+                "kelas": "MA15B",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "6850219E-424E-4401-ACFD-036201FA10D3",
+                "semester": 20182,
+                "kode_mk": "EKM4338",
+                "nama_mk": "BANK DAN LEMBAGA KEUANGAN LAINNYA",
+                "sks_ajar": "3.00",
+                "kelas": "MA17B",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "E6AB361D-56CF-4CE8-BCBE-0062041AFA3C",
+                "semester": 20182,
+                "kode_mk": "EKM4338",
+                "nama_mk": "BANK DAN LEMBAGA KEUANGAN LAINNYA",
+                "sks_ajar": "3.00",
+                "kelas": "MA17E",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "806CF259-AB44-4471-B27A-F774BED84AAE",
+                "semester": 20182,
+                "kode_mk": "EKM4338",
+                "nama_mk": "BANK DAN LEMBAGA KEUANGAN LAINNYA",
+                "sks_ajar": "3.00",
+                "kelas": "MA17A",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "3F993A53-90A3-4898-9D2A-001D716A1326",
+                "semester": 20181,
+                "kode_mk": "EKM6331",
+                "nama_mk": "MANAJEMEN RISIKO",
+                "sks_ajar": "3.00",
+                "kelas": "MA16C",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "0D0EC54C-F91D-4EB7-BC80-F14E89261B6A",
+                "semester": 20181,
+                "kode_mk": "EKM6331",
+                "nama_mk": "MANAJEMEN RISIKO",
+                "sks_ajar": "3.00",
+                "kelas": "MA16B",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "FA953D5B-E449-4CFB-99F3-8627E06276AF",
+                "semester": 20181,
+                "kode_mk": "EKM6331",
+                "nama_mk": "MANAJEMEN RISIKO",
+                "sks_ajar": "3.00",
+                "kelas": "MA16A",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "9FD25688-4656-4DCC-A2EF-10FCCE8C2EE4",
+                "semester": 20172,
+                "kode_mk": "EKM4338",
+                "nama_mk": "BANK DAN LEMBAGA KEUANGAN LAINNYA",
+                "sks_ajar": "3.00",
+                "kelas": "MA16A",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "F7DBC755-C73C-4352-A206-E745FD08DB58",
+                "semester": 20172,
+                "kode_mk": "EKM6330",
+                "nama_mk": "MANAJEMEN OPERASIONAL II",
+                "sks_ajar": "3.00",
+                "kelas": "MA15A",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "3AD9138E-5F2B-45C0-B282-EEEC8E35C5A6",
+                "semester": 20172,
+                "kode_mk": "EKM6330",
+                "nama_mk": "MANAJEMEN OPERASIONAL II",
+                "sks_ajar": "3.00",
+                "kelas": "MA15B",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "79103831-6872-44F9-9F7B-4E8A591E515E",
+                "semester": 20172,
+                "kode_mk": "EKM6330",
+                "nama_mk": "MANAJEMEN OPERASIONAL II",
+                "sks_ajar": "3.00",
+                "kelas": "MA15C",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "ECC99EFA-4D02-4BE6-AA3D-E684ADD98892",
+                "semester": 20172,
+                "kode_mk": "EKM4338",
+                "nama_mk": "BANK DAN LEMBAGA KEUANGAN LAINNYA",
+                "sks_ajar": "3.00",
+                "kelas": "MA16D",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "E9FF8BAB-5F01-4B2F-906B-16BA87B1491C",
+                "semester": 20172,
+                "kode_mk": "EKM4338",
+                "nama_mk": "BANK DAN LEMBAGA KEUANGAN LAINNYA",
+                "sks_ajar": "3.00",
+                "kelas": "MA16B",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "A4DFE548-4C0D-4AC3-A334-47A3635BC86D",
+                "semester": 20172,
+                "kode_mk": "EKM4338",
+                "nama_mk": "BANK DAN LEMBAGA KEUANGAN LAINNYA",
+                "sks_ajar": "3.00",
+                "kelas": "MA16C",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "6C8EA2BF-E452-4A1A-9074-92A9E00211A1",
+                "semester": 20171,
+                "kode_mk": "EKM6331",
+                "nama_mk": "MANAJEMEN RISIKO",
+                "sks_ajar": "3.00",
+                "kelas": "MA15C",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "47EF375D-9739-4418-B4E3-3498BCB0CEAF",
+                "semester": 20171,
+                "kode_mk": "EKM6331",
+                "nama_mk": "MANAJEMEN RISIKO",
+                "sks_ajar": "3.00",
+                "kelas": "MA15A",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "2DFC2246-0A24-4A98-8E7C-E6A384416286",
+                "semester": 20171,
+                "kode_mk": "EKM6331",
+                "nama_mk": "MANAJEMEN RISIKO",
+                "sks_ajar": "3.00",
+                "kelas": "MA15B",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "02D04263-2D8F-407D-9630-D14AC938F0FF",
+                "semester": 20162,
+                "kode_mk": "EKM4338",
+                "nama_mk": "BANK DAN LEMBAGA KEUANGAN LAINNYA",
+                "sks_ajar": "3.00",
+                "kelas": "MA15A",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "C2AD8798-DACC-4A7E-B5FB-6CE6E8D209DD",
+                "semester": 20162,
+                "kode_mk": "EKM4338",
+                "nama_mk": "BANK DAN LEMBAGA KEUANGAN LAINNYA",
+                "sks_ajar": "3.00",
+                "kelas": "MA15P",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "F71F14E9-7A8E-4A30-BF38-3DAA9CAA6B72",
+                "semester": 20162,
+                "kode_mk": "EKA4342",
+                "nama_mk": "BANK DAN LEMBAGA KEUANGAN LAINNYA",
+                "sks_ajar": "3.00",
+                "kelas": "AK15P",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "97DDE504-8A8F-4646-A617-D5E36CA2F8DA",
+                "semester": 20162,
+                "kode_mk": "EKM4338",
+                "nama_mk": "BANK DAN LEMBAGA KEUANGAN LAINNYA",
+                "sks_ajar": "3.00",
+                "kelas": "MA15B",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "69AC4885-3A13-4040-A1E7-57D30BA7974C",
+                "semester": 20162,
+                "kode_mk": "EKM4338",
+                "nama_mk": "BANK DAN LEMBAGA KEUANGAN LAINNYA",
+                "sks_ajar": "3.00",
+                "kelas": "MA15C",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "53373363-44A3-4FB4-965A-A228A30D5F73",
+                "semester": 20161,
+                "kode_mk": "EKM6331",
+                "nama_mk": "MANAJEMEN RISIKO",
+                "sks_ajar": "3.00",
+                "kelas": "MA14A",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "87CBE8E6-A41C-475E-8DFB-63BD601EB017",
+                "semester": 20161,
+                "kode_mk": "EKM6331",
+                "nama_mk": "MANAJEMEN RISIKO",
+                "sks_ajar": "3.00",
+                "kelas": "MA14C",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "C3B1350D-8C4E-4045-84FE-6526E2BA6371",
+                "semester": 20161,
+                "kode_mk": "EKM6331",
+                "nama_mk": "MANAJEMEN RISIKO",
+                "sks_ajar": "3.00",
+                "kelas": "MA14B",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "B4C9EE37-A3D4-4409-912E-45BC6AE9CD48",
+                "semester": 20161,
+                "kode_mk": "EKM6331",
+                "nama_mk": "MANAJEMEN RISIKO",
+                "sks_ajar": "3.00",
+                "kelas": "MA14D",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "C68A7422-8935-49BE-B930-22371359F40C",
+                "semester": 20152,
+                "kode_mk": "EKM4338",
+                "nama_mk": "BANK DAN LEMBAGA KEUANGAN LAINNYA",
+                "sks_ajar": "0.00",
+                "kelas": "2MAM",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "B20A7BE3-2228-411A-91C8-8AC137D44783",
+                "semester": 20152,
+                "kode_mk": "EKA4342",
+                "nama_mk": "BANK DAN LEMBAGA KEUANGAN LAINNYA",
+                "sks_ajar": "0.00",
+                "kelas": "2AKP",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "3C1C47D6-6391-48A9-8C3D-6D8E1D3DB55D",
+                "semester": 20152,
+                "kode_mk": "EKM4338",
+                "nama_mk": "BANK DAN LEMBAGA KEUANGAN LAINNYA",
+                "sks_ajar": "0.00",
+                "kelas": "2MP",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "0F45D6DD-C6AD-4520-AB29-342D093F4007",
+                "semester": 20152,
+                "kode_mk": "EKM4338",
+                "nama_mk": "BANK DAN LEMBAGA KEUANGAN LAINNYA",
+                "sks_ajar": "0.00",
+                "kelas": "2MBM",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "82F8EE2B-2C49-40A7-A8BC-995820002DBF",
+                "semester": 20151,
+                "kode_mk": "EKM6331",
+                "nama_mk": "MANAJEMEN RISIKO",
+                "sks_ajar": "0.00",
+                "kelas": "3MAM",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "3C00CCF8-A73F-45E9-A5B6-5608FE99D56F",
+                "semester": 20151,
+                "kode_mk": "EKM6331",
+                "nama_mk": "MANAJEMEN RISIKO",
+                "sks_ajar": "0.00",
+                "kelas": "3MBM",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            },
+            {
+                "id": "0B9130B9-BBE7-49B7-AED1-AF30BCB5CA5B",
+                "semester": 20151,
+                "kode_mk": "EKM6331",
+                "nama_mk": "MANAJEMEN RISIKO",
+                "sks_ajar": "0.00",
+                "kelas": "3LP",
+                "pt": {
+                    "id": "2BC2AD1E-AF18-4DEA-BB21-512023101B75",
+                    "kode": "043180  ",
+                    "nama": "Sekolah Tinggi Ilmu Ekonomi Bisma Lepisi"
+                },
+                "prodi": {
+                    "id": "1B4CA0B8-5E72-4C45-AEB1-BCD9321BA3FD",
+                    "kode": "61201",
+                    "nama": "Manajemen",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    }
+                }
+            }
+        ]
+    }
+}

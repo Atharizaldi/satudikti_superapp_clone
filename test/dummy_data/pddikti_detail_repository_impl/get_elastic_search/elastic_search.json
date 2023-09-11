@@ -1,0 +1,26 @@
+{
+    "message": "Data berhasil didapatkan!",
+    "data": {
+        "dashboard": {
+            "pt": [],
+            "prodi": [],
+            "dosen": [],
+            "mahasiswa": [
+                {
+                    "id_reg": "ODNGMjExRDUtNDI2Qy00NDg0LTk4RkMtNUE4RjVEMUExMERF",
+                    "nim": "201931193",
+                    "nama": "ANGGITA PINASTHIKA DEWI",
+                    "pt": "INSTITUT TEKNOLOGI PERUSAHAAN LISTRIK NEGARA",
+                    "prodi": "TEKNIK INFORMATIKA"
+                },
+                {
+                    "id_reg": "NkIwRUVFQkQtMzA0NC00NjhGLUJCRTYtRTI5Njk5RjVGQjA3",
+                    "nim": "201931193",
+                    "nama": "ANGGITA PINASTHIKA DEWI",
+                    "pt": "SEKOLAH TINGGI TEKNIK YPLN",
+                    "prodi": "TEKNIK INFORMATIKA"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "message": "Data berhasil didapatkan!",
+    "data": {
+      "Grup Program Dosen": [
+        {
+          "id_periode": 86,
+          "nm_periode": "WORLD CLASS PROFESSOR TAHUN 2022",
+          "skema": "WCP Skema B",
+          "program": "World Class Professor",
+          "buka": "2022-04-25 00:00:00",
+          "tutup": "2022-06-18 00:00:00"
+        },
+        {
+          "id_periode": 87,
+          "nm_periode": "SAME TAHUN 2022",
+          "skema": "SAME Reguler",
+          "program": "SAME",
+          "buka": "2022-04-25 00:00:00",
+          "tutup": "2022-06-30 00:00:00"
+        },
+        {
+          "id_periode": 88,
+          "nm_periode": "POST DOCTORAL TAHUN 2022",
+          "skema": "Post Doctoral",
+          "program": "Post Doctoral",
+          "buka": "2022-04-25 00:00:00",
+          "tutup": "2022-06-30 00:00:00"
+        },
+        {
+          "id_periode": 90,
+          "nm_periode": "MAGANG DOSEN KE PERGURUAN TINGGI TAHUN 2022",
+          "skema": "Program Magang Dosen ke Perguruan Tinggi",
+          "program": "Magang Dosen",
+          "buka": "2022-04-25 00:00:00",
+          "tutup": "2022-06-18 00:00:00"
+        },
+        {
+          "id_periode": 91,
+          "nm_periode": "KEMITRAAN DOSEN LPTK DENGAN GURU DI SEKOLAH",
+          "skema": "Kemitraan Dosen LPTK dengan Guru di Sekolah",
+          "program": "Kemitraan Dosen LPTK dengan Guru Sekolah",
+          "buka": "2022-04-25 00:00:00",
+          "tutup": "2022-06-08 12:00:00"
+        },
+        {
+          "id_periode": 92,
+          "nm_periode": "PERTISAS- DETASERING TAHUN 2022",
+          "skema": "Pertisas",
+          "program": "Detasering",
+          "buka": "2022-04-25 08:00:00",
+          "tutup": "2022-06-30 00:00:00"
+        },
+        {
+          "id_periode": 93,
+          "nm_periode": "DETASER - DETASERING TAHUN 2022",
+          "skema": "Detaser",
+          "program": "Detasering",
+          "buka": "2022-04-25 09:00:00",
+          "tutup": "2022-07-10 12:00:00"
+        }
+      ]
+    }
+  }

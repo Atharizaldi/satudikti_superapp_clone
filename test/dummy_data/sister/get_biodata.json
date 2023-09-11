@@ -1,0 +1,69 @@
+{
+    "message": "Data berhasil didapatkan!",
+    "status": 200,
+    "data": {
+        "profile": {
+            "nama": "ANNA ROOSDIANA",
+            "nidn": "0011075807",
+            "jenis_kelamin": "P",
+            "tempat_lahir": "JAKARTA",
+            "tgl_lahir": "1958-07-10",
+            "usia": 64
+        },
+        "alamat_kontak": {
+            "email": "aroos@ub.ac.id",
+            "jalan": "Jl. Tepus Kaki kav 8\r\nMalang ",
+            "rt": "9",
+            "rw": "8",
+            "dusun": null,
+            "desa_kelurahan": "jatimulyo",
+            "kota_kabupaten": "Kota Malang - Prov. Jawa Timur - Indonesia",
+            "kode_pos": "65141",
+            "no_telp": "0341481159",
+            "no_hp": "082234390620"
+        },
+        "kualifikasi": {
+            "jabfung": {
+                "nama": "Asisten Ahli",
+                "angka_kredit": 150
+            },
+            "pendidikan_terakhir": "S2",
+            "kepangkatan": {
+                "golongan": "IV/b",
+                "pangkat": "Pembina Tk. I"
+            },
+            "sertifikasi_dosen": "DABB9575-19F5-49DE-BB2D-7B21E67D5BCB"
+        },
+        "kependudukan": {
+            "nik": "3573055107580003",
+            "agama": "Islam",
+            "kewarganegaraan": "ID"
+        },
+        "keluarga": {
+            "status_perkawinan": "Belum Kawin",
+            "nama_suami_istri": null,
+            "nip_suami_istri": null
+        },
+        "kepegawaian": {
+            "pembina": "PTN",
+            "nm_pt": "Universitas Brawijaya",
+            "nm_prodi": "Kimia",
+            "nip": "195807111992032002",
+            "status_kepegawaian": "PNS",
+            "status_keaktifan": "Aktif",
+            "sk_cpns": "No. 1340/PT.13.H15/C3/1992",
+            "tgl_sk_cpns": "1992-03-01",
+            "nomor_sk_tmmd": "101101906376",
+            "tgl_sk_tmmd": "1992-03-01",
+            "masa_kerja": "31.28",
+            "ikatan_kerja": "Dosen Tetap",
+            "lembaga_Angkat": "(tidak diisi)",
+            "sumber_gaji": "APBN"
+        },
+        "lain_lain": {
+            "npwp": "252199328652000",
+            "nama_wajib_pajak": "ANNA ROOSDIANA",
+            "id_sinta": "6016582"
+        }
+    }
+}

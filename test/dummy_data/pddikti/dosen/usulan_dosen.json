@@ -1,0 +1,31 @@
+{
+    "message": "Data berhasil didapatkan!",
+    "data": [
+        {
+            "id": "pB_FQDdq5WTWx96kpYTZIKbt0qqxBznX5W0YM4X2p6XvEdN5WYPOcrHhvD7lseRTyWF-Ng==",
+            "nip": "197207262000031002",
+            "nik": "8171022607720009",
+            "nama": "M. Zein Nuhuyanan",
+            "nm_ibu_kandung": "Alwia Matly",
+            "gelar_depan": "",
+            "gelar_belakang": "S.Ag, M.Si",
+            "jenis_kelamin": "L",
+            "tgl_lahir": "1972-07-26",
+            "tempat_lahir": "TUAL",
+            "surat_tugas": "ST.1-3/SK/KP.00.3/11",
+            "tgl_surat_tugas": "2000-08-01",
+            "tmt_surat_tugas": "2001-03-01",
+            "kewarganegaraan": "ID",
+            "catatan": "Semua data pendukung harus asli/legalisir. (28 Apr 2015  02:10:35) lampirkan Ijazah S-2, SK Jabtan Fungsional, Surat Pernyataan Dosen Tetap belum menyebutkan sebagai dosen perguruan tinggi apa;",
+            "jenis": "NIDN",
+            "status": "Draft     ",
+            "count_ajuan": "3",
+            "id_user": "1qEYhnoySkQ5zUgOkHGCs8Kb49SjjiuK6U0ZWgcig78_r2Y6IbFQru0Z3xOuWt9x5flhjQ==",
+            "dokumen_valid": "T",
+            "t_updateuser": "D70C4198-E2F1-422A-8895-7D6E546C5C5A",
+            "t_updateip": "10.1.200.171",
+            "t_update_time": "16-11-2015 12:06:41",
+            "t_update_act": "update"
+        }
+    ]
+}

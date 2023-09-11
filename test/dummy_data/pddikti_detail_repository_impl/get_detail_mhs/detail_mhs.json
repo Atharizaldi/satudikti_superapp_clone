@@ -1,0 +1,31 @@
+{
+    "message": "Data berhasil didapatkan!",
+    "data": {
+        "mahasiswa": [
+            {
+                "nama": "AMMAR",
+                "jenis_kelamin": "L",
+                "terdaftar": {
+                    "nim": "1213210023",
+                    "kode_pt": "031013",
+                    "nama_pt": "Universitas Pancasila",
+                    "kode_prodi": "62201",
+                    "nama_prodi": "Akuntansi",
+                    "jenjang_didik": {
+                        "id": 30,
+                        "nama": "S1"
+                    },
+                    "smt_mulai": "20131",
+                    "jenis_daftar": {
+                        "id": 1,
+                        "nama": "Peserta didik baru"
+                    },
+                    "jenis_keluar": {
+                        "id": 0,
+                        "ket": "Lulus"
+                    }
+                }
+            }
+        ]
+    }
+}

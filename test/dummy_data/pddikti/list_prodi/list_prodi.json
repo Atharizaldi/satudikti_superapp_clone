@@ -1,0 +1,23 @@
+{
+    "message": "Data berhasil didapatkan!",
+    "data": {
+        "prodi": [
+            {
+                "id": "ek4cc_BJdp33hUeE5Gf2PolJOnDHCQZw1P3kVG92Q5clImiuSKvBtMjZAXuotol3CeGPZQ==",
+                "kode": "20402",
+                "nama": "Teknik Telekomunikasi",
+                "status": "Alih Bentuk",
+                "akreditasi": "",
+                "jenjang_didik": {
+                    "id": 22,
+                    "nama": "D3"
+                },
+                "pt": {
+                    "id": "Bo7l1PE-ptMACIXZbN3phCIk_lYEP_kirH7Oh_QI4Gbj0nwpQIWs_-KRDW6cO-tUJ3GaVQ==",
+                    "kode": "064078",
+                    "nama": "Akademi Teknik Telekomunikasi"
+                }
+            }
+        ]
+    }
+}

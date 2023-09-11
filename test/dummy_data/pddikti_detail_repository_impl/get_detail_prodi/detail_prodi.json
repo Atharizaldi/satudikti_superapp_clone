@@ -1,0 +1,39 @@
+{
+    "message": "Data berhasil didapatkan!",
+    "data": {
+        "prodi": {
+            "id": "7butsNlNo0sxC96dMSaCERr6ThoYfp3_dsvGr6trw-AmtTF9Kih8fdXWdfvZdrN0ike2yg==",
+            "kode": "79201",
+            "nama": "Sastra Indonesia",
+            "status": "Aktif",
+            "deskripsi": "",
+            "visi": "",
+            "misi": "",
+            "kompetensi": "",
+            "tgl_berdiri": "1996-07-11",
+            "sk_selenggara": "152/DIKTI/KEP/2007                      ",
+            "tgl_sk_selenggara": "2007-09-21",
+            "jalan": "-",
+            "kelurahan": "",
+            "kode_pos": "",
+            "kab_kota": {
+                "id": "016000",
+                "nama": "Kota Jakarta Pusat"
+            },
+            "jenjang_didik": {
+                "id": 30,
+                "nama": "S1"
+            },
+            "pt": {
+                "id": "8vJqolm_RpQklsvqoclgm0HYZdnpeGT9Ai97YejuigPLdcGSGdzdgC8GaOoCHWY4774VBg==",
+                "kode": "001002",
+                "nama": "Universitas Indonesia",
+                "nama_singkat": ""
+            },
+            "telepon": "021-78881018        ",
+            "faksimile": "",
+            "email": "humas1@fib.ui.edu                       ",
+            "website": ""
+        }
+    }
+}

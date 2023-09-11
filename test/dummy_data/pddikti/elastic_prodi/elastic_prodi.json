@@ -1,0 +1,16 @@
+{
+    "message": "Data berhasil didapatkan!",
+    "data": {
+        "prodi": [
+            {
+                "id": "RDVEMzYwOTMtOTY1Ni00M0ZFLUJGQ0MtQzFFRDE4NzNFRUNC",
+                "nama": "Ilmu Komputer",
+                "lembaga": "Universitas Indonesia",
+                "akreditas": "Unggul",
+                "jenjang": "S1",
+                "kode_pt": "001002  ",
+                "kode_prodi": "55201"
+            }
+        ]
+    }
+}

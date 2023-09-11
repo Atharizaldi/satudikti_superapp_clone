@@ -1,0 +1,13 @@
+{
+    "message": "Data berhasil didapatkan!",
+    "data": {
+        "akreditasi": [
+            {
+                "nilai": "Unggul"
+            },
+            {
+                "nilai": "A"
+            }
+        ]
+    }
+}

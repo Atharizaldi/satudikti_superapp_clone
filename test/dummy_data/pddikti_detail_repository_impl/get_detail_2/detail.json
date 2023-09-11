@@ -1,0 +1,29 @@
+{
+    "message": "Data berhasil didapatkan!",
+    "data": {
+        "mahasiswa": {
+            "nama": "ANGGITA PINASTHIKA DEWI",
+            "jenis_kelamin": "P",
+            "terdaftar": {
+                "nim": "201931193",
+                "kode_pt": "032026",
+                "nama_pt": "Institut Teknologi Perusahaan Listrik Negara",
+                "kode_prodi": "55201",
+                "nama_prodi": "Teknik Informatika",
+                "jenjang_didik": {
+                    "id": 30,
+                    "nama": "S1"
+                },
+                "smt_mulai": "20192",
+                "jenis_daftar": {
+                    "id": 8,
+                    "nama": "Pindahan Alih Bentuk"
+                },
+                "jenis_keluar": {
+                    "id": 0,
+                    "ket": ""
+                }
+            }
+        }
+    }
+}

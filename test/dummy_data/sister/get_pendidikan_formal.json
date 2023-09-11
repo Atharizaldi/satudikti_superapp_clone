@@ -1,0 +1,20 @@
+{
+    "message": "Data berhasil didapatkan!",
+    "status": 200,
+    "data": [
+        {
+            "jenjang_didik": "S1",
+            "gelar": "Dra",
+            "bidang_studi": "Kimia",
+            "perguruan_tinggi": "Institut Teknologi Bandung",
+            "tahun_lulus": 1988
+        },
+        {
+            "jenjang_didik": "S2",
+            "gelar": "M.App.Sc",
+            "bidang_studi": "Ilmu Pangan",
+            "perguruan_tinggi": "The University Of New South Wales",
+            "tahun_lulus": 1991
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "message": "Data berhasil didapatkan!",
+    "data": {
+        "prodi": [
+            {
+                "id": "0ugStBCZCpjSndwsh6si2jDdEEqJVnCHmn1JZzotQLvBypIw3ItCqwxRobnUkmcpXf4-Vg==",
+                "kode": "55201",
+                "nama": "Teknik Informatika",
+                "status": "Alih Bentuk",
+                "deskripsi": "",
+                "visi": "<i>Terwujudnya Program Studi Strata-1 Informatika\nSTT-PLN yang modern, mandiri, mampu berkompetisi dan unggul untuk menunjang\npembangunan bangsa dan negara Indonesia di bidang Informatika khususnya, bidang\nenergi dan ketenagalistrikan pada umumnya</i>\n\n<br><br><br><br>",
+                "misi": "<ol><li><span><i>M</i><i>enyelenggara</i><i>k</i><i>an </i><i>p</i><i>endidikan </i><i>yang</i><i> profesional berlandaskan moral</i><i> dan</i><i> etika </i><i>dalam upaya</i><i> </i><i>membentuk </i><i>Sarjana yang handal </i><i>dalam\nbidang Teknologi Informasi dan mampu mendukung bidang energi dan\nketenagalistrikan serta memiliki daya saing dalam era globalisasi</i><i>.</i></span>\n\n</li><li><i>Menyelenggarakan\nmanajemen dan organisasi program studi yang efektif, efisien dan mandiri\nmengacu kepada standar penjaminan mutu yang dibakukan.</i>\n\n</li><li><span><i>Melaksanakan penelitian </i><i>di bidang</i><i> teknologi </i><i>informatika serta mendesiminasi hasil penelitian dalam upaya pendalaman dan\npengembangan ilmu pengetahuan dan teknologi.</i></span>\n\n</li><li><span><i>Menyelenggarakan\nberbagai kegiatan </i><i>Pengabdian pada Masyarakat </i><i>dalam upaya m</i><i>enumbuh</i><i> </i><i>kembangkan kepekaan dan tanggungjawab sosial segenap </i><i>c</i><i>ivitas </i><i>a</i><i>kademika.</i></span>\n</li><li><i>Menjalin kerjasama dengan berbagai pihak dalam mengembangkan institusi dan\nsumber daya manusia.</i>\n\n</li></ol>",
+                "kompetensi": "<ol><li>\n\nMampu memahami mekanisme kerja sistem komputer berikut\npemanfaatannya di berbagai bidang aplikasi.\n\n</li><li>Mampu menerjemahkan masalah pada dunia nyata menjadi\nmodel solusi berbantuan komputer dengan memanfaatkan konsep-konsep tertentu.\n\n</li><li>Mampu melakukan rancang bangun perangkat lunak dengan\nmenggunakan metode, teknik, dan alat bantu tertentu berikut\npendokumentasiannya.\n</li><li>Mempunyai sikap dan etika profesional yang tinggi\nberdasarkan ketaqwaan terhadap Tuhan YME dan kecintaan terhadap Tanah Air\n\n</li></ol><br><br><br>",
+                "tgl_berdiri": "1998-03-04",
+                "sk_selenggara": "13919/D/T/K-III/2012                    ",
+                "tgl_sk_selenggara": "2012-12-19",
+                "jalan": "Lingkar Luar Barat Duri Kosambi Cengkareng Jakarta 11750    ",
+                "kelurahan": "",
+                "kode_pos": "",
+                "kab_kota": {
+                    "id": "016200",
+                    "nama": "Kota Jakarta Barat"
+                },
+                "jenjang_didik": {
+                    "id": 30,
+                    "nama": "S1"
+                },
+                "pt": {
+                    "id": "2x5hwuB0om7OZFLS_6OYNwlckeBTrGTPNG9ALZ9mRBNBozyXrXxWeuUURNJtJ3lX1zEVjg==",
+                    "kode": "033104",
+                    "nama": "Sekolah Tinggi Teknik YPLN",
+                    "nama_singkat": ""
+                },
+                "telepon": "5440342 / 5440344   ",
+                "faksimile": "5440343             ",
+                "email": "rektorat@sttpln.ac.id",
+                "website": "http://sttpln.ac.id                     "
+            }
+        ]
+    }
+}

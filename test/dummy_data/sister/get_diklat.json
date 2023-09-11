@@ -1,0 +1,25 @@
+
+{
+    "message": "Data berhasil didapatkan!",
+    "status": 200,
+    "data": [
+        {
+            "nama": "Penulisan Artikel Ilmiah untuk Jurnal Internasional Bereputasi",
+            "jenis": "Academic Exchange",
+            "penyelenggara": "Universitas Terbuka",
+            "tahun": 2022
+        },
+        {
+            "nama": "Penulisan Artikel Jurnal Nasional Terakkreditasi",
+            "jenis": "Academic Exchange",
+            "penyelenggara": "Universitas Terbuka",
+            "tahun": 2022
+        },
+        {
+            "nama": "Penulisan Proposal Penelitian menembus Hibah DIKTI",
+            "jenis": "Academic Exchange",
+            "penyelenggara": "Universitas Terbuka",
+            "tahun": 2022
+        }
+    ]
+}

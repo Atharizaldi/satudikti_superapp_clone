@@ -1,0 +1,25 @@
+{
+    "message": "Data berhasil didapatkan",
+    "status": 200,
+    "data": [
+        {
+            "semester": "2020/2021 Genap",
+            "nama_nidn": "DOLI JUMAT RIANTO/1008128902",
+            "nama_pt": "Universitas Muara Bungo",
+            "nama_prodi": "Teknik Pertambangan",
+            "urutan": 1,
+            "tgl_pengesahan": "2021-10-08"
+        },
+        {
+            "semester": "2021/2022 Ganjil",
+            "nama_nidn": "DOLI JUMAT RIANTO/1008128902",
+            "nama_pt": "Universitas Muara Bungo",
+            "nama_prodi": "Teknik Pertambangan",
+            "urutan": 1,
+            "tgl_pengesahan": "2022-02-07"
+        }
+       
+       
+        
+    ]
+}

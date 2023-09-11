@@ -1,0 +1,3977 @@
+{
+    "message": "Data berhasil didapatkan!",
+    "status": 200,
+    "data": [
+        {
+            "semester": "2022/2023 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Teknik",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2022/2023 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Enzim",
+            "kelas": "B",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2022/2023 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Molekuler",
+            "kelas": "B",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2022/2023 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Veteriner 2",
+            "kelas": "E",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2022/2023 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Molekuler",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2022/2023 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Proyek Kimia",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "4.00"
+        },
+        {
+            "semester": "2022/2023 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Pangan",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2022/2023 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Praktikum Kimia Dasar",
+            "kelas": "B",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "1.00"
+        },
+        {
+            "semester": "2022/2023 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Praktikum Biokimia",
+            "kelas": "B",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "1.00"
+        },
+        {
+            "semester": "2022/2023 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Dasar Genetika dan Biologi Sel",
+            "kelas": "B",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2022/2023 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2022/2023 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Veteriner 1 (Makronutrient dan Metabolisme)",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2022/2023 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia dan Instrumentasi",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2022/2023 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Manajemen Laboratorium",
+            "kelas": "B",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2022/2023 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Veteriner 1 (Makronutrient dan Metabolisme)",
+            "kelas": "B",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2022/2023 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia",
+            "kelas": "B",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2022/2023 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Kimia Dasar",
+            "kelas": "B",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2022/2023 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Bioteknologi",
+            "kelas": "B",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2021/2022 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Veteriner 2",
+            "kelas": "C",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2021/2022 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Praktikum Biokimia",
+            "kelas": "C",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "1.00"
+        },
+        {
+            "semester": "2021/2022 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Pangan",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2021/2022 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Manajemen Laboratorium",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2021/2022 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Enzim",
+            "kelas": "B",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2021/2022 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Teknik",
+            "kelas": "B",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2021/2022 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Molekuler",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2021/2022 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Veteriner 1",
+            "kelas": "B",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2021/2022 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Kimia Dasar",
+            "kelas": "B",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2021/2022 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Manajemen Laboratorium",
+            "kelas": "B",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2021/2022 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Veteriner 1 (Makronutrient dan Metabolisme)",
+            "kelas": "D",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2021/2022 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Veteriner 1 (Makronutrient dan Metabolisme)",
+            "kelas": "B",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2021/2022 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2021/2022 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Kimia Biofisika",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2021/2022 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia dan Instrumentasi",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2021/2022 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Kimia Biofisika",
+            "kelas": "B",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2021/2022 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Veteriner 1 (Makronutrient dan Metabolisme)",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2021/2022 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Bioteknologi",
+            "kelas": "B",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2021/2022 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Veteriner 1 (Makronutrient dan Metabolisme)",
+            "kelas": "C",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2021/2022 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Praktikum Kimia Dasar",
+            "kelas": "B",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "1.00"
+        },
+        {
+            "semester": "2020/2021 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Enzim",
+            "kelas": "2",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2020/2021 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Veteriner 2",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2020/2021 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Pangan",
+            "kelas": "1",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2020/2021 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Praktikum Biokimia",
+            "kelas": "D",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "1.00"
+        },
+        {
+            "semester": "2020/2021 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Teknik",
+            "kelas": "2",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2020/2021 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Veteriner 2",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2020/2021 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Molekuler",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2020/2021 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Manajemen Laboratorium",
+            "kelas": "1",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2020/2021 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia dan Instrumentasi",
+            "kelas": "C",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2020/2021 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Molekuler",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2020/2021 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2020/2021 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Kimia Biofisika",
+            "kelas": "1",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2020/2021 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Veteriner 1 (Makronutrient dan Metabolisme)",
+            "kelas": "D",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2020/2021 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Kimia Dasar",
+            "kelas": "B",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2020/2021 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Kimia Biofisika",
+            "kelas": "2",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2020/2021 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Praktikum Biokimia",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "1.00"
+        },
+        {
+            "semester": "2020/2021 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Bioteknologi",
+            "kelas": "2",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2020/2021 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Praktikum Kimia Dasar",
+            "kelas": "B",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "1.00"
+        },
+        {
+            "semester": "2020/2021 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Manajemen Laboratorium",
+            "kelas": "2",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2019/2020 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Veteriner 2",
+            "kelas": "C",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2019/2020 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Teknik",
+            "kelas": "1",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2019/2020 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2019/2020 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biologi Molekuler Veteriner",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2019/2020 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Analisis Mengenai Dampak Lingkungan",
+            "kelas": "1",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2019/2020 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Enzim",
+            "kelas": "1",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2019/2020 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Bahan Pangan",
+            "kelas": "2",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2019/2020 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Manajemen Laboratorium",
+            "kelas": "1",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2019/2020 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Bioteknologi",
+            "kelas": "1",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2019/2020 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Praktikum Biokimia",
+            "kelas": "B",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "1.00"
+        },
+        {
+            "semester": "2019/2020 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Membran Biologi",
+            "kelas": "2",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2019/2020 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Kimia Biofisik",
+            "kelas": "1",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2019/2020 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Praktikum Kimia Dasar",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "1.00"
+        },
+        {
+            "semester": "2019/2020 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Kimia Dasar",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2019/2020 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Molekuler",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2019/2020 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Veteriner 1 (Makronutrient dan Metabolisme)",
+            "kelas": "D",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2019/2020 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Praktikum Biokimia",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "1.00"
+        },
+        {
+            "semester": "2019/2020 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia dan Instrumentasi",
+            "kelas": "B",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2018/2019 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Enzim",
+            "kelas": "1",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2018/2019 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Manajemen Laboratorium",
+            "kelas": "1",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2018/2019 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Teknik",
+            "kelas": "2",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2018/2019 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Veteriner 2",
+            "kelas": "B",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2018/2019 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Bahan Pangan",
+            "kelas": "1",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2018/2019 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2018/2019 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Analisis Mengenai Dampak Lingkungan",
+            "kelas": "2",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2018/2019 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biologi Molekuler Veteriner",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2018/2019 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Praktikum Biokimia",
+            "kelas": "C",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "1.00"
+        },
+        {
+            "semester": "2018/2019 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia dan Instrumentasi",
+            "kelas": "B",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2018/2019 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Bioteknologi",
+            "kelas": "1",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2018/2019 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Molekuler",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2018/2019 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia dan Instrumentasi",
+            "kelas": "B",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2018/2019 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Veteriner 1",
+            "kelas": "D",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2018/2019 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Membran Biologi",
+            "kelas": "1",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2017/2018 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Teknik",
+            "kelas": "2",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2017/2018 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Praktikum Kimia Dasar",
+            "kelas": "C",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "1.00"
+        },
+        {
+            "semester": "2017/2018 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Enzim",
+            "kelas": "1",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2017/2018 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Analisis Mengenai Dampak Lingkungan",
+            "kelas": "2",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2017/2018 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Veteriner 2",
+            "kelas": "B",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2017/2018 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Manajemen Laboratorium",
+            "kelas": "1",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2017/2018 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2017/2018 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Bahan Pangan",
+            "kelas": "1",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2017/2018 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biologi Molekuler Veteriner",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2017/2018 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Kimia Dasar",
+            "kelas": "C",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2017/2018 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "PRAKTIKUM KIMIA DASAR",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "1.00"
+        },
+        {
+            "semester": "2017/2018 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Veteriner 1",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2017/2018 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "KIMIA DASAR",
+            "kelas": "C",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2017/2018 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia dan Instrumentasi",
+            "kelas": "B",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2017/2018 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "PRAKTIKUM KIMIA DASAR",
+            "kelas": "C",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "1.00"
+        },
+        {
+            "semester": "2017/2018 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Bioteknologi",
+            "kelas": "2",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2017/2018 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Molekuler",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2017/2018 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Kimia Dasar",
+            "kelas": "C",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2016/2017 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Teknik",
+            "kelas": "2",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2016/2017 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Molekuler",
+            "kelas": "B",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2016/2017 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biologi Molekuler Veteriner",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2016/2017 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Bahan Pangan",
+            "kelas": "1",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2016/2017 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2016/2017 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia",
+            "kelas": "B",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2016/2017 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Veteriner 2",
+            "kelas": "B",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2016/2017 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia",
+            "kelas": "C",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2016/2017 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Molekuler",
+            "kelas": "C",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2016/2017 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Teknik",
+            "kelas": "1",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2016/2017 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Praktikum Kimia Dasar",
+            "kelas": "B",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "1.00"
+        },
+        {
+            "semester": "2016/2017 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Molekuler",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2016/2017 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Bioteknologi",
+            "kelas": "ABC",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2016/2017 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2016/2017 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Praktikum Biokimia Vet 1",
+            "kelas": "B",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "1.00"
+        },
+        {
+            "semester": "2016/2017 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Pengelolaan dan Pengolahan Limbah",
+            "kelas": "ABC",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2016/2017 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Medis",
+            "kelas": "2",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2016/2017 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Kimia Dasar",
+            "kelas": "B",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2016/2017 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Praktikum Biokimia Vet 1",
+            "kelas": "B",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "1.00"
+        },
+        {
+            "semester": "2016/2017 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Veteriner 1",
+            "kelas": "D",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2016/2017 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Veteriner 1",
+            "kelas": "D",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2016/2017 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Veteriner 1",
+            "kelas": "D",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2015/2016 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Kimia Bahan Makanan",
+            "kelas": "B",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2015/2016 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Enzim",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2015/2016 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biologi Molekuler Veteriner",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2015/2016 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Kimia Analisa Farmasi",
+            "kelas": "B",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2015/2016 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Veteriner 2",
+            "kelas": "B",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2015/2016 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Manajemen Laboratorium",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2015/2016 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biologi Molekuler Veteriner",
+            "kelas": "C",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2015/2016 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Kimia Bahan Makanan",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2015/2016 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biologi Molekuler Veteriner",
+            "kelas": "D",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2015/2016 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Molekuler",
+            "kelas": "B",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2015/2016 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biologi Molekuler Veteriner",
+            "kelas": "B",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2015/2016 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA TEKNIK",
+            "kelas": "AB",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2015/2016 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia dan Instrumentasi",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2015/2016 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "AMDAL",
+            "kelas": "2",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2015/2016 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA UMUM",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2015/2016 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "FERMENTASI",
+            "kelas": "1",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2015/2016 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Veteriner 1",
+            "kelas": "D",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2015/2016 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Praktikum Biokimia Vet 1",
+            "kelas": "D",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "1.00"
+        },
+        {
+            "semester": "2015/2016 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "PRAKTIKUM BIOKIMIA",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "1.00"
+        },
+        {
+            "semester": "2014/2015 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "FISIOLOGI VETERINER",
+            "kelas": "04",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "4.00"
+        },
+        {
+            "semester": "2014/2015 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "MANAJEMEN LABORATORIUM",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2014/2015 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOLOGI MOLEKULER VETERINER",
+            "kelas": "02",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2014/2015 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "PRAKTIKUM KIMIA DASAR II",
+            "kelas": "03",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2014/2015 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA MOLEKULER",
+            "kelas": "03",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2014/2015 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA VETERINER 2",
+            "kelas": "04",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2014/2015 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "KAPITA SELEKTA KIMIA",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2014/2015 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA MOLEKULER",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2014/2015 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA ENZIM",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2014/2015 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "KIMIA BAHAN MAKANAN",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2014/2015 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA VETERINER 2",
+            "kelas": "04",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2014/2015 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "KAPITA SELEKTA KIMIA",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2014/2015 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "PRAK-BIOKIMIA VETERINER 1",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "1.00"
+        },
+        {
+            "semester": "2014/2015 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA TEKNIK",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2014/2015 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "FERMENTASI",
+            "kelas": "02",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2014/2015 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "PRAK-BIOKIMIA VETERINER 1",
+            "kelas": "02",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "1.00"
+        },
+        {
+            "semester": "2014/2015 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "PRAKTIKUM BIOKIMIA",
+            "kelas": "03",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "1.00"
+        },
+        {
+            "semester": "2014/2015 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "KIMIA DASAR",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2014/2015 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "AMDAL",
+            "kelas": "02",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2014/2015 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA UMUM",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2014/2015 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "PRAK-BIOKIMIA VETERINER 1",
+            "kelas": "04",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "1.00"
+        },
+        {
+            "semester": "2014/2015 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "PRAK-BIOKIMIA VETERINER 1",
+            "kelas": "03",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "1.00"
+        },
+        {
+            "semester": "2014/2015 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA UMUM",
+            "kelas": "03",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2014/2015 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "KIMIA DASAR",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2014/2015 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA VETERINER 1",
+            "kelas": "02",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2013/2014 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "MANAJEMEN LABORATORIUM",
+            "kelas": "02",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2013/2014 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA MOLEKULER",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2013/2014 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA VETERINER 2",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2013/2014 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "PENYAKIT PARASITER",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2013/2014 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOMATERIAL",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2013/2014 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA VETERINER 2",
+            "kelas": "04",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2013/2014 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA VETERINER 2",
+            "kelas": "02",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2013/2014 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "PENYAKIT PARASITER",
+            "kelas": "03",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2013/2014 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA ENZIM",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2013/2014 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "KAPITA SELEKTA KIMIA",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2013/2014 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "IMUNOKIMIA",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "1.00"
+        },
+        {
+            "semester": "2013/2014 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA VETERINER 2",
+            "kelas": "03",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2013/2014 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "PENYAKIT PARASITER",
+            "kelas": "02",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2013/2014 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "IMUNOKIMIA",
+            "kelas": "04",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "1.00"
+        },
+        {
+            "semester": "2013/2014 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "PRAKTIKUM KIMIA DASAR II",
+            "kelas": "03",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2013/2014 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "PENYAKIT PARASITER",
+            "kelas": "04",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2013/2014 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "KIMIA BAHAN MAKANAN",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2013/2014 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "PRAK-BIOKIMIA VETERINER 1",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "1.00"
+        },
+        {
+            "semester": "2013/2014 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "KIMIA DASAR",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2013/2014 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "KAPITA SELEKTA KIMIA",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2013/2014 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "FERMENTASI",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2013/2014 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA VETERINER 1",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2013/2014 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA UMUM",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2013/2014 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "PRAKTIKUM BIOKIMIA",
+            "kelas": "02",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "1.00"
+        },
+        {
+            "semester": "2013/2014 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA TEKNIK",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2012/2013 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "KIMIA BAHAN MAKANAN",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2012/2013 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "KAPITA SELEKTA KIMIA",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2012/2013 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia dan Instrumentasi",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2012/2013 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA ENZIM",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2012/2013 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA MOLEKULER",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2012/2013 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA VETERINER 1",
+            "kelas": "04",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2012/2013 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "PRAK-BIOKIMIA VETERINER 1",
+            "kelas": "03",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "1.00"
+        },
+        {
+            "semester": "2012/2013 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "KIMIA DASAR I",
+            "kelas": "04",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2012/2013 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA VETERINER 1",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2012/2013 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "PRAK-BIOKIMIA VETERINER 1",
+            "kelas": "04",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "1.00"
+        },
+        {
+            "semester": "2012/2013 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA UMUM",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2012/2013 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "PRAK-BIOKIMIA VETERINER 1",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "1.00"
+        },
+        {
+            "semester": "2012/2013 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA VETERINER 1",
+            "kelas": "02",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2012/2013 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "FERMENTASI",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2012/2013 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "PRAK-BIOKIMIA VETERINER 1",
+            "kelas": "02",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "1.00"
+        },
+        {
+            "semester": "2012/2013 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "KAPITA SELEKTA KIMIA",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2012/2013 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA TEKNIK",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2012/2013 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "KIMIA DASAR I",
+            "kelas": "05",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2012/2013 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "PRAKTIKUM BIOKIMIA",
+            "kelas": "B",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "1.00"
+        },
+        {
+            "semester": "2012/2013 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA VETERINER 1",
+            "kelas": "03",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2011/2012 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "IMUNOKIMIA",
+            "kelas": "03",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "1.00"
+        },
+        {
+            "semester": "2011/2012 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "KAPITA SELEKTA KIMIA",
+            "kelas": "02",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2011/2012 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "IMUNOKIMIA",
+            "kelas": "02",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "1.00"
+        },
+        {
+            "semester": "2011/2012 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA VETERINER 2",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2011/2012 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "KAPITA SELEKTA KIMIA",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2011/2012 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "PENGANTAR BIOTEKNOLOGI",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2011/2012 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA VETERINER 2",
+            "kelas": "03",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2011/2012 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "KIMIA BAHAN MAKANAN",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2011/2012 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "PENYAKIT PARASITER",
+            "kelas": "03",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2011/2012 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "PENYAKIT PARASITER",
+            "kelas": "02",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2011/2012 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "IMUNOKIMIA",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "1.00"
+        },
+        {
+            "semester": "2011/2012 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "PENYAKIT PARASITER",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2011/2012 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA MOLEKULER",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2011/2012 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA VETERINER 2",
+            "kelas": "02",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2011/2012 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Membran",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2011/2012 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Enzim Lanjut",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2011/2012 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Manajemen Laboratorium Lanjut",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2011/2012 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Proses Fermentasi",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2011/2012 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "PROSES FERMENTASI",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2011/2012 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA MEMBRAN",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2011/2012 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA ENZIM LANJUT",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2011/2012 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "MANAJEMEN LABORATORIUM LANJUT",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2011/2012 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA UMUM",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2011/2012 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA VETERINER 1",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2011/2012 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "KAPITA SELEKTA KIMIA",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2011/2012 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA TEKNIK",
+            "kelas": "A",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2011/2012 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA VETERINER 1",
+            "kelas": "02",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2011/2012 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA VETERINER 1",
+            "kelas": "03",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2011/2012 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "KIMIA DASAR I",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2010/2011 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "PENGANTAR BIOTEKNOLOGI",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2010/2011 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA VETERINER 2",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2010/2011 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA VETERINER 2",
+            "kelas": "02",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2010/2011 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "KIMIA BAHAN PANGAN",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2010/2011 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "KAPITA SELEKTA KIMIA",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2010/2011 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "PENGANTAR TEKNOLOGI FERMENTASI",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2010/2011 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA MOLEKULER",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2010/2011 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Molekuler Lanjut",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2010/2011 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokonversi Limbah",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2010/2011 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA MOLEKULER LANJUT",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2010/2011 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKONVERSI LIMBAH",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2010/2011 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA VETERINER 2",
+            "kelas": "03",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2010/2011 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "MANAJEMEN LABORATORIUM LANJUT",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2010/2011 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA METABOLISME",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2010/2011 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA MEMBRAN",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2010/2011 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Proses Fermentasi",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2010/2011 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Manajemen Laboratorium Lanjut",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2010/2011 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Metabolisme",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2010/2011 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "PROSES FERMENTASI",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2010/2011 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA ENZIM LANJUT",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2010/2011 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Membran",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2010/2011 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Enzim Lanjut",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2010/2011 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "PRAKTIKUM BIOKIMIA",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "1.00"
+        },
+        {
+            "semester": "2010/2011 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA UMUM",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2010/2011 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA VETERINER 1",
+            "kelas": "03",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2010/2011 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "KAPITA SELEKTA KIMIA",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2010/2011 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "PRAK-BIOKIMIA VETERINER 1",
+            "kelas": "02",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "1.00"
+        },
+        {
+            "semester": "2010/2011 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA VETERINER 1",
+            "kelas": "02",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2010/2011 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA TEKNIK",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2010/2011 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "KIMIA DASAR",
+            "kelas": "02",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2010/2011 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "PRAK-BIOKIMIA VETERINER 1",
+            "kelas": "03",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "1.00"
+        },
+        {
+            "semester": "2010/2011 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA VETERINER 1",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2010/2011 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "PRAK-BIOKIMIA VETERINER 1",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "1.00"
+        },
+        {
+            "semester": "2009/2010 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "KAPITA SELEKTA KIMIA",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2009/2010 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA MOLEKULER",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2009/2010 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "PENGANTAR TEKNOLOGI FERMENTASI",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2009/2010 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "KIMIA BAHAN PANGAN",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2009/2010 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA VETERINER 2",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2009/2010 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "PENGANTAR BIOTEKNOLOGI",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2009/2010 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokonversi Limbah",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2009/2010 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Molekuler Lanjut",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2009/2010 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKONVERSI LIMBAH",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2009/2010 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA MOLEKULER LANJUT",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2009/2010 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Manajemen Laboratorium Lanjut",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2009/2010 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Metabolisme",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2009/2010 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA METABOLISME",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2009/2010 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Proses Fermentasi",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2009/2010 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA ENZIM LANJUT",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2009/2010 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "PROSES FERMENTASI",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2009/2010 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "MANAJEMEN LABORATORIUM LANJUT",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2009/2010 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Enzim Lanjut",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2009/2010 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "KIMIA DASAR",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2009/2010 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA UMUM",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2009/2010 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA VETERINER 1",
+            "kelas": "02",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2009/2010 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "PRAKTIKUM BIOKIMIA",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "1.00"
+        },
+        {
+            "semester": "2009/2010 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "KAPITA SELEKTA KIMIA",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2009/2010 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA TEKNIK",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2009/2010 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "KIMIA DASAR",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2008/2009 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "PENGANTAR TEKNOLOGI FERMENTASI",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2008/2009 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "KAPITA SELEKTA KIMIA",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2008/2009 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "KIMIA BAHAN PANGAN",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2008/2009 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA MOLEKULER",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2008/2009 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Molekuler Lanjut",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2008/2009 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA MOLEKULER LANJUT",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2008/2009 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKONVERSI LIMBAH",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2008/2009 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokonversi Limbah",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2008/2009 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Metabolisme",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2008/2009 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA METABOLISME",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2008/2009 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Enzim Lanjut",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2008/2009 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "MANAJEMEN LABORATORIUM LANJUT",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2008/2009 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA ENZIM LANJUT",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2008/2009 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Manajemen Laboratorium Lanjut",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2008/2009 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA TEKNIK",
+            "kelas": "1 ",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2008/2009 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA UMUM",
+            "kelas": "2 ",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2008/2009 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "FERMENTASI",
+            "kelas": "1 ",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2008/2009 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "KIMIA DASAR",
+            "kelas": "02",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2008/2009 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "KAPITA SELEKTA KIMIA",
+            "kelas": "2 ",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2008/2009 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "PRAKTIKUM BIOKIMIA",
+            "kelas": "2 ",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "1.00"
+        },
+        {
+            "semester": "2007/2008 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "KIMIA BAHAN PANGAN",
+            "kelas": "1 ",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2007/2008 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA MOLEKULER",
+            "kelas": "3 ",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2007/2008 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "KAPITA SELEKTA KIMIA",
+            "kelas": "5 ",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2007/2008 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "PENGANTAR TEKNOLOGI FERMENTASI",
+            "kelas": "2 ",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2007/2008 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokonversi Limbah",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2007/2008 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Molekuler Lanjut",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2007/2008 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Teknik Penelitian Biokimia",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2007/2008 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKONVERSI LIMBAH",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2007/2008 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "TEKNIK PENELITIAN BIOKIMIA",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2007/2008 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA MOLEKULER LANJUT",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2007/2008 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "PENGANTAR BIOTEKNOLOGI",
+            "kelas": "2 ",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2007/2008 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA ENZIM LANJUT",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2007/2008 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA METABOLISME",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2007/2008 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Enzim Lanjut",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2007/2008 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Metabolisme",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S2"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2007/2008 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "PRAKTIKUM BIOKIMIA",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "1.00"
+        },
+        {
+            "semester": "2007/2008 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA TEKNIK",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2007/2008 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA UMUM",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2007/2008 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "KIMIA DASAR",
+            "kelas": "02",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2007/2008 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "FERMENTASI",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2006/2007 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "MANAJEMEN LABORATORIUM",
+            "kelas": "4 ",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2006/2007 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "Biokimia Umum",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2006/2007 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA MOLEKULER",
+            "kelas": "1 ",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2006/2007 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA TEKNIK",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2006/2007 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA UMUM",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2006/2007 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "KAPITA SELEKTA KIMIA",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2006/2007 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "FERMENTASI",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2005/2006 (Genap)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "PENGANTAR BIOTEKNOLOGI",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2005/2006 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "KIMIA ADSORPSI DAN KATALISIS",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2005/2006 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "KIMIA STRUKTUR ANORGANIK",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2005/2006 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "PRAKTIKUM BIOKIMIA",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "1.00"
+        },
+        {
+            "semester": "2005/2006 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "KIMIA DASAR I",
+            "kelas": "F",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2005/2006 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "KIMIA DASAR I",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "3.00"
+        },
+        {
+            "semester": "2003/2004 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA MOLEKULER",
+            "kelas": "01",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        },
+        {
+            "semester": "2002/2003 (Ganjil)",
+            "perguruan_tinggi": "Universitas Brawijaya",
+            "nama_mk": "BIOKIMIA MOLEKULER",
+            "kelas": "03",
+            "unit": {
+                "nama": "Kimia",
+                "jenjang_didik": "S1"
+            },
+            "sks_ajar": "2.00"
+        }
+    ]
+}

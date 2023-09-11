@@ -1,0 +1,425 @@
+{
+    "message": "Data berhasil didapatkan!",
+    "data": {
+        "dashboard": {
+            "pt": [
+                {
+                    "kode_pt": "041068",
+                    "nama": "UNIVERSITAS BHAKTI KENCANA",
+                    "singkatan": "UNIV BHAKTI KENCANA",
+                    "akreditas": "",
+                    "alamat": ""
+                },
+                {
+                    "kode_pt": "131005",
+                    "nama": "UNIVERSITAS SERAMBI MEKKAH",
+                    "singkatan": "UNIV SERAMBI MEKKAH",
+                    "akreditas": "",
+                    "alamat": "JALAN TENGKU IMUM LUENG BATA DESA BATHOH"
+                },
+                {
+                    "kode_pt": "041056",
+                    "nama": "UNIVERSITAS SURYA",
+                    "singkatan": "UNIV SURYA",
+                    "akreditas": "",
+                    "alamat": "SCIENTIA BUSS PARK JL BOULEVARD GADING SERPONG BLOK O1 GEDUNG I TANGERANG"
+                }
+            ],
+            "prodi": [],
+            "dosen": [
+                {
+                    "nidn": "0418017101",
+                    "nama": "JUNAIDI",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "AKTUARIA"
+                },
+                {
+                    "nidn": "0428106407",
+                    "nama": "RUKMANTARA",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "AGRIBISNIS"
+                },
+                {
+                    "nidn": "0404059401",
+                    "nama": "ROSARIA",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "BIOLOGI"
+                },
+                {
+                    "nidn": "0304037704",
+                    "nama": "BURHAN PRIMANINTYO",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "ENTREPRENEURSHIP"
+                },
+                {
+                    "nidn": "0405097905",
+                    "nama": "TEDDY TRILAKSONO",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "ENTREPRENEURSHIP"
+                },
+                {
+                    "nidn": "0404078704",
+                    "nama": "JULYANA WIJAYA",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "AGRIBISNIS"
+                },
+                {
+                    "nidn": "0412088603",
+                    "nama": "ASTARI DWIRANTI",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "BIOLOGI"
+                },
+                {
+                    "nidn": "9990519418",
+                    "nama": "LIES DWIARTI",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "BIOLOGI"
+                },
+                {
+                    "nidn": "0428127802",
+                    "nama": "DESSY ALIANDRINA",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "ENTREPRENEURSHIP"
+                },
+                {
+                    "nidn": "0406097702",
+                    "nama": "JELITA ASIANPHD",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "INFORMATIKA"
+                },
+                {
+                    "nidn": "0726117302",
+                    "nama": "LUCIA KUSUMAWATI",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "BIOLOGI"
+                },
+                {
+                    "nidn": "0307017302",
+                    "nama": "FAIZAH SARI",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "ENTREPRENEURSHIP"
+                },
+                {
+                    "nidn": "0419077104",
+                    "nama": "HANDRI SANTOSO",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "INFORMATIKA"
+                },
+                {
+                    "nidn": "0427048203",
+                    "nama": "IKA NURLAILA",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "BIOLOGI"
+                },
+                {
+                    "nidn": "0409048202",
+                    "nama": "JONATHAN GULTOM",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "ENTREPRENEURSHIP"
+                },
+                {
+                    "nidn": "0406109202",
+                    "nama": "REGA PERMANA",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "BIOLOGI"
+                },
+                {
+                    "nidn": "0307078005",
+                    "nama": "SANTO",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "ILMU KOMUNIKASI"
+                },
+                {
+                    "nidn": "0406127503",
+                    "nama": "CUT DESYANA",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "AGRIBISNIS"
+                },
+                {
+                    "nidn": "0409127305",
+                    "nama": "LINDAWATI",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "TEKNIK KIMIA"
+                },
+                {
+                    "nidn": "9904212796",
+                    "nama": "DAVID SUNDORO",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "ENTREPRENEURSHIP"
+                },
+                {
+                    "nidn": "0405099402",
+                    "nama": "HAFIZHUDDIN ALI",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "ENTREPRENEURSHIP"
+                },
+                {
+                    "nidn": "0606116302",
+                    "nama": "YOHANES SURYA",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "INFORMATIKA"
+                },
+                {
+                    "nidn": "9904212802",
+                    "nama": "VALENTINE KHENG",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "BIOLOGI"
+                },
+                {
+                    "nidn": "0421067105",
+                    "nama": "SAVERINUS KAKA",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "ENTREPRENEURSHIP"
+                },
+                {
+                    "nidn": "0417108503",
+                    "nama": "HIDEA ADINUGRAHA",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "AGRIBISNIS"
+                },
+                {
+                    "nidn": "0429127006",
+                    "nama": "ARIES YUNANTO",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "ENTREPRENEURSHIP"
+                },
+                {
+                    "nidn": "0409128303",
+                    "nama": "ABEL GANDHY",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "AGRIBISNIS"
+                },
+                {
+                    "nidn": "0409038604",
+                    "nama": "ADITYO PRATOMO",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "INFORMATIKA"
+                },
+                {
+                    "nidn": "0403108503",
+                    "nama": "OKTRIANTO",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "TEKNIK KIMIA"
+                },
+                {
+                    "nidn": "0404049201",
+                    "nama": "APRILIA FITRIANI",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "TEKNOLOGI PANGAN"
+                }
+            ],
+            "mahasiswa": [
+                {
+                    "id_reg": "M0MxRTg5MkQtNEMxOS00QjZBLTgxMzQtMjIzM0UyQ0RDODUx",
+                    "nim": "1500810033",
+                    "nama": "YOSHUA",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "BIOLOGI"
+                },
+                {
+                    "id_reg": "OTU4RTg2NUQtQzY2NC00NjQ4LUFDNTAtMUNDRThGNzFENEQy",
+                    "nim": "201137532122594",
+                    "nama": "DARPIA",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "BIOLOGI"
+                },
+                {
+                    "id_reg": "QjE4QkI4QzItMTkxNi00N0Q5LUIzNUYtMUM1NDhGMTEyMkJE",
+                    "nim": "001139051350096",
+                    "nama": "NURAINI",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "AGRIBISNIS"
+                },
+                {
+                    "id_reg": "M0RDNjhCRTgtQzQ2QS00OTJBLTlBQTItMjRGQkVBMTU2NEQy",
+                    "nim": "202138627636804",
+                    "nama": "SUDARTO",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "INFORMATIKA"
+                },
+                {
+                    "id_reg": "MzJEMDk0M0MtOEQ1RS00QkZFLTg4OUMtMjEzNzE3NkI1QTM1",
+                    "nim": "1810121014",
+                    "nama": "ANDREAS",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "AGRIBISNIS"
+                },
+                {
+                    "id_reg": "QzNCMjU1QTItMEUxQi00RTM0LUE0MEItMjc5RTBDMkJDMUY2",
+                    "nim": "1810121011",
+                    "nama": "ENTIGAK",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "AGRIBISNIS"
+                },
+                {
+                    "id_reg": "MDUxNEIyNkYtM0Q4RC00OTU1LUJCMTQtMkJFRDVGNkI2RjRE",
+                    "nim": "202137090267793",
+                    "nama": "MICHAEL",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "INFORMATIKA"
+                },
+                {
+                    "id_reg": "QTc5NjIzRDItQjBGRS00MjQ5LUE4NzYtMUU5RDZERkNCNjU2",
+                    "nim": "1500810016",
+                    "nama": "ANGELINE",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "BIOLOGI"
+                },
+                {
+                    "id_reg": "QUEzMjE0N0QtMDNGOC00MzNELUI3OUEtMDUxMjhCQUUyNzVC",
+                    "nim": "1400910033",
+                    "nama": "SUDIDDO",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "INFORMATIKA"
+                },
+                {
+                    "id_reg": "QkM4RTYzRUEtMEFGQS00MTJGLTk4QzItMTg0Nzc1RDgzN0I1",
+                    "nim": "001139172381263",
+                    "nama": "SUPRIYANTO",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "AGRIBISNIS"
+                },
+                {
+                    "id_reg": "NzY5QjE1RUItNDE5My00MjQ4LTkxNzAtMTk1QUFCNzZGMDU3",
+                    "nim": "1400810022",
+                    "nama": "MELINDA",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "BIOLOGI"
+                },
+                {
+                    "id_reg": "ODVBNUM1ODQtQzNCRC00Nzk4LTk0N0UtMDBGNEUyMERCM0M0",
+                    "nim": "003135365815120",
+                    "nama": "UBAIDILLAH",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "ENTREPRENEURSHIP"
+                },
+                {
+                    "id_reg": "NjNCOUU2RkUtRUVDQS00RkRBLUE2MjEtMDA3RjIxRDYxMEJB",
+                    "nim": "1500110011",
+                    "nama": "ARDYANTO",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "AGRIBISNIS"
+                },
+                {
+                    "id_reg": "QjYxMkQ1REItQUNFOS00NTZFLThGMDItMDdENjc3MkREQjg1",
+                    "nim": "201137273520411",
+                    "nama": "MARCHELLA",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "BIOLOGI"
+                },
+                {
+                    "id_reg": "OUZCMkIwNEUtQ0U3NC00NkRDLTkxRTktNzI5MjNGQTdERUY4",
+                    "nim": "003136259199313",
+                    "nama": "YULNI",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "ENTREPRENEURSHIP"
+                },
+                {
+                    "id_reg": "NjFCRjhCOTgtNTVDMC00N0NELUIwQkYtOEIxOUY4MEE2RTkw",
+                    "nim": "202138758793913",
+                    "nama": "MUZAKKI",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "INFORMATIKA"
+                },
+                {
+                    "id_reg": "MjlCMEY2NzgtN0FDNS00MzkwLTgzNjktOEUzODREOUZERkNC",
+                    "nim": "003137604292736",
+                    "nama": "MUAZIR",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "ENTREPRENEURSHIP"
+                },
+                {
+                    "id_reg": "Njc4N0RENDgtODM0MC00RDU4LTlFRDktOEU5RDZDNDVCODVD",
+                    "nim": "1400310046",
+                    "nama": "MARGARETA",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "ENTREPRENEURSHIP"
+                },
+                {
+                    "id_reg": "QkJCOEQzRjItOTVBMy00MUMzLUE0ODUtOTNEQTExNzAwOTQ2",
+                    "nim": "001139450778253",
+                    "nama": "ROSMAWATI",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "AGRIBISNIS"
+                },
+                {
+                    "id_reg": "MERBREI3QzEtNzhFMC00NEQ5LTlENUMtNzMwMDU0ODZCNEI3",
+                    "nim": "1500310019",
+                    "nama": "FADEL",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "ENTREPRENEURSHIP"
+                },
+                {
+                    "id_reg": "OUE3RDJGNEYtODYxQy00RTBDLUE0NUMtNzJFRDVGNURGNUI0",
+                    "nim": "1500810021",
+                    "nama": "CLAIRETA",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "BIOLOGI"
+                },
+                {
+                    "id_reg": "NkZDRDI1OTctMDIwQy00NjUwLUEzQUMtN0JCNjM4QUI1QjJC",
+                    "nim": "003136884312578",
+                    "nama": "WILLIAM",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "ENTREPRENEURSHIP"
+                },
+                {
+                    "id_reg": "QUM0NjY4NjQtMTk3RS00NEUzLUE1RkQtMzc2NEJGMkM3QURC",
+                    "nim": "1500910004",
+                    "nama": "ADRIAN",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "INFORMATIKA"
+                },
+                {
+                    "id_reg": "QUZGQjYwRDktN0ExRC00ODc5LThGQjMtN0U1ODJGQUZDRjEy",
+                    "nim": "1810323017",
+                    "nama": "HENKY",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "ENTREPRENEURSHIP"
+                },
+                {
+                    "id_reg": "NjgzRkIxNTktRTIwMy00ODFGLTk2RkMtN0Y0NDQ0NTIzNkMw",
+                    "nim": "202131336142053",
+                    "nama": "HENDRYTANUDJAYA",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "INFORMATIKA"
+                },
+                {
+                    "id_reg": "MzdERDYzNTctM0U2MC00QjBBLTkwRDMtN0QyQjZDRjlCRUFE",
+                    "nim": "003131025152868",
+                    "nama": "MALINDA",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "ENTREPRENEURSHIP"
+                },
+                {
+                    "id_reg": "ODY4NzEyREUtRTIxMy00MzhBLUFEQ0EtNzdGMzA1OEJBODE3",
+                    "nim": "003136741843951",
+                    "nama": "ARSAL",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "ENTREPRENEURSHIP"
+                },
+                {
+                    "id_reg": "N0M2NjZENDctMzRFRC00MkE1LUI5MzQtNkQ2QkZEMzExQ0NE",
+                    "nim": "1400310064",
+                    "nama": "APRILIYANI",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "ENTREPRENEURSHIP"
+                },
+                {
+                    "id_reg": "NjdCRDUwRjgtRENGQS00OEY3LTg0MjgtNzBCQzQzMzBEMEU1",
+                    "nim": "1400810031",
+                    "nama": "FLORENCIA",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "BIOLOGI"
+                },
+                {
+                    "id_reg": "MEQ0RTk2MEQtNzg2OS00MjAyLTk4MjgtOTkyNEY0ODY4NDQx",
+                    "nim": "003136098371873",
+                    "nama": "IQNASIUS",
+                    "pt": "UNIVERSITAS SURYA",
+                    "prodi": "ENTREPRENEURSHIP"
+                }
+            ]
+        }
+    }
+}

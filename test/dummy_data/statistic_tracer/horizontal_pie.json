@@ -1,0 +1,32 @@
+{
+  "data": {
+    "categories": [
+      "Per PT"
+    ],
+    "series": [
+      {
+        "name": "Rata-Rata",
+        "type": "Pie",
+        "data": [
+          [
+            "Selaras",
+            16250
+          ],
+          [
+            "Tidak Selaras",
+            11671
+          ],
+          [
+            "Selaras Persentase",
+            0
+          ],
+          [
+            "Tidak Selaras Persentase",
+            0
+          ]
+        ]
+      }
+    ]
+  },
+  "message": "ok"
+}

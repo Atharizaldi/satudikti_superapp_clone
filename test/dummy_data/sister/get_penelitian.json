@@ -1,0 +1,42 @@
+{
+    "message": "Data berhasil didapatkan!",
+    "status": 200,
+    "data": {
+        "penelitian": [
+            {
+                "judul": "Mikroenkapsulasi Ekstrak Etanol Kenikir (Cosmos caudatus Kunth) Menggunakan  Gum ",
+                "tahun_kegiatan": 2022,
+                "peran": "Ketua",
+                "lokasi-kegiatan": "Laboratorium Biokimia FMIPA UB"
+            },
+            
+            {
+                "judul": "Pengembangan Potensi Kombinasi Curcumin Dan Vitamin E Sebagai Terapi Preventif D",
+                "tahun_kegiatan": 2013,
+                "peran": "Ketua",
+                "lokasi-kegiatan": null
+            }
+        ],
+        "publikasi": [
+            {
+                "judul": "Enzymatic Synthesis of Oleamide using Lipase Immobilized  in Chitosan",
+                "nama_jurnal": null,
+                "kategori_kegiatan": "Hasil penelitian atau hasil pemikiran yang Dipresentasikan secara oral dan dimuat dalam prosiding yang ",
+                "jenis_publikasi": "Prosiding seminar internasional",
+                "tanggal_terbit": "2022-11-16",
+                "peran": "Penulis",
+                "asal_data": "SISTER"
+            },
+            {
+                "judul": "Pengolahan Limbah Kotoran Ternak  Sapi Menjadi Pupuk Organik yang  Difortifikasi dengan Eco Enzim di Desa  Bendosari Kec. Sanankulon, Kab. Blitar",
+                "nama_jurnal": null,
+                "kategori_kegiatan": "Membuat/menulis karya pengabdian pada masyarakat yang tidak dipublikasikan",
+                "jenis_publikasi": "Lain-lain",
+                "tanggal_terbit": "2022-10-27",
+                "peran": "Penulis",
+                "asal_data": "SISTER"
+            }
+            
+        ]
+    }
+}
